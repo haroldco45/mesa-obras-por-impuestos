@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<script id="vibras-datos-github">/* Las noticias se leen directo de GitHub para no gastar créditos de Netlify */
+(function(){var R='mesa-obras-por-impuestos',B='https://raw.githubusercontent.com/haroldco45/'+R+'/main/',f=window.fetch.bind(window);
+window.fetch=function(i,o){try{var u=new URL(typeof i==='string'?i:(i&&i.url)||String(i),location.href),m=(o&&o.method)||(i&&i.method)||'GET';
+if(u.origin===location.origin&&m.toUpperCase()==='GET'&&/\.json$/i.test(u.pathname)&&!/manifest\.json$/i.test(u.pathname)){
+var p=u.pathname.replace(/^\/+/,'');if(/github\.io$/.test(location.hostname))p=p.replace(new RegExp('^'+R+'/'),'');
+return f(B+p+u.search,{cache:'no-store',signal:o&&o.signal}).then(function(r){if(!r.ok)throw 0;return r}).catch(function(){return f(i,o)})}}catch(e){}return f(i,o)}})();</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Mesa de Obras por Impuestos — Bajo Cauca y Nordeste</title>
+<meta name="description" content="Invitación a la Mesa de Obras por Impuestos del Bajo Cauca y Nordeste (4 de diciembre de 2026, 8 a 10 a. m., Microsoft Teams) y todo lo que pasa hoy con Obras por Impuestos en Colombia.">
+<meta name="theme-color" content="#10345C">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta property="og:title" content="Mesa de Obras por Impuestos — Bajo Cauca y Nordeste">
+<meta property="og:description" content="Viernes 4 de diciembre de 2026, 8:00 a 10:00 a. m., por Microsoft Teams. Inscríbase y entérese de cómo quedan las Obras por Impuestos para 2027.">
+<meta property="og:image" content="https://mesa-obras-por-impuestos.netlify.app/img/compartir.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://mesa-obras-por-impuestos.netlify.app/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_CO">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://mesa-obras-por-impuestos.netlify.app/img/compartir.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --azul:#10345C;--azul2:#0B2441;--cielo:#BEE1FF;--verde:#00A896;--verde2:#00806F;--amarillo:#F5B700;
+  --papel:#F3F6F9;--blanco:#fff;--tinta:#13202E;--gris:#5A6878;--linea:#D5DEE8;--rojo:#C8382E;
+  --r:18px;--sombra:0 10px 30px rgba(16,52,92,.14);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:70px}
+body{margin:0;font-family:Inter,system-ui,sans-serif;background:var(--papel);color:var(--tinta);line-height:1.55;-webkit-font-smoothing:antialiased;padding-bottom:76px}
+h1,h2,h3,.disp{font-family:Archivo,Inter,sans-serif;font-stretch:88%;line-height:1.05;margin:0}
+h2{font-size:clamp(28px,6vw,44px);font-weight:900;color:var(--azul)}
+h3{font-size:21px;font-weight:800}
+a{color:var(--verde2)}
+img{max-width:100%;display:block}
+.envol{max-width:1080px;margin:0 auto;padding:0 18px}
+section{padding:56px 0}
+.bajada{color:var(--gris);font-size:17px;max-width:760px;margin:10px 0 26px}
+.etq{display:inline-block;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--verde2);margin-bottom:10px}
+
+/* Barra superior */
+header.top{position:sticky;top:0;z-index:40;background:rgba(11,36,65,.94);backdrop-filter:blur(10px);color:#fff}
+header.top .envol{display:flex;align-items:center;gap:10px;height:60px}
+.marca{font-family:Archivo,Inter,sans-serif;font-weight:900;font-stretch:80%;font-size:18px;letter-spacing:.01em;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.marca small{display:block;font-family:Inter;font-weight:500;font-size:11px;opacity:.7;letter-spacing:.04em}
+.btn{appearance:none;border:2px solid currentColor;background:transparent;color:inherit;font:700 14px Inter;padding:9px 15px;border-radius:999px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;gap:8px;transition:transform .15s,background .2s}
+.btn:active{transform:scale(.96)}
+.btn.lleno{background:var(--verde);border-color:var(--verde);color:#fff}
+.btn.lleno:hover{background:var(--verde2);border-color:var(--verde2)}
+.btn.grande{font-size:17px;padding:15px 26px}
+.btn.claro{border-color:#fff;color:#fff}
+.btn.azul{background:var(--azul);border-color:var(--azul);color:#fff}
+.btn.borde{border-color:var(--azul);color:var(--azul)}
+.girando{animation:gira .8s linear infinite}
+@keyframes gira{to{transform:rotate(360deg)}}
+
+/* Portada */
+.portada{position:relative;min-height:88vh;display:flex;align-items:flex-end;color:#fff;overflow:hidden;background:var(--azul2)}
+.portada .fondo{position:absolute;inset:0;background:url(img/foto-mesa.jpg) center 30%/cover;animation:kb 22s ease-in-out infinite alternate;filter:saturate(1.05)}
+@keyframes kb{from{transform:scale(1.05) translate(0,0)}to{transform:scale(1.18) translate(-2%,-2%)}}
+.portada::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,36,65,.25) 0%,rgba(11,36,65,.55) 40%,rgba(11,36,65,.97) 82%)}
+.portada .envol{position:relative;z-index:2;padding-bottom:46px;padding-top:120px;width:100%}
+.chip{display:inline-block;background:var(--verde);color:#fff;font-weight:800;font-size:13px;letter-spacing:.1em;text-transform:uppercase;padding:6px 12px;border-radius:6px}
+.portada h1{font-size:clamp(44px,11vw,96px);font-weight:900;margin:14px 0 6px;text-shadow:0 4px 30px rgba(0,0,0,.35)}
+.portada .sub{font-family:Archivo,Inter,sans-serif;font-stretch:90%;font-weight:800;font-size:clamp(22px,5vw,34px);color:var(--cielo)}
+.datos{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0}
+.dato{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);backdrop-filter:blur(6px);border-radius:14px;padding:10px 16px}
+.dato b{display:block;font-family:Archivo,Inter,sans-serif;font-size:22px;font-weight:900}
+.dato span{font-size:13px;opacity:.85}
+.cuenta{display:flex;gap:8px;margin:6px 0 24px}
+.cuenta div{background:#fff;color:var(--azul);border-radius:12px;min-width:68px;text-align:center;padding:8px 6px}
+.cuenta b{display:block;font-family:Archivo,Inter,sans-serif;font-size:32px;font-weight:900;line-height:1}
+.cuenta span{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--gris)}
+.acciones{display:flex;flex-wrap:wrap;gap:10px}
+.pulso{animation:pulso 2s infinite}
+@keyframes pulso{0%{box-shadow:0 0 0 0 rgba(0,168,150,.7)}70%{box-shadow:0 0 0 16px rgba(0,168,150,0)}100%{box-shadow:0 0 0 0 rgba(0,168,150,0)}}
+
+/* Cinta */
+.cinta{background:var(--verde);color:#fff;overflow:hidden;white-space:nowrap;font-weight:700;font-size:15px}
+.cinta .rueda{display:inline-block;padding:12px 0;animation:corre 60s linear infinite}
+.cinta .rueda span{padding:0 28px;border-right:2px solid rgba(255,255,255,.35)}
+@keyframes corre{to{transform:translateX(-50%)}}
+
+/* Tarjetas */
+.rejilla{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.tarjeta{background:#fff;border-radius:var(--r);padding:22px;box-shadow:var(--sombra);position:relative;overflow:hidden}
+.tarjeta.azul{background:var(--azul);color:#fff}
+.tarjeta.azul h3{color:#fff}
+.tarjeta h3{color:var(--azul);margin-bottom:8px}
+.tarjeta p{margin:8px 0}
+.aparece{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
+.aparece.visto{opacity:1;transform:none}
+
+/* Hoy */
+.hoy-fecha{font-weight:700;color:var(--azul)}
+.vivo{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:700;color:var(--verde2)}
+.vivo::before{content:"";width:9px;height:9px;border-radius:50%;background:currentColor;animation:latido 1.3s ease-in-out infinite}
+@keyframes latido{50%{opacity:.25;transform:scale(.7)}}
+.mini{list-style:none;padding:0;margin:0}
+.mini li{padding:10px 0;border-top:1px solid var(--linea)}
+.mini a{color:var(--tinta);font-weight:600;text-decoration:none}
+.mini small{display:block;color:var(--gris);font-size:12px}
+
+/* Cifras */
+.cifras{background:var(--azul2);color:#fff}
+.cifras h2{color:#fff}
+.cifras .bajada{color:#BCD0E6}
+.num{font-family:Archivo,Inter,sans-serif;font-weight:900;font-size:clamp(40px,8vw,60px);line-height:1;color:var(--verde)}
+.num-etq{color:#D7E3F1;font-size:15px;margin-top:6px}
+.caja-num{border-left:4px solid var(--verde);padding:6px 0 6px 16px}
+.barras{margin-top:36px;background:rgba(255,255,255,.06);border-radius:var(--r);padding:22px}
+.barra{display:grid;grid-template-columns:86px 1fr 92px;align-items:center;gap:10px;margin:9px 0;font-size:14px}
+.barra .pista{height:22px;background:rgba(255,255,255,.08);border-radius:6px;overflow:hidden}
+.barra .lleno{height:100%;width:0;background:linear-gradient(90deg,var(--verde),#4FD8C7);border-radius:6px;transition:width 1.4s cubic-bezier(.2,.8,.2,1)}
+.barra.ult .lleno{background:linear-gradient(90deg,var(--amarillo),#FFD866)}
+.barra b{text-align:right;font-family:Archivo,Inter,sans-serif;font-size:16px}
+
+/* Cómo funciona */
+.pasos{counter-reset:p;display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.paso{background:#fff;border-radius:var(--r);padding:20px 20px 20px 20px;box-shadow:var(--sombra);position:relative}
+.paso::before{counter-increment:p;content:counter(p);font-family:Archivo,Inter,sans-serif;font-weight:900;font-size:54px;color:var(--verde);opacity:.25;position:absolute;right:14px;top:4px}
+.paso b{display:block;color:var(--azul);font-size:17px;margin-bottom:4px;padding-right:40px}
+.dos{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));margin-top:20px}
+
+/* Línea de tiempo */
+.linea{position:relative;margin-left:10px;padding-left:28px;border-left:3px solid var(--linea)}
+.hito{position:relative;margin:0 0 22px}
+.hito::before{content:"";position:absolute;left:-37px;top:6px;width:15px;height:15px;border-radius:50%;background:#fff;border:4px solid var(--verde)}
+.hito.ya::before{background:var(--verde)}
+.hito.futuro::before{border-color:var(--amarillo)}
+.hito .f{font-size:13px;font-weight:800;color:var(--verde2);text-transform:uppercase;letter-spacing:.06em}
+.hito.futuro .f{color:#A77C00}
+.hito h3{font-size:19px;color:var(--azul);margin:3px 0 4px}
+.hito p{margin:0;color:#334}
+
+/* Estado */
+.estado{display:inline-block;font-size:12px;font-weight:800;padding:4px 10px;border-radius:999px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.05em}
+.e-ok{background:#DDF5F1;color:var(--verde2)}
+.e-pend{background:#FFF2CC;color:#8A6500}
+.e-ojo{background:#FCE3E1;color:var(--rojo)}
+
+/* Región */
+.region{background:linear-gradient(180deg,#E7F1FA,#F3F6F9)}
+.munis{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 24px}
+.munis span{background:#fff;border:2px solid var(--azul);color:var(--azul);font-weight:700;padding:7px 13px;border-radius:999px;font-size:14px;transition:all .2s}
+.munis span:hover,.munis span.on{background:var(--azul);color:#fff}
+
+/* Noticias */
+.buscador{display:flex;gap:8px;margin-bottom:18px}
+.buscador input{flex:1;font:500 16px Inter;padding:13px 16px;border-radius:12px;border:2px solid var(--linea);background:#fff}
+.buscador input:focus{outline:none;border-color:var(--verde)}
+.noticias{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}
+.nota{background:#fff;border-radius:var(--r);overflow:hidden;box-shadow:var(--sombra);display:flex;flex-direction:column;text-decoration:none;color:var(--tinta);transition:transform .2s}
+.nota:hover{transform:translateY(-4px)}
+.nota .im{aspect-ratio:16/9;background:#C9D6E3 center/cover}
+.nota .tx{padding:14px 16px 16px}
+.nota h4{margin:0 0 6px;font-size:16px;line-height:1.3}
+.nota small{color:var(--gris);font-size:12px}
+.nueva{display:inline-block;background:var(--amarillo);color:#3A2B00;font-size:11px;font-weight:800;padding:2px 7px;border-radius:5px;margin-right:6px;text-transform:uppercase}
+
+/* Galería de fotos reales */
+.galeria{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:20px}
+.galeria a{aspect-ratio:1;background:#C9D6E3 center/cover;border-radius:12px;display:block;transition:transform .3s}
+.galeria a:hover{transform:scale(1.04)}
+
+/* Preguntas */
+.pregunta{background:#fff;border-radius:14px;padding:16px 18px;margin:10px 0;box-shadow:var(--sombra);display:flex;gap:12px;align-items:flex-start;justify-content:space-between}
+.pregunta p{margin:0;font-weight:600}
+details{background:#fff;border-radius:14px;margin:10px 0;box-shadow:var(--sombra);overflow:hidden}
+summary{cursor:pointer;padding:16px 18px;font-weight:800;color:var(--azul);list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";float:right;font-size:22px;line-height:1;color:var(--verde)}
+details[open] summary::after{content:"–"}
+details div{padding:0 18px 16px}
+
+/* Invitación */
+.invi{display:grid;gap:24px;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));align-items:start}
+.invi img{border-radius:var(--r);box-shadow:var(--sombra)}
+
+footer{background:var(--azul2);color:#C7D6E6;padding:40px 0 30px;font-size:14px}
+footer a{color:#7EE6D8}
+.fuentes{font-size:13px;columns:2 280px;column-gap:28px}
+.fuentes li{margin:0 0 6px;break-inside:avoid}
+
+/* Navegación inferior */
+nav.abajo{position:fixed;bottom:0;left:0;right:0;z-index:50;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);border-top:1px solid var(--linea);display:flex;justify-content:space-around;padding:6px 4px calc(6px + env(safe-area-inset-bottom))}
+nav.abajo a{flex:1;text-align:center;text-decoration:none;color:var(--gris);font-weight:700;font-size:12px;padding:10px 2px;border-radius:10px}
+nav.abajo a.on{color:var(--azul);background:#E7F1FA}
+.aviso{position:fixed;left:50%;bottom:90px;transform:translateX(-50%) translateY(30px);background:var(--azul);color:#fff;padding:12px 18px;border-radius:12px;font-weight:600;opacity:0;transition:all .3s;z-index:60;max-width:90vw;text-align:center}
+.aviso.ver{opacity:1;transform:translateX(-50%)}
+@media (max-width:560px){.barra{grid-template-columns:62px 1fr 78px;font-size:13px}.cuenta div{min-width:60px}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="envol">
+    <div class="marca">Obras por Impuestos al Día<small>Vibras Positivas HM</small></div>
+    <button class="btn claro" id="btnLang" aria-label="Language">EN</button>
+    <button class="btn lleno" id="btnRef" data-t="actualizar">Actualizar</button>
+  </div>
+</header>
+
+<!-- PORTADA -->
+<section class="portada" id="inicio" style="padding:0">
+  <div class="fondo" role="img" aria-label="Foto de un encuentro de la Mesa de Obras por Impuestos"></div>
+  <div class="envol">
+    <span class="chip" data-t="invitacion">Invitación</span>
+    <h1 data-t="titulo">Mesa de Obras por Impuestos</h1>
+    <div class="sub" data-t="region">Bajo Cauca y Nordeste</div>
+    <div class="datos">
+      <div class="dato"><b data-t="fechaCorta">Viernes 4 de diciembre</b><span>2026</span></div>
+      <div class="dato"><b>8:00 – 10:00 a. m.</b><span data-t="horaCo">hora de Colombia</span></div>
+      <div class="dato"><b>Microsoft Teams</b><span data-t="virtual">Modalidad virtual</span></div>
+    </div>
+    <div id="cuentaTxt" style="font-weight:700;margin-bottom:8px" data-t="faltan">Faltan</div>
+    <div class="cuenta" id="cuenta">
+      <div><b id="cD">0</b><span data-t="dias">días</span></div>
+      <div><b id="cH">0</b><span data-t="horas">horas</span></div>
+      <div><b id="cM">0</b><span data-t="min">min</span></div>
+      <div><b id="cS">0</b><span data-t="seg">seg</span></div>
+    </div>
+    <div class="acciones">
+      <a class="btn lleno grande pulso" href="https://forms.cloud.microsoft/r/RhwDGQuBYq?origin=lprLink" target="_blank" rel="noopener" data-t="inscribase">Inscríbase aquí</a>
+      <a class="btn claro" id="btnCal" target="_blank" rel="noopener" data-t="agendar">Agendar en Google Calendar</a>
+      <button class="btn claro" id="btnIcs" data-t="ics">Agregar al calendario del celular</button>
+      <button class="btn claro" id="btnCompartir" data-t="compartir">Compartir por WhatsApp</button>
+    </div>
+  </div>
+</section>
+
+<div class="cinta" aria-hidden="true"><div class="rueda" id="cinta"></div></div>
+
+<!-- HOY -->
+<section id="hoy">
+  <div class="envol">
+    <span class="etq" data-t="seActualiza">Se actualiza cada vez que entra</span>
+    <h2 data-t="hHoy">Hoy</h2>
+    <p class="bajada hoy-fecha" id="hoyFecha"></p>
+    <div class="rejilla">
+      <div class="tarjeta azul aparece">
+        <span class="etq" style="color:#7EE6D8" data-t="laMesa">La Mesa</span>
+        <h3 id="hoyMesa"></h3>
+        <p id="hoyMesaTx" style="color:#D7E3F1"></p>
+        <a class="btn lleno" href="https://forms.cloud.microsoft/r/RhwDGQuBYq?origin=lprLink" target="_blank" rel="noopener" data-t="inscribase">Inscríbase aquí</a>
+      </div>
+      <div class="tarjeta aparece">
+        <span class="etq" data-t="lasNoticias">Noticias de Obras por Impuestos</span>
+        <div class="vivo" id="estadoVivo" data-t="buscando">Buscando noticias en vivo…</div>
+        <ul class="mini" id="hoyNoticias" style="margin-top:8px"></ul>
+      </div>
+      <div class="tarjeta aparece">
+        <span class="etq" data-t="datoDia">El dato del día</span>
+        <h3 id="datoDia"></h3>
+        <p id="datoDiaTx" style="color:var(--gris)"></p>
+        <button class="btn borde" id="btnOtroDato" data-t="otroDato">Otro dato</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- INVITACIÓN -->
+<section id="invitacion" style="background:#fff">
+  <div class="envol invi">
+    <div class="aparece">
+      <span class="etq" data-t="invitacion">Invitación</span>
+      <h2 data-t="preparado">¿Ya está preparado(a) para participar en la Mesa de Obras por Impuestos?</h2>
+      <p class="bajada" data-t="inviTx1">Será un espacio para conversar sobre proyectos, conocer novedades del mecanismo e identificar oportunidades que permitan fortalecer las capacidades institucionales y comunitarias, así como impulsar iniciativas que aporten al desarrollo de nuestros territorios a través del mecanismo de Obras por Impuestos.</p>
+      <div class="rejilla" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
+        <div class="tarjeta"><h3 data-t="t1">El estado de los proyectos</h3><p data-t="t1tx">Cómo van las obras que ya se están ejecutando en la región.</p></div>
+        <div class="tarjeta"><h3 data-t="t2">Novedades y articulación</h3><p data-t="t2tx">Qué cambió en el mecanismo y cómo vincularse a él.</p></div>
+        <div class="tarjeta"><h3 data-t="t3">Iniciativas para 2027</h3><p data-t="t3tx">Los proyectos priorizados que buscan impulsar el desarrollo territorial.</p></div>
+      </div>
+      <p style="margin-top:22px"><b data-t="quienInvita">Convoca:</b> <span data-t="camara">Cámara de Comercio de Medellín para Antioquia y aliados regionales de la Mesa de Obras por Impuestos.</span></p>
+      <img src="img/camara-comercio.png" alt="Cámara de Comercio de Medellín para Antioquia" style="height:80px;box-shadow:none;border-radius:0;margin:6px 0 18px">
+      <div class="acciones">
+        <a class="btn lleno grande" href="https://forms.cloud.microsoft/r/RhwDGQuBYq?origin=lprLink" target="_blank" rel="noopener" data-t="inscribase">Inscríbase aquí</a>
+        <a class="btn borde" href="img/flyer.jpg" download="mesa-obras-por-impuestos.jpg" data-t="bajarFlyer">Descargar el flyer</a>
+      </div>
+    </div>
+    <div class="aparece"><img src="img/invitacion.png" alt="Pieza oficial de la invitación a la Mesa de Obras por Impuestos Bajo Cauca y Nordeste" loading="lazy"></div>
+  </div>
+</section>
+
+<!-- QUÉ ES -->
+<section id="quees">
+  <div class="envol">
+    <span class="etq" data-t="paraEntender">Para entender</span>
+    <h2 data-t="queEs">¿Qué es Obras por Impuestos?</h2>
+    <p class="bajada" data-t="queEsTx">Es una forma de pagar el impuesto de renta en obras. En vez de girarle toda la plata a la DIAN, una empresa puede usar hasta el 50 % de su impuesto para construir o dotar un proyecto en un municipio golpeado por el conflicto armado o la pobreza (ZOMAC y PDET). No es una donación ni un regalo de la empresa: es impuesto que se paga con obra.</p>
+    <div class="pasos">
+      <div class="paso aparece"><b data-t="p1">La ART publica el banco de proyectos</b><span data-t="p1tx">La Agencia de Renovación del Territorio reúne las iniciativas que pueden financiarse.</span></div>
+      <div class="paso aparece"><b data-t="p2">El CONFIS fija el cupo del año</b><span data-t="p2tx">El Consejo Superior de Política Fiscal decide cuánta plata del impuesto se puede ir a obras cada año.</span></div>
+      <div class="paso aparece"><b data-t="p3">La empresa escoge y se vincula</b><span data-t="p3tx">Un contribuyente de renta escoge un proyecto y lo financia y lo ejecuta.</span></div>
+      <div class="paso aparece"><b data-t="p4">Se construye con interventoría</b><span data-t="p4tx">La obra tiene seguimiento, control e interventoría cuando corresponde.</span></div>
+      <div class="paso aparece"><b data-t="p5">Se entrega y se paga el impuesto</b><span data-t="p5tx">Cuando la entidad recibe la obra a satisfacción, la obligación con la DIAN queda saldada.</span></div>
+    </div>
+    <div class="dos">
+      <div class="tarjeta aparece"><span class="estado e-ok" data-t="op1">Opción fiducia</span><h3 data-t="fiducia">Paga con obra el impuesto del año</h3><p data-t="fiduciaTx">La empresa pone en una fiducia la plata del impuesto que va a pagar con la obra. Es la opción que más se usa: en este Gobierno saliente reunió 357 proyectos por cerca de $3 billones.</p></div>
+      <div class="tarjeta aparece"><span class="estado e-ok" data-t="op2">Opción convenio</span><h3 data-t="convenio">Firma un convenio y recibe un título</h3><p data-t="convenioTx">La empresa firma un convenio con la entidad del sector, ejecuta la obra con su plata y al final recibe un Título de Renovación del Territorio (TRT) para pagar impuestos. Sumó 122 proyectos por unos $977.000 millones.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- CIFRAS -->
+<section class="cifras" id="cifras">
+  <div class="envol">
+    <span class="etq" style="color:#7EE6D8" data-t="enNumeros">En números</span>
+    <h2 data-t="cifrasT">Así va Obras por Impuestos</h2>
+    <p class="bajada" data-t="cifrasTx">Balance de la Agencia de Renovación del Territorio (agosto de 2026) y de la Gobernación de Antioquia (noviembre de 2026).</p>
+    <div class="rejilla">
+      <div class="caja-num"><div class="num" data-n="4.9" data-dec="1" data-pre="$" data-suf=" bill.">0</div><div class="num-etq" data-t="c1">invertidos desde 2018 en todo el país; el 79 % se aprobó en el Gobierno 2022–2026</div></div>
+      <div class="caja-num"><div class="num" data-n="612">0</div><div class="num-etq" data-t="c2">proyectos aprobados desde 2018</div></div>
+      <div class="caja-num"><div class="num" data-n="317">0</div><div class="num-etq" data-t="c3">empresas han usado el mecanismo, en 294 municipios</div></div>
+      <div class="caja-num"><div class="num" data-n="107">0</div><div class="num-etq" data-t="c4">proyectos en Antioquia por $1,34 billones: el primer departamento del país</div></div>
+      <div class="caja-num"><div class="num" data-n="29">0</div><div class="num-etq" data-t="c5">proyectos aprobados en Antioquia para 2026, por cerca de $350.000 millones</div></div>
+      <div class="caja-num"><div class="num" data-n="1.14" data-dec="2" data-pre="$" data-suf=" bill.">0</div><div class="num-etq" data-t="c6">cupo ordinario aprobado por el CONFIS para 2026</div></div>
+    </div>
+    <div class="barras" id="barras">
+      <h3 style="color:#fff;margin-bottom:12px" data-t="cupoAnual">Cupo anual del CONFIS (billones de pesos)</h3>
+    </div>
+    <p style="font-size:13px;color:#9FB4CB;margin-top:10px" data-t="nota1">"bill." = billones de pesos. Un billón son un millón de millones.</p>
+  </div>
+</section>
+
+<!-- LO NUEVO -->
+<section id="nuevo">
+  <div class="envol">
+    <span class="etq" data-t="actualidad">La actualidad</span>
+    <h2 data-t="loNuevo">Lo que cambió en 2026</h2>
+    <p class="bajada" data-t="loNuevoTx">El terremoto del 10 de agosto, el cambio de Gobierno el 7 de agosto y un proyecto de ley en el Congreso cambiaron el panorama de Obras por Impuestos. Esto es lo que hay que saber.</p>
+    <div class="rejilla">
+      <div class="tarjeta aparece">
+        <span class="estado e-ok" data-t="vigente">Vigente · temporal</span>
+        <h3 data-t="n1">Obras por Impuestos para la Reconstrucción</h3>
+        <p data-t="n1tx">Tras el sismo del 10 de agosto, el Gobierno declaró la Emergencia Económica (Decreto 1261 de 2026) y con el Decreto Legislativo 1389 del 9 de septiembre creó una modalidad especial para reconstruir. Funciona en cualquier municipio afectado, sea o no ZOMAC o PDET, en 16 departamentos.</p>
+        <p data-t="n1tx2">Tiene su propio banco de proyectos en la ART, sin los cortes del mecanismo de siempre, y la viabilidad se define en 15 días hábiles. El tope sigue siendo el 50 % del impuesto. Pueden entrar contribuyentes con ingresos desde 33.610 UVT (unos $1.760 millones de 2026).</p>
+      </div>
+      <div class="tarjeta aparece">
+        <span class="estado e-pend" data-t="plata2027">La plata grande llega en 2027</span>
+        <h3 data-t="n2">De $200.000 millones a $10 billones</h3>
+        <p data-t="n2tx">Para la reconstrucción hay hasta $200.000 millones de cupo en 2026 y hasta $10 billones en 2027, unas 50 veces más. La recuperación de vivienda se calcula en $19,7 billones, así que esa plata cubriría más o menos la mitad.</p>
+        <p data-t="n2tx2">Diez líneas de inversión: vivienda VIS y VIP, educación, salud, agua potable y saneamiento, energía, vías y transporte, telecomunicaciones, bienes públicos rurales, deporte y gestión del riesgo.</p>
+      </div>
+      <div class="tarjeta aparece">
+        <span class="estado e-pend" data-t="enCongreso">En el Congreso</span>
+        <h3 data-t="n3">Proyecto de Ley 211 de 2025 Cámara</h3>
+        <p data-t="n3tx">Busca darle una ley propia y permanente al mecanismo de Obras por Impuestos. Se aprobó en primer debate en la Comisión Tercera (noviembre de 2025) y el 1 de octubre de 2026 los ponentes radicaron un texto concertado para el segundo debate, trabajado con la Plataforma Obras por Impuestos (Gobernación de Antioquia, ART, academia y más de 70 empresas). Sigue en trámite en la Plenaria de la Cámara; después le falta el Senado.</p>
+        <p data-t="n3tx2">Según la ART, la iniciativa del representante Felipe Carballo busca unir las opciones fiducia y convenio y garantizar que el cupo crezca un mínimo cada año.</p>
+      </div>
+      <div class="tarjeta aparece">
+        <span class="estado e-ojo" data-t="ojo">Ojo</span>
+        <h3 data-t="n4">Lo temporal no es para siempre</h3>
+        <p data-t="n4tx">La modalidad de Reconstrucción dura lo que dure la Emergencia Económica, hasta 2027. Para volverla permanente se necesita una ley del Congreso. Además, los decretos de emergencia pasan por revisión automática de la Corte Constitucional.</p>
+        <p data-t="n4tx2">En el Senado también se radicó en 2026 un proyecto para llevar Obras por Impuestos a los municipios declarados zonas de desastre o calamidad pública.</p>
+      </div>
+      <div class="tarjeta aparece">
+        <span class="estado e-ok" data-t="regiones">Regiones y municipios</span>
+        <h3 data-t="n5">Obras por Impuestos también con impuestos locales</h3>
+        <p data-t="n5tx">Bogotá reglamentó en 2026 su propio mecanismo con impuestos distritales (Decreto 043 de 2026, por fiducia). Medellín y Antioquia propusieron que parte del predial y de Industria y Comercio también pueda ir a obras de reconstrucción, y un decreto de la emergencia permite cofinanciar proyectos nacionales con obras por impuestos territoriales.</p>
+      </div>
+      <div class="tarjeta aparece">
+        <span class="estado e-pend" data-t="nuevoGob">Nuevo Gobierno</span>
+        <h3 data-t="n6">Un cupo que se decide cada año</h3>
+        <p data-t="n6tx">El 7 de agosto de 2026 llegó un nuevo Gobierno. El cupo del mecanismo de siempre lo aprueba el CONFIS para cada año y debe respetar el Marco Fiscal. El cupo ordinario de 2027 todavía tiene que salir; por eso es clave llegar con los proyectos listos.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CÓMO QUEDARÁ -->
+<section id="quedara" style="background:#fff">
+  <div class="envol">
+    <span class="etq" data-t="loQueViene">Lo que viene</span>
+    <h2 data-t="comoQueda">¿Cómo quedará todo este asunto?</h2>
+    <p class="bajada" data-t="comoQuedaTx">Lo que ya está decidido, lo que está andando y lo que falta por definir, en orden.</p>
+    <div class="linea" id="lineaTiempo"></div>
+  </div>
+</section>
+
+<!-- REGIÓN -->
+<section class="region" id="region">
+  <div class="envol">
+    <span class="etq" data-t="nuestraRegion">Nuestra región</span>
+    <h2 data-t="bcn">Bajo Cauca y Nordeste</h2>
+    <p class="bajada" data-t="bcnTx">La subregión PDET Bajo Cauca y Nordeste Antioqueño tiene 13 municipios. Todos pueden recibir proyectos de Obras por Impuestos.</p>
+    <div class="munis" id="munis"></div>
+    <div class="rejilla">
+      <div class="tarjeta aparece"><h3 data-t="r1">Agua para Cargueros y Bijagual (Nechí)</h3><p data-t="r1tx">Acueductos para los corregimientos de Cargueros y Bijagual, con pozo, planta de tratamiento, tanques y redes nuevas. Aporte de Hidroituango cercano a $4.845 millones, aprobado para 2026.</p></div>
+      <div class="tarjeta aparece"><h3 data-t="r2">Equipos para hospitales</h3><p data-t="r2tx">345 equipos biomédicos para hospitales públicos de 21 municipios PDET de Antioquia, entre ellos Bajo Cauca y Nordeste.</p></div>
+      <div class="tarjeta aparece"><h3 data-t="r3">Puente peatonal sobre el río Cauca (Cáceres)</h3><p data-t="r3tx">250 metros de puente en Puerto Bélgica, Cáceres, hecho con Obras por Impuestos, para más de 31.000 usuarios.</p></div>
+      <div class="tarjeta aparece"><h3 data-t="r4">Fuerza Pública y emergencias</h3><p data-t="r4tx">Maquinaria y equipos de movilidad y rescate para la Fuerza Pública en 55 municipios ZOMAC de Antioquia, dentro del paquete 2026.</p></div>
+    </div>
+    <p style="margin-top:20px;color:var(--gris)" data-t="regionNota">La Mesa del 4 de diciembre presentará las iniciativas priorizadas para 2027. Si su comunidad tiene una necesidad, ese es el momento de hacerla oír.</p>
+  </div>
+</section>
+
+<!-- PREGUNTAS PARA LLEVAR -->
+<section id="preguntas">
+  <div class="envol">
+    <span class="etq" data-t="participe">Participe</span>
+    <h2 data-t="llevar">Preguntas para llevar a la Mesa</h2>
+    <p class="bajada" data-t="llevarTx">Cópielas o mándelas por WhatsApp para no llegar con las manos vacías.</p>
+    <div id="listaPreg"></div>
+  </div>
+</section>
+
+<!-- NOTICIAS -->
+<section id="noticias" style="background:#fff">
+  <div class="envol">
+    <span class="etq" data-t="robot">Robot cada 30 minutos + búsqueda en vivo</span>
+    <h2 data-t="noticiasT">Noticias de Obras por Impuestos</h2>
+    <p class="bajada" id="robotEstado"></p>
+    <div class="buscador"><input id="buscar" type="search" placeholder="Buscar: Antioquia, reconstrucción, Nechí…" aria-label="Buscar noticias"></div>
+    <div class="noticias" id="listaNoticias"></div>
+    <h3 style="margin-top:36px;color:var(--azul)" data-t="fotosObras">Fotos reales de las noticias</h3>
+    <div class="galeria" id="galeria"></div>
+  </div>
+</section>
+
+<!-- GLOSARIO -->
+<section id="glosario">
+  <div class="envol">
+    <span class="etq" data-t="palabras">Palabras claras</span>
+    <h2 data-t="glosarioT">Glosario</h2>
+    <div id="glosarioLista" style="margin-top:20px"></div>
+  </div>
+</section>
+
+<footer>
+  <div class="envol">
+    <p style="font-family:Archivo,Inter,sans-serif;font-weight:900;font-size:22px;color:#fff;margin:0 0 6px">Vibras Positivas HM</p>
+    <p data-t="pie">App ciudadana para informar. No es una página oficial de la Cámara de Comercio ni del Gobierno. Las cifras salen de las fuentes de abajo; para inscribirse use el formulario oficial.</p>
+    <p><a href="https://wa.me/573117700431" target="_blank" rel="noopener" data-t="quiereApp">¿Quiere una app así para su negocio o entidad? Escríbame al WhatsApp 311 770 0431</a></p>
+    <h3 style="color:#fff;margin:26px 0 10px;font-size:17px" data-t="fuentesT">Fuentes</h3>
+    <ul class="fuentes">
+      <li><a href="https://www.portafolio.co/economia/el-cupo-anual-de-obras-por-impuestos-paso-de-250-000-millones-a-1-1-billones-entre-2018-y-2026-con-619-proyectos-499435" target="_blank" rel="noopener">Portafolio — Balance ART de Obras por Impuestos (2 ago 2026)</a></li>
+      <li><a href="https://www.portafolio.co/economia/infraestructura/reconstruccion-por-impuestos-gobierno-proyecta-10-billones-para-2027-frente-a-200-000-millones-este-ano-505698" target="_blank" rel="noopener">Portafolio — Reconstrucción por Impuestos: $10 billones para 2027 (4 nov 2026)</a></li>
+      <li><a href="https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/" target="_blank" rel="noopener">El Universal — Cómo opera Obras por Impuestos para la Reconstrucción (2 nov 2026)</a></li>
+      <li><a href="https://www.larepublica.co/economia/estos-son-los-10-frentes-de-inversion-del-mecanismo-de-obras-por-impuestos-4479169" target="_blank" rel="noopener">La República — Los 10 frentes de inversión (11 sep 2026)</a></li>
+      <li><a href="https://orientese.co/luego-del-aval-definitivo-del-gobierno-nacional-antioquia-ejecutara-29-proyectos-mediante-obras-por-impuestos/" target="_blank" rel="noopener">Oriéntese — Antioquia ejecutará 29 proyectos (18 nov 2026)</a></li>
+      <li><a href="https://www.eltiempo.com/economia/hidroituango-es-el-mayor-contribuyente-de-obras-por-impuestos-en-colombia-con-96-220-millones-de-pesos-para-3583292" target="_blank" rel="noopener">El Tiempo — Hidroituango, mayor contribuyente de Obras por Impuestos</a></li>
+      <li><a href="https://www.camara.gov.co/mecanismo-nacional-de-obras-por-impuestos" target="_blank" rel="noopener">Cámara de Representantes — PL 211 de 2025 Cámara</a></li>
+      <li><a href="https://www.redjurista.com/Compilaciones2018/gacetasCongreso/2026/gc_1476_2026.pdf" target="_blank" rel="noopener">Gaceta del Congreso 1476 de 2026 — Enmienda para segundo debate</a></li>
+      <li><a href="https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/obras-por-impuestos-podra-aplicarse-a-proyectos-de-reconstruccion-en-zonas-afectadas-por-terremoto/" target="_blank" rel="noopener">INCP — Decreto Legislativo 1389 de 2026</a></li>
+      <li><a href="https://www.asocapitales.co/sites/default/files/files/proyectos-de-ley/editorial-20260923/pl-221-2026-c-se-amplia-el-mecanismo-de-obras-por-impuestos-a-los-municipios-declarados-como-zonas.pdf" target="_blank" rel="noopener">Asocapitales — Proyecto para zonas de desastre (2026)</a></li>
+      <li><a href="https://www.larepublica.co/especiales/crece-inversion-en-obras-por-impuestos/mineros-ha-invertido-mas-de-51-000-millones-3988383" target="_blank" rel="noopener">La República — Puente peatonal de Cáceres</a></li>
+      <li><a href="https://actualicese.com/hacienda-bogota-reglamenta-mecanismo-de-obras-por-impuestos-en-modalidad-fiducia/" target="_blank" rel="noopener">Actualícese — Bogotá reglamenta Obras por Impuestos distrital</a></li>
+    </ul>
+    <p style="margin-top:20px;font-size:12px;opacity:.7" id="pieHora"></p>
+  </div>
+</footer>
+
+<nav class="abajo">
+  <a href="#inicio" data-t="nInicio">Inicio</a>
+  <a href="#hoy" data-t="nHoy">Hoy</a>
+  <a href="#nuevo" data-t="nNuevo">Lo nuevo</a>
+  <a href="#quedara" data-t="nQueda">2027</a>
+  <a href="#noticias" data-t="nNoticias">Noticias</a>
+</nav>
+<div class="aviso" id="aviso"></div>
+
+<script>
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+const TZ = "America/Bogota";
+const FORM = "https://forms.cloud.microsoft/r/RhwDGQuBYq?origin=lprLink";
+const URL_APP = "https://mesa-obras-por-impuestos.netlify.app/";
+const INICIO = new Date("2026-12-04T08:00:00-05:00"), FIN = new Date("2026-12-04T10:00:00-05:00");
+const leer = (k,d) => { try { return localStorage.getItem(k) || d } catch(e){ return d } };
+const guardar = (k,v) => { try { localStorage.setItem(k,v) } catch(e){} };
+let LANG = leer("oxi_lang", "es");
+const L = (es,en) => LANG === "en" ? en : es;
+const esc = s => String(s??"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+const TX = {
+  actualizar:["Actualizar","Refresh"], invitacion:["Invitación","Invitation"], titulo:["Mesa de Obras por Impuestos","Works-for-Taxes Roundtable"],
+  region:["Bajo Cauca y Nordeste","Bajo Cauca & Northeast Antioquia"], fechaCorta:["Viernes 4 de diciembre","Friday, December 4"],
+  horaCo:["hora de Colombia","Colombia time"], virtual:["Modalidad virtual","Online meeting"], faltan:["Faltan","Starts in"],
+  dias:["días","days"], horas:["horas","hours"], min:["min","min"], seg:["seg","sec"],
+  inscribase:["Inscríbase aquí","Register here"], agendar:["Agendar en Google Calendar","Add to Google Calendar"],
+  ics:["Agregar al calendario del celular","Add to phone calendar"], compartir:["Compartir por WhatsApp","Share on WhatsApp"],
+  seActualiza:["Se actualiza cada vez que entra","Updates every time you open it"], hHoy:["Hoy","Today"], laMesa:["La Mesa","The Roundtable"],
+  lasNoticias:["Noticias de Obras por Impuestos","Works-for-Taxes news"], buscando:["Buscando noticias en vivo…","Searching live news…"],
+  datoDia:["El dato del día","Fact of the day"], otroDato:["Otro dato","Another fact"],
+  preparado:["¿Ya está preparado(a) para participar en la Mesa de Obras por Impuestos?","Are you ready to join the Works-for-Taxes Roundtable?"],
+  inviTx1:["Será un espacio para conversar sobre proyectos, conocer novedades del mecanismo e identificar oportunidades que permitan fortalecer las capacidades institucionales y comunitarias, así como impulsar iniciativas que aporten al desarrollo de nuestros territorios a través del mecanismo de Obras por Impuestos.","A space to talk about projects, learn what's new in the mechanism and find opportunities to strengthen institutional and community capacity, and to push initiatives that help our territories develop through the Works-for-Taxes mechanism."],
+  t1:["El estado de los proyectos","Status of the projects"], t1tx:["Cómo van las obras que ya se están ejecutando en la región.","How the works already under way in the region are doing."],
+  t2:["Novedades y articulación","News and coordination"], t2tx:["Qué cambió en el mecanismo y cómo vincularse a él.","What changed in the mechanism and how to join it."],
+  t3:["Iniciativas para 2027","Initiatives for 2027"], t3tx:["Los proyectos priorizados que buscan impulsar el desarrollo territorial.","The prioritized projects meant to boost regional development."],
+  quienInvita:["Convoca:","Hosted by:"], camara:["Cámara de Comercio de Medellín para Antioquia y aliados regionales de la Mesa de Obras por Impuestos.","The Medellín Chamber of Commerce for Antioquia and the regional partners of the Works-for-Taxes Roundtable."],
+  bajarFlyer:["Descargar el flyer","Download the flyer"], paraEntender:["Para entender","The basics"], queEs:["¿Qué es Obras por Impuestos?","What is Works-for-Taxes?"],
+  queEsTx:["Es una forma de pagar el impuesto de renta en obras. En vez de girarle toda la plata a la DIAN, una empresa puede usar hasta el 50 % de su impuesto para construir o dotar un proyecto en un municipio golpeado por el conflicto armado o la pobreza (ZOMAC y PDET). No es una donación ni un regalo de la empresa: es impuesto que se paga con obra.","It's a way to pay income tax with public works. Instead of sending all the money to the tax office (DIAN), a company can use up to 50% of its tax to build or equip a project in a town hit by armed conflict or poverty (ZOMAC and PDET areas). It isn't a donation: it's tax paid in the form of a public work."],
+  p1:["La ART publica el banco de proyectos","ART publishes the project bank"], p1tx:["La Agencia de Renovación del Territorio reúne las iniciativas que pueden financiarse.","The Territorial Renewal Agency gathers the projects that can be funded."],
+  p2:["El CONFIS fija el cupo del año","CONFIS sets the yearly ceiling"], p2tx:["El Consejo Superior de Política Fiscal decide cuánta plata del impuesto se puede ir a obras cada año.","The fiscal policy council decides how much tax money can go to works each year."],
+  p3:["La empresa escoge y se vincula","The company picks a project"], p3tx:["Un contribuyente de renta escoge un proyecto y lo financia y lo ejecuta.","An income-tax payer picks a project, funds it and builds it."],
+  p4:["Se construye con interventoría","It's built under supervision"], p4tx:["La obra tiene seguimiento, control e interventoría cuando corresponde.","The work is monitored, controlled and audited when required."],
+  p5:["Se entrega y se paga el impuesto","Delivered, tax paid"], p5tx:["Cuando la entidad recibe la obra a satisfacción, la obligación con la DIAN queda saldada.","Once the agency accepts the finished work, the tax obligation is settled."],
+  op1:["Opción fiducia","Trust option"], fiducia:["Paga con obra el impuesto del año","Pay this year's tax with a work"],
+  fiduciaTx:["La empresa pone en una fiducia la plata del impuesto que va a pagar con la obra. Es la opción que más se usa: en el Gobierno 2022–2026 reunió 357 proyectos por cerca de $3 billones.","The company puts the tax money into a trust that pays for the work. It's the most used option: 357 projects worth about COP 3 trillion under the 2022–2026 government."],
+  op2:["Opción convenio","Agreement option"], convenio:["Firma un convenio y recibe un título","Sign an agreement, get a tax certificate"],
+  convenioTx:["La empresa firma un convenio con la entidad del sector, ejecuta la obra con su plata y al final recibe un Título de Renovación del Territorio (TRT) para pagar impuestos. Sumó 122 proyectos por unos $977.000 millones.","The company signs an agreement with the sector agency, builds with its own money and then receives a Territorial Renewal Title (TRT) to pay taxes. 122 projects worth about COP 977 billion."],
+  enNumeros:["En números","By the numbers"], cifrasT:["Así va Obras por Impuestos","Works-for-Taxes so far"],
+  cifrasTx:["Balance de la Agencia de Renovación del Territorio (agosto de 2026) y de la Gobernación de Antioquia (noviembre de 2026).","Figures from the Territorial Renewal Agency (August 2026) and the Antioquia government (November 2026)."],
+  c1:["invertidos desde 2018 en todo el país; el 79 % se aprobó en el Gobierno 2022–2026","invested nationwide since 2018; 79% approved under the 2022–2026 government"],
+  c2:["proyectos aprobados desde 2018","projects approved since 2018"], c3:["empresas han usado el mecanismo, en 294 municipios","companies have used it, in 294 towns"],
+  c4:["proyectos en Antioquia por $1,34 billones: el primer departamento del país","projects in Antioquia worth COP 1.34 trillion: the top department in Colombia"],
+  c5:["proyectos aprobados en Antioquia para 2026, por cerca de $350.000 millones","projects approved in Antioquia for 2026, about COP 350 billion"],
+  c6:["cupo ordinario aprobado por el CONFIS para 2026","regular 2026 ceiling approved by CONFIS"],
+  cupoAnual:["Cupo anual del CONFIS (billones de pesos)","Yearly CONFIS ceiling (COP trillions)"],
+  nota1:['"bill." = billones de pesos. Un billón son un millón de millones.','"bill." = COP trillions (a Colombian "billón" is a million million).'],
+  actualidad:["La actualidad","What's happening"], loNuevo:["Lo que cambió en 2026","What changed in 2026"],
+  loNuevoTx:["El terremoto del 10 de agosto, el cambio de Gobierno el 7 de agosto y un proyecto de ley en el Congreso cambiaron el panorama de Obras por Impuestos. Esto es lo que hay que saber.","The August 10 earthquake, the change of government on August 7 and a bill in Congress reshaped Works-for-Taxes. Here's what you need to know."],
+  vigente:["Vigente · temporal","In force · temporary"], n1:["Obras por Impuestos para la Reconstrucción","Works-for-Taxes for Reconstruction"],
+  n1tx:["Tras el sismo del 10 de agosto, el Gobierno declaró la Emergencia Económica (Decreto 1261 de 2026) y con el Decreto Legislativo 1389 del 9 de septiembre creó una modalidad especial para reconstruir. Funciona en cualquier municipio afectado, sea o no ZOMAC o PDET, en 16 departamentos.","After the August 10 earthquake, the government declared an economic emergency (Decree 1261 of 2026) and, with Legislative Decree 1389 of September 9, created a special reconstruction mode. It works in any affected town in 16 departments, whether or not it is ZOMAC or PDET."],
+  n1tx2:["Tiene su propio banco de proyectos en la ART, sin los cortes del mecanismo de siempre, y la viabilidad se define en 15 días hábiles. El tope sigue siendo el 50 % del impuesto. Pueden entrar contribuyentes con ingresos desde 33.610 UVT (unos $1.760 millones de 2026).","It has its own project bank at ART, without the usual deadlines, and feasibility is decided in 15 business days. The cap is still 50% of the tax. Taxpayers with income from 33,610 UVT (about COP 1.76 billion in 2026) can join."],
+  plata2027:["La plata grande llega en 2027","The big money comes in 2027"], n2:["De $200.000 millones a $10 billones","From COP 200 billion to COP 10 trillion"],
+  n2tx:["Para la reconstrucción hay hasta $200.000 millones de cupo en 2026 y hasta $10 billones en 2027, unas 50 veces más. La recuperación de vivienda se calcula en $19,7 billones, así que esa plata cubriría más o menos la mitad.","Reconstruction has a ceiling of up to COP 200 billion in 2026 and up to COP 10 trillion in 2027, about 50 times more. Housing recovery is estimated at COP 19.7 trillion, so it would cover about half."],
+  n2tx2:["Diez líneas de inversión: vivienda VIS y VIP, educación, salud, agua potable y saneamiento, energía, vías y transporte, telecomunicaciones, bienes públicos rurales, deporte y gestión del riesgo.","Ten investment lines: social housing, education, health, water and sanitation, energy, roads and transport, telecom, rural public goods, sports and risk management."],
+  enCongreso:["En el Congreso","In Congress"], n3:["Proyecto de Ley 211 de 2025 Cámara","Bill 211 of 2025 (House)"],
+  n3tx:["Busca darle una ley propia y permanente al mecanismo de Obras por Impuestos. Se aprobó en primer debate en la Comisión Tercera (noviembre de 2025) y el 1 de octubre de 2026 los ponentes radicaron un texto concertado para el segundo debate, trabajado con la Plataforma Obras por Impuestos (Gobernación de Antioquia, ART, academia y más de 70 empresas). Sigue en trámite en la Plenaria de la Cámara; después le falta el Senado.","It seeks a permanent law of its own for Works-for-Taxes. It passed first debate in the Third Committee (November 2025), and on October 1, 2026 the sponsors filed an agreed text for second debate, drafted with the Works-for-Taxes Platform (Antioquia government, ART, universities and 70+ companies). It is still pending in the House floor; the Senate comes after."],
+  n3tx2:["Según la ART, la iniciativa del representante Felipe Carballo busca unir las opciones fiducia y convenio y garantizar que el cupo crezca un mínimo cada año.","According to ART, Representative Felipe Carballo's initiative would merge the trust and agreement options and guarantee a minimum yearly growth of the ceiling."],
+  ojo:["Ojo","Heads up"], n4:["Lo temporal no es para siempre","Temporary means temporary"],
+  n4tx:["La modalidad de Reconstrucción dura lo que dure la Emergencia Económica, hasta 2027. Para volverla permanente se necesita una ley del Congreso. Además, los decretos de emergencia pasan por revisión automática de la Corte Constitucional.","The Reconstruction mode lasts as long as the economic emergency, until 2027. Making it permanent requires a law. Emergency decrees also undergo automatic review by the Constitutional Court."],
+  n4tx2:["En el Senado también se radicó en 2026 un proyecto para llevar Obras por Impuestos a los municipios declarados zonas de desastre o calamidad pública.","A 2026 Senate bill would also extend Works-for-Taxes to towns declared disaster or public-calamity zones."],
+  regiones:["Regiones y municipios","Regions and cities"], n5:["Obras por Impuestos también con impuestos locales","Works-for-Taxes with local taxes too"],
+  n5tx:["Bogotá reglamentó en 2026 su propio mecanismo con impuestos distritales (Decreto 043 de 2026, por fiducia). Medellín y Antioquia propusieron que parte del predial y de Industria y Comercio también pueda ir a obras de reconstrucción, y un decreto de la emergencia permite cofinanciar proyectos nacionales con obras por impuestos territoriales.","Bogotá set up its own mechanism with district taxes in 2026 (Decree 043 of 2026, trust option). Medellín and Antioquia proposed that part of property and business taxes could also fund reconstruction, and an emergency decree allows national projects to be co-funded with local works-for-taxes."],
+  nuevoGob:["Nuevo Gobierno","New government"], n6:["Un cupo que se decide cada año","A ceiling decided every year"],
+  n6tx:["El 7 de agosto de 2026 llegó un nuevo Gobierno. El cupo del mecanismo de siempre lo aprueba el CONFIS para cada año y debe respetar el Marco Fiscal. El cupo ordinario de 2027 todavía tiene que salir; por eso es clave llegar con los proyectos listos.","A new government took office on August 7, 2026. CONFIS approves the regular ceiling each year within the fiscal framework. The 2027 regular ceiling is still pending, so having projects ready is key."],
+  loQueViene:["Lo que viene","What's next"], comoQueda:["¿Cómo quedará todo este asunto?","How will it all end up?"],
+  comoQuedaTx:["Lo que ya está decidido, lo que está andando y lo que falta por definir, en orden.","What's decided, what's under way and what's still pending, in order."],
+  nuestraRegion:["Nuestra región","Our region"], bcn:["Bajo Cauca y Nordeste","Bajo Cauca & Northeast"],
+  bcnTx:["La subregión PDET Bajo Cauca y Nordeste Antioqueño tiene 13 municipios. Todos pueden recibir proyectos de Obras por Impuestos.","The Bajo Cauca & Northeast Antioquia PDET subregion has 13 towns. All of them can receive Works-for-Taxes projects."],
+  r1:["Agua para Cargueros y Bijagual (Nechí)","Water for Cargueros and Bijagual (Nechí)"], r1tx:["Acueductos para los corregimientos de Cargueros y Bijagual, con pozo, planta de tratamiento, tanques y redes nuevas. Aporte de Hidroituango cercano a $4.845 millones, aprobado para 2026.","Water systems for the villages of Cargueros and Bijagual, with a well, treatment plant, tanks and new pipes. About COP 4.845 billion from Hidroituango, approved for 2026."],
+  r2:["Equipos para hospitales","Hospital equipment"], r2tx:["345 equipos biomédicos para hospitales públicos de 21 municipios PDET de Antioquia, entre ellos Bajo Cauca y Nordeste.","345 biomedical devices for public hospitals in 21 PDET towns of Antioquia, including Bajo Cauca and the Northeast."],
+  r3:["Puente peatonal sobre el río Cauca (Cáceres)","Footbridge over the Cauca River (Cáceres)"], r3tx:["250 metros de puente en Puerto Bélgica, Cáceres, hecho con Obras por Impuestos, para más de 31.000 usuarios.","A 250-meter bridge in Puerto Bélgica, Cáceres, built with Works-for-Taxes, serving 31,000+ users."],
+  r4:["Fuerza Pública y emergencias","Security forces and emergencies"], r4tx:["Maquinaria y equipos de movilidad y rescate para la Fuerza Pública en 55 municipios ZOMAC de Antioquia, dentro del paquete 2026.","Machinery, mobility and rescue gear for security forces in 55 ZOMAC towns of Antioquia, in the 2026 package."],
+  regionNota:["La Mesa del 4 de diciembre presentará las iniciativas priorizadas para 2027. Si su comunidad tiene una necesidad, ese es el momento de hacerla oír.","The December 4 Roundtable will present the prioritized initiatives for 2027. If your community has a need, that's the time to speak up."],
+  participe:["Participe","Take part"], llevar:["Preguntas para llevar a la Mesa","Questions to bring to the Roundtable"], llevarTx:["Cópielas o mándelas por WhatsApp para no llegar con las manos vacías.","Copy them or send them on WhatsApp so you come prepared."],
+  robot:["Robot cada 30 minutos + búsqueda en vivo","Robot every 30 minutes + live search"], noticiasT:["Noticias de Obras por Impuestos","Works-for-Taxes news"],
+  fotosObras:["Fotos reales de las noticias","Real photos from the news"], palabras:["Palabras claras","Plain words"], glosarioT:["Glosario","Glossary"],
+  pie:["App ciudadana para informar. No es una página oficial de la Cámara de Comercio ni del Gobierno. Las cifras salen de las fuentes de abajo; para inscribirse use el formulario oficial.","Citizen app to inform. Not an official page of the Chamber of Commerce or the government. Figures come from the sources below; to register, use the official form."],
+  quiereApp:["¿Quiere una app así para su negocio o entidad? Escríbame al WhatsApp 311 770 0431","Want an app like this for your business or agency? WhatsApp +57 311 770 0431"],
+  fuentesT:["Fuentes","Sources"], nInicio:["Inicio","Home"], nHoy:["Hoy","Today"], nNuevo:["Lo nuevo","What's new"], nQueda:["2027","2027"], nNoticias:["Noticias","News"]
+};
+
+const CUPOS = [["2018–2021",0.25],["2022",0.5],["2023",0.8],["2024",1.0],["2025",1.1],["2026",1.14]];
+const CINTA = [
+  ["Mesa de Obras por Impuestos: viernes 4 de diciembre, 8 a 10 a. m., por Teams","Works-for-Taxes Roundtable: Friday Dec 4, 8–10 a.m., on Teams"],
+  ["Antioquia, primer departamento del país en Obras por Impuestos","Antioquia leads Colombia in Works-for-Taxes"],
+  ["Reconstrucción: hasta $10 billones de cupo en 2027","Reconstruction: up to COP 10 trillion ceiling in 2027"],
+  ["Hasta el 50 % del impuesto de renta se puede pagar con obras","Up to 50% of income tax can be paid with works"],
+  ["$4,9 billones invertidos desde 2018","COP 4.9 trillion invested since 2018"],
+  ["PL 211 de 2025: la ley de Obras por Impuestos sigue en la Plenaria de la Cámara","Bill 211/2025 still pending in the House floor"],
+  ["Nechí: acueductos para Cargueros y Bijagual","Nechí: water systems for Cargueros and Bijagual"]
+];
+const DATOS = [
+  ["Hasta el 50 %","Up to 50%","de su impuesto de renta puede pagar una empresa con obras en municipios ZOMAC y PDET.","of its income tax a company can pay with works in ZOMAC and PDET towns."],
+  ["$10 billones","COP 10 trillion","es el cupo máximo para Obras por Impuestos de Reconstrucción en 2027, frente a $200.000 millones en 2026.","is the maximum reconstruction ceiling for 2027, versus COP 200 billion in 2026."],
+  ["15 días hábiles","15 business days","tiene la ART para dar viabilidad a un proyecto de Reconstrucción completo.","is ART's deadline to rule on a complete reconstruction project."],
+  ["107 proyectos","107 projects","tiene Antioquia desde 2018, más que cualquier otro departamento.","Antioquia has since 2018, more than any other department."],
+  ["33.610 UVT","33,610 UVT","de ingresos al año (unos $1.760 millones de 2026) se piden para entrar a la modalidad de Reconstrucción.","in yearly income (about COP 1.76 billion in 2026) are required for the reconstruction mode."],
+  ["13 municipios","13 towns","forman la subregión PDET Bajo Cauca y Nordeste Antioqueño.","make up the Bajo Cauca & Northeast PDET subregion."],
+  ["$96.220 millones","COP 96.2 billion","aporta Hidroituango para 2026: el mayor contribuyente de Obras por Impuestos del país.","Hidroituango contributes for 2026: the country's largest Works-for-Taxes contributor."],
+  ["Chocó: 13","Chocó: 13","proyectos en toda la historia, el departamento con menos. La brecha depende de cuántas empresas hay en cada región.","projects ever, the fewest of any department. The gap depends on how many companies each region has."]
+];
+const MUNIS = ["Amalfi","Anorí","Briceño","Cáceres","Caucasia","El Bagre","Ituango","Nechí","Remedios","Segovia","Tarazá","Valdivia","Zaragoza"];
+const HITOS = [
+  {f:["2018","2018"],e:"ya",t:["Arranca Obras por Impuestos","Works-for-Taxes starts"],d:["Con $250.000 millones de cupo al año hasta 2021.","With a COP 250 billion yearly ceiling through 2021."]},
+  {f:["10 de agosto de 2026","August 10, 2026"],e:"ya",t:["El terremoto","The earthquake"],d:["203.301 viviendas averiadas y 51.778 destruidas en 498 municipios de 16 departamentos.","203,301 homes damaged and 51,778 destroyed in 498 towns across 16 departments."]},
+  {f:["9 de septiembre de 2026","September 9, 2026"],e:"ya",t:["Nace Obras por Impuestos para la Reconstrucción","Reconstruction mode is created"],d:["Decreto Legislativo 1389 de 2026: banco propio, 15 días para viabilidad, diez líneas de inversión.","Legislative Decree 1389/2026: own project bank, 15-day feasibility, ten investment lines."]},
+  {f:["1 de octubre de 2026","October 1, 2026"],e:"ya",t:["Texto concertado de la ley","Agreed text of the bill"],d:["Enmienda al PL 211 de 2025 Cámara para segundo debate en la Plenaria.","Amendment to Bill 211/2025 for second debate on the House floor."]},
+  {f:["18 de noviembre de 2026","November 18, 2026"],e:"ya",t:["Antioquia: 29 proyectos aprobados","Antioquia: 29 projects approved"],d:["Cerca de $350.000 millones para 2026 en vías, agua, primera infancia, salud, educación y gestión del riesgo.","About COP 350 billion for 2026 in roads, water, early childhood, health, education and risk management."]},
+  {f:["4 de diciembre de 2026","December 4, 2026"],e:"hoyHito",t:["Mesa de Obras por Impuestos Bajo Cauca y Nordeste","Bajo Cauca & Northeast Roundtable"],d:["Estado de los proyectos, novedades e iniciativas priorizadas para 2027. 8 a 10 a. m. por Teams.","Project status, news and 2027 priorities. 8–10 a.m. on Teams."]},
+  {f:["Por definir","Pending"],e:"futuro",t:["Cupo ordinario 2027 del CONFIS","2027 regular CONFIS ceiling"],d:["Lo aprueba el CONFIS dentro del Marco Fiscal; en años anteriores se conoció entre diciembre y enero.","CONFIS approves it within the fiscal framework; in past years it was announced in December or January."]},
+  {f:["2027","2027"],e:"futuro",t:["Hasta $10 billones para reconstruir","Up to COP 10 trillion to rebuild"],d:["El grueso de la plata de la Reconstrucción está previsto para 2027. Esa modalidad dura lo que la emergencia, salvo que una ley la vuelva permanente.","Most reconstruction money is planned for 2027. That mode lasts as long as the emergency unless a law makes it permanent."]},
+  {f:["Por definir","Pending"],e:"futuro",t:["¿Ley propia de Obras por Impuestos?","A dedicated law?"],d:["El PL 211 de 2025 debe pasar la Plenaria de la Cámara y luego el Senado para convertirse en ley.","Bill 211/2025 must pass the House floor and then the Senate to become law."]}
+];
+const PREGUNTAS = [
+  ["¿Cuántos proyectos de Obras por Impuestos hay hoy en ejecución en el Bajo Cauca y el Nordeste, y cómo van?","How many Works-for-Taxes projects are under way in Bajo Cauca and the Northeast, and how are they doing?"],
+  ["¿Qué iniciativas de nuestra subregión quedaron priorizadas para 2027 y en qué municipios?","Which initiatives from our subregion were prioritized for 2027, and in which towns?"],
+  ["¿Qué municipios de la región entran en Obras por Impuestos para la Reconstrucción después del terremoto?","Which towns in the region qualify for the post-earthquake Reconstruction mode?"],
+  ["¿Cuándo cierran los cortes del banco de proyectos de 2027 y qué hace falta para inscribir una iniciativa?","When do the 2027 project-bank deadlines close, and what's needed to file an initiative?"],
+  ["¿Cómo puede una junta de acción comunal o un municipio pequeño proponer un proyecto?","How can a community board or a small town propose a project?"],
+  ["¿Dónde puede la comunidad ver el avance y la interventoría de cada obra?","Where can the community see each project's progress and audits?"],
+  ["¿Qué empresas de la región se pueden vincular y cómo las acompañan?","Which local companies can join, and how are they supported?"]
+];
+const GLOSARIO = [
+  ["ZOMAC","ZOMAC","Zonas Más Afectadas por el Conflicto Armado: 344 municipios del país donde aplica el mecanismo.","Areas Most Affected by the Armed Conflict: 344 towns where the mechanism applies."],
+  ["PDET","PDET","Programas de Desarrollo con Enfoque Territorial, nacidos del Acuerdo de Paz. El Bajo Cauca y Nordeste es una de sus subregiones.","Territorial Development Programs created by the Peace Agreement. Bajo Cauca & Northeast is one of its subregions."],
+  ["ART","ART","Agencia de Renovación del Territorio. Maneja el banco de proyectos de Obras por Impuestos.","Territorial Renewal Agency. Runs the Works-for-Taxes project bank."],
+  ["CONFIS","CONFIS","Consejo Superior de Política Fiscal. Aprueba cada año el cupo máximo del mecanismo.","Fiscal policy council. Approves the yearly maximum ceiling."],
+  ["Cupo","Ceiling","Plata máxima del impuesto de renta que se puede pagar con obras en un año.","Maximum income-tax money that can be paid with works in a year."],
+  ["Fiducia","Trust option","Opción en la que la empresa paga el impuesto del año poniendo la plata en una fiducia que financia la obra.","Option where the company pays the year's tax into a trust that funds the work."],
+  ["Convenio y TRT","Agreement and TRT","Opción en la que la empresa ejecuta con su plata y recibe un Título de Renovación del Territorio para pagar impuestos.","Option where the company builds with its money and receives a Territorial Renewal Title to pay taxes."],
+  ["UVT","UVT","Unidad de Valor Tributario. En 2026 vale $52.374.","Tax Value Unit. In 2026 it is worth COP 52,374."],
+  ["Interventoría","Audit/Supervision","Supervisión técnica independiente que revisa que la obra se haga bien.","Independent technical supervision that checks the work is done right."]
+];
+
+/* ===== Idioma ===== */
+function idioma(){
+  document.documentElement.lang = LANG;
+  $$("[data-t]").forEach(e => { const t = TX[e.dataset.t]; if (t) e.textContent = LANG === "en" ? t[1] : t[0]; });
+  $("#btnLang").textContent = LANG === "en" ? "ES" : "EN";
+  $("#buscar").placeholder = L("Buscar: Antioquia, reconstrucción, Nechí…","Search: Antioquia, reconstruction, Nechí…");
+  pintarTodo();
+}
+$("#btnLang").onclick = () => { LANG = LANG === "en" ? "es" : "en"; guardar("oxi_lang", LANG); idioma(); };
+
+const fmt = (d,o) => new Intl.DateTimeFormat(LANG==="en"?"en-US":"es-CO",{timeZone:TZ,...o}).format(d);
+const diaCO = d => new Intl.DateTimeFormat("en-CA",{timeZone:TZ,year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date(d));
+const hace = s => { const m = Math.round((Date.now()-new Date(s))/60000); if (m<60) return L(`hace ${Math.max(1,m)} min`,`${Math.max(1,m)} min ago`); const h = Math.round(m/60); if (h<24) return L(`hace ${h} h`,`${h} h ago`); const d = Math.round(h/24); return L(`hace ${d} día${d>1?"s":""}`,`${d} day${d>1?"s":""} ago`); };
+function aviso(t){ const a = $("#aviso"); a.textContent = t; a.classList.add("ver"); clearTimeout(a._t); a._t = setTimeout(()=>a.classList.remove("ver"), 2600); }
+
+/* ===== Cuenta regresiva y Hoy ===== */
+function reloj(){
+  const ahora = new Date(), ms = INICIO - ahora;
+  if (ms > 0){
+    const s = Math.floor(ms/1000);
+    $("#cD").textContent = Math.floor(s/86400); $("#cH").textContent = Math.floor(s%86400/3600);
+    $("#cM").textContent = Math.floor(s%3600/60); $("#cS").textContent = s%60;
+    $("#cuentaTxt").textContent = L("Faltan","Starts in"); $("#cuenta").style.display = "flex";
+  } else {
+    $("#cuenta").style.display = "none";
+    $("#cuentaTxt").textContent = ahora < FIN ? L("La Mesa está en curso en este momento.","The Roundtable is live right now.") : L("La Mesa ya se realizó. Siga aquí las noticias de lo que viene para 2027.","The Roundtable already took place. Follow the news about 2027 here.");
+  }
+  $("#hoyFecha").textContent = L("Hoy es ","Today is ") + fmt(ahora,{weekday:"long",day:"numeric",month:"long",year:"numeric",hour:"numeric",minute:"2-digit",second:"2-digit"}) + L(" (hora de Colombia).", " (Colombia time).");
+}
+function pintarHoyMesa(){
+  const ahora = new Date(), hoy = diaCO(ahora), dMesa = diaCO(INICIO);
+  const dias = Math.round((new Date(dMesa+"T12:00:00-05:00") - new Date(hoy+"T12:00:00-05:00"))/86400000);
+  let t, x;
+  if (dias > 1){ t = L(`Faltan ${dias} días para la Mesa`,`${dias} days to the Roundtable`); x = L("Inscríbase con tiempo: el enlace de Teams llega a quienes llenen el formulario.","Register early: the Teams link goes to those who fill in the form."); }
+  else if (dias === 1){ t = L("La Mesa es mañana","The Roundtable is tomorrow"); x = L("Mañana viernes a las 8:00 a. m. Tenga listas sus preguntas.","Tomorrow, Friday, at 8:00 a.m. Have your questions ready."); }
+  else if (dias === 0){ t = ahora < INICIO ? L("La Mesa es hoy a las 8:00 a. m.","The Roundtable is today at 8:00 a.m.") : ahora < FIN ? L("La Mesa está en vivo","The Roundtable is live") : L("La Mesa terminó hoy","The Roundtable ended today"); x = L("Por Microsoft Teams, de 8:00 a 10:00 a. m.","On Microsoft Teams, 8:00–10:00 a.m."); }
+  else { t = L(`La Mesa se realizó hace ${-dias} día${dias<-1?"s":""}`,`The Roundtable was ${-dias} day${dias<-1?"s":""} ago`); x = L("Siga las noticias sobre las iniciativas priorizadas para 2027.","Follow the news about the 2027 priorities."); }
+  $("#hoyMesa").textContent = t; $("#hoyMesaTx").textContent = x;
+}
+let idxDato = null;
+function pintarDato(sig){
+  if (idxDato === null){ const n = Math.floor((new Date(diaCO(new Date())) - new Date("2026-01-01"))/86400000); idxDato = ((n % DATOS.length)+DATOS.length)%DATOS.length; }
+  if (sig) idxDato = (idxDato+1) % DATOS.length;
+  const d = DATOS[idxDato]; $("#datoDia").textContent = L(d[0],d[1]); $("#datoDiaTx").textContent = L(d[2],d[3]);
+}
+$("#btnOtroDato").onclick = () => pintarDato(true);
+
+/* ===== Noticias ===== */
+let NOTICIAS = {actualizado:null, noticias:[]};
+const NO_CO = /per[uú]\b|proinversi|\bS\/\s?\d|lima\b|soles\b|ecuador|chile\b|paraguay\b/i;
+const ES_OXI = /obras? por impuesto|\boxi\b|renovaci[oó]n del territorio/i;
+async function cargarNoticias(){
+  try{ const r = await fetch("data/noticias.json?v="+Date.now(), {cache:"no-store"}); if (r.ok) NOTICIAS = await r.json(); }catch(e){}
+  NOTICIAS.noticias = (NOTICIAS.noticias||[]).filter(n => !NO_CO.test(n.titulo));
+}
+async function noticiasEnVivo(){
+  const q = encodeURIComponent('"obras por impuestos"');
+  const u = `https://api.gdeltproject.org/api/v2/doc/doc?query=${q}&mode=artlist&format=json&maxrecords=50&sort=datedesc&timespan=30d&sourcecountry=CO`;
+  try{
+    const ctl = new AbortController(); setTimeout(()=>ctl.abort(), 9000);
+    const r = await fetch(u, {signal:ctl.signal, cache:"no-store"}); if(!r.ok) return [];
+    const j = JSON.parse(await r.text());
+    return (j.articles||[]).map(a => { const m = String(a.seendate||"").match(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/);
+      return {titulo:a.title, url:a.url, fuente:String(a.domain||"").replace(/^www\./,""), fecha: m?`${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}Z`:null, imagen:a.socialimage||null, vivo:true}; })
+      .filter(n => n.titulo && n.fecha && ES_OXI.test(n.titulo) && !NO_CO.test(n.titulo));
+  }catch(e){ return []; }
+}
+const claveT = t => String(t).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9 ]/g,"").slice(0,70);
+function unir(extra){
+  const vistos = new Set(NOTICIAS.noticias.map(n => claveT(n.titulo))); let nuevas = 0;
+  for (const n of extra){ const k = claveT(n.titulo); if (vistos.has(k)) continue; vistos.add(k); NOTICIAS.noticias.push(n); nuevas++; }
+  NOTICIAS.noticias.sort((a,b) => new Date(b.fecha) - new Date(a.fecha)); return nuevas;
+}
+function pintarHoyNoticias(){
+  const hoy = diaCO(new Date()), lista = NOTICIAS.noticias;
+  let deHoy = lista.filter(n => diaCO(n.fecha) === hoy);
+  const tit = deHoy.length ? L(`${deHoy.length} noticia${deHoy.length>1?"s":""} de hoy`,`${deHoy.length} stor${deHoy.length>1?"ies":"y"} today`) : L("Hoy no hay noticias nuevas. Lo último:","No new stories today. Latest:");
+  if (!deHoy.length) deHoy = lista.slice(0,4);
+  $("#hoyNoticias").innerHTML = lista.length ? `<li style="border:0;padding-top:0"><b>${esc(tit)}</b></li>` + deHoy.slice(0,5).map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a><small>${esc(n.fuente||"")} · ${hace(n.fecha)}</small></li>`).join("") : `<li style="border:0">${L("El robot está juntando las primeras noticias.","The robot is gathering the first stories.")}</li>`;
+}
+function pintarNoticias(){
+  const q = claveT($("#buscar").value.trim()), hoy = diaCO(new Date());
+  const lista = NOTICIAS.noticias.filter(n => !q || claveT(n.titulo + " " + (n.resumen||"") + " " + (n.fuente||"")).includes(q)).slice(0,60);
+  $("#listaNoticias").innerHTML = lista.length ? lista.map(n => `<a class="nota aparece visto" href="${esc(n.url)}" target="_blank" rel="noopener">
+      <div class="im" ${n.imagen?`style="background-image:url('${esc(n.imagen)}')"`:""}></div>
+      <div class="tx"><h4>${diaCO(n.fecha)===hoy?`<span class="nueva">${L("Hoy","Today")}</span>`:""}${esc(n.titulo)}</h4><small>${esc(n.fuente||"")} · ${fmt(new Date(n.fecha),{day:"numeric",month:"short",year:"numeric"})}</small></div></a>`).join("")
+    : `<p>${q ? L("Nada con esa búsqueda.","Nothing matches that search.") : L("Todavía no hay noticias cargadas. El robot las trae apenas corra en GitHub y, si hay internet, también se buscan en vivo.","No news loaded yet. The robot brings them as soon as it runs on GitHub; with internet they're also searched live.")}</p>`;
+  const fotos = NOTICIAS.noticias.filter(n => n.imagen).slice(0,18);
+  $("#galeria").innerHTML = fotos.map(n => `<a href="${esc(n.url)}" target="_blank" rel="noopener" title="${esc(n.titulo)}" style="background-image:url('${esc(n.imagen)}')"></a>`).join("") || `<p style="grid-column:1/-1;color:var(--gris)">${L("Las fotos aparecen cuando el robot traiga las noticias.","Photos appear once the robot brings the news.")}</p>`;
+  $("#robotEstado").textContent = NOTICIAS.actualizado ? L(`El robot revisó por última vez ${hace(NOTICIAS.actualizado)} (${fmt(new Date(NOTICIAS.actualizado),{day:"numeric",month:"short",hour:"numeric",minute:"2-digit"})}, hora Colombia). ${NOTICIAS.noticias.length} noticias guardadas.`,`The robot last checked ${hace(NOTICIAS.actualizado)} (${fmt(new Date(NOTICIAS.actualizado),{day:"numeric",month:"short",hour:"numeric",minute:"2-digit"})}, Colombia time). ${NOTICIAS.noticias.length} stories saved.`) : L("El robot revisa cada 30 minutos en GitHub.","The robot checks every 30 minutes on GitHub.");
+}
+$("#buscar").addEventListener("input", pintarNoticias);
+
+/* ===== Secciones fijas ===== */
+function pintarFijas(){
+  const r = CINTA.map(c => `<span>${esc(L(c[0],c[1]))}</span>`).join(""); $("#cinta").innerHTML = r + r;
+  const max = 10, b = $("#barras"); b.querySelectorAll(".barra").forEach(x=>x.remove());
+  const tope = Math.max(...CUPOS.map(c=>c[1]));
+  CUPOS.forEach((c,i) => b.insertAdjacentHTML("beforeend", `<div class="barra ${i===CUPOS.length-1?"ult":""}"><span>${c[0]}</span><div class="pista"><div class="lleno" data-w="${(c[1]/tope*100).toFixed(1)}"></div></div><b>$${c[1].toLocaleString(LANG==="en"?"en-US":"es-CO",{minimumFractionDigits:2})}</b></div>`));
+  if (b.classList.contains("visto")) llenarBarras();
+  $("#lineaTiempo").innerHTML = HITOS.map(h => `<div class="hito ${h.e==="ya"?"ya":h.e==="futuro"?"futuro":""} aparece visto"><div class="f">${esc(L(h.f[0],h.f[1]))}</div><h3>${esc(L(h.t[0],h.t[1]))}</h3><p>${esc(L(h.d[0],h.d[1]))}</p></div>`).join("");
+  $("#munis").innerHTML = MUNIS.map(m => `<span>${m}</span>`).join("");
+  $("#listaPreg").innerHTML = PREGUNTAS.map((p,i) => `<div class="pregunta aparece visto"><p>${esc(L(p[0],p[1]))}</p><button class="btn borde" data-p="${i}">${L("Copiar","Copy")}</button></div>`).join("") +
+    `<div class="acciones" style="margin-top:16px"><a class="btn azul" id="btnPregWa" target="_blank" rel="noopener">${L("Enviar todas por WhatsApp","Send all on WhatsApp")}</a></div>`;
+  $("#btnPregWa").href = "https://wa.me/?text=" + encodeURIComponent(L("Preguntas para la Mesa de Obras por Impuestos Bajo Cauca y Nordeste (4 dic 2026):\n\n","Questions for the Works-for-Taxes Roundtable (Dec 4, 2026):\n\n") + PREGUNTAS.map((p,i)=>`${i+1}. ${L(p[0],p[1])}`).join("\n") + "\n\n" + URL_APP);
+  $$("#listaPreg [data-p]").forEach(b => b.onclick = async () => { try{ await navigator.clipboard.writeText(L(PREGUNTAS[b.dataset.p][0],PREGUNTAS[b.dataset.p][1])); aviso(L("Pregunta copiada","Question copied")); }catch(e){ aviso(L("No se pudo copiar","Couldn't copy")); } });
+  $("#glosarioLista").innerHTML = GLOSARIO.map(g => `<details><summary>${esc(L(g[0],g[1]))}</summary><div>${esc(L(g[2],g[3]))}</div></details>`).join("");
+  $("#pieHora").textContent = L("Abierta el ","Opened on ") + fmt(new Date(),{day:"numeric",month:"long",year:"numeric",hour:"numeric",minute:"2-digit"}) + L(" (hora de Colombia). Datos revisados el 23 de noviembre de 2026."," (Colombia time). Data checked on November 23, 2026.");
+}
+function llenarBarras(){ $$("#barras .lleno").forEach((x,i) => setTimeout(()=> x.style.width = x.dataset.w+"%", i*140)); }
+
+/* ===== Calendario y compartir ===== */
+function enlaces(){
+  const tit = L("Mesa de Obras por Impuestos — Bajo Cauca y Nordeste","Works-for-Taxes Roundtable — Bajo Cauca & Northeast");
+  const det = L("Encuentro virtual por Microsoft Teams. Inscripción: ","Online meeting on Microsoft Teams. Register: ") + FORM + "\n\n" + L("Información: ","Info: ") + URL_APP;
+  $("#btnCal").href = "https://calendar.google.com/calendar/render?action=TEMPLATE&text=" + encodeURIComponent(tit) + "&dates=20261204T130000Z/20261204T150000Z&ctz=America/Bogota&details=" + encodeURIComponent(det) + "&location=" + encodeURIComponent("Microsoft Teams");
+}
+$("#btnIcs").onclick = () => {
+  const ics = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Vibras Positivas HM//Mesa OxI//ES","BEGIN:VEVENT","UID:mesa-oxi-bajocauca-20261204@vibraspositivashm","DTSTAMP:20261123T143000Z","DTSTART:20261204T130000Z","DTEND:20261204T150000Z",
+    "SUMMARY:Mesa de Obras por Impuestos — Bajo Cauca y Nordeste","LOCATION:Microsoft Teams","DESCRIPTION:Inscripción: "+FORM+"\\nInformación: "+URL_APP,
+    "BEGIN:VALARM","TRIGGER:-PT1H","ACTION:DISPLAY","DESCRIPTION:Mesa de Obras por Impuestos en 1 hora","END:VALARM","END:VEVENT","END:VCALENDAR"].join("\r\n");
+  const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([ics],{type:"text/calendar"})); a.download = "mesa-obras-por-impuestos.ics"; a.click();
+};
+$("#btnCompartir").onclick = () => {
+  const t = L("Invitación: Mesa de Obras por Impuestos Bajo Cauca y Nordeste\nViernes 4 de diciembre de 2026, 8:00 a 10:00 a. m., por Microsoft Teams.\nInscríbase: ","Invitation: Works-for-Taxes Roundtable, Bajo Cauca & Northeast\nFriday, December 4, 2026, 8–10 a.m. (Colombia), on Microsoft Teams.\nRegister: ") + FORM + "\n\n" + L("Todo lo que pasa con Obras por Impuestos: ","Everything about Works-for-Taxes: ") + URL_APP;
+  window.open("https://wa.me/?text=" + encodeURIComponent(t), "_blank");
+};
+
+/* ===== Animaciones ===== */
+function contar(e){
+  const fin = parseFloat(e.dataset.n), dec = +(e.dataset.dec||0), pre = e.dataset.pre||"", suf = e.dataset.suf||"", t0 = performance.now(), dur = 1600;
+  const paso = t => { const k = Math.min(1,(t-t0)/dur), v = fin*(1-Math.pow(1-k,3)); e.textContent = pre + v.toLocaleString(LANG==="en"?"en-US":"es-CO",{minimumFractionDigits:dec,maximumFractionDigits:dec}) + (suf && LANG==="en" ? suf.replace("bill.","tn") : suf); if (k<1) requestAnimationFrame(paso); };
+  requestAnimationFrame(paso);
+}
+const obs = new IntersectionObserver(es => es.forEach(x => { if (!x.isIntersecting) return; const e = x.target; e.classList.add("visto");
+  if (e.dataset.n) contar(e); if (e.id === "barras") llenarBarras(); obs.unobserve(e); }), {threshold:.2});
+function observar(){ $$(".aparece:not(.visto), .num, #barras").forEach(e => obs.observe(e)); }
+const navObs = new IntersectionObserver(es => es.forEach(x => { if (x.isIntersecting){ $$("nav.abajo a").forEach(a => a.classList.toggle("on", a.getAttribute("href") === "#"+x.target.id)); } }), {rootMargin:"-45% 0px -50% 0px"});
+["inicio","hoy","nuevo","quedara","noticias"].forEach(id => navObs.observe(document.getElementById(id)));
+
+function pintarTodo(){ reloj(); pintarHoyMesa(); pintarDato(false); pintarFijas(); enlaces(); pintarHoyNoticias(); pintarNoticias(); observar(); }
+
+/* ===== Arranque y botón Actualizar ===== */
+async function actualizar(manual){
+  const b = $("#btnRef"); b.disabled = true; b.textContent = L("Buscando…","Searching…");
+  $("#estadoVivo").textContent = L("Buscando noticias en vivo…","Searching live news…"); $("#estadoVivo").style.display = "";
+  await cargarNoticias(); pintarHoyNoticias(); pintarNoticias();
+  const vivas = await noticiasEnVivo(); const n = unir(vivas);
+  pintarHoyNoticias(); pintarNoticias(); pintarHoyMesa(); pintarDato(false);
+  $("#estadoVivo").textContent = vivas.length ? L(`En vivo: ${n} noticia${n===1?"":"s"} nueva${n===1?"":"s"} encontrada${n===1?"":"s"}.`,`Live: ${n} new stor${n===1?"y":"ies"} found.`) : L("Mostrando lo que trajo el robot.","Showing what the robot brought.");
+  b.disabled = false; b.textContent = L("Actualizar","Refresh");
+  if (manual) aviso(L("Información actualizada","Updated"));
+}
+$("#btnRef").onclick = () => actualizar(true);
+idioma(); setInterval(reloj, 1000); actualizar(false);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) actualizar(false); });
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});
+</script>
+</body>
+</html>
