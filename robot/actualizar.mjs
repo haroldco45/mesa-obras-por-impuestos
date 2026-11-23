@@ -18,7 +18,8 @@ const BUSQUEDAS = [
   '"obras por impuestos" 2027'
 ];
 const ES_OXI = /obras? por impuesto|\boxi\b|renovaci[oó]n del territorio/i;
-const NO_CO = /per[uú]\b|proinversi|\bS\/\s?\d|\blima\b|\bsoles\b|ecuador|\bchile\b|paraguay\b/i;
+const NO_CO = /per[uú]\b|proinversi|\bS\/\s?\d|\blima\b|\bsoles\b|ecuador|\bchile\b|paraguay\b|arequipa|cusco|piura|cajamarca|\bpuno\b|lambayeque|ayacucho|loreto|tacna|moquegua|[aá]ncash|hu[aá]nuco|apur[ií]mac|ucayali|tumbes|gobierno regional|\bGRA\b|oxi expr|servicios por impuestos/i;
+const FUENTE_NO = /^(El Peruano|Gesti[oó]n|El Comercio Per[uú]|Primicias|Revista ProActivo|RPP|Andina|Diario Viral)$/i;
 const UA = { "user-agent": "Mozilla/5.0 (compatible; MesaOxIBot/1.0; +https://github.com/haroldco45)" };
 
 const limpiar = s => String(s || "")
@@ -59,7 +60,7 @@ async function imagenDe(url) {
   } catch { return null; }
 }
 const clave = n => n.titulo.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9 ]/g, "").slice(0, 70);
-const relevante = n => { const s = n.titulo + " " + n.resumen; return ES_OXI.test(s) && !NO_CO.test(s) && !/\.pe\//.test(n.url); };
+const relevante = n => { const s = n.titulo + " " + n.resumen; return ES_OXI.test(s) && !NO_CO.test(s) && !FUENTE_NO.test(n.fuente || "") && !/\.pe(\/|$)/.test(n.url) && !/\.(ec|cl|ar|bo|py)\//.test(n.url); };
 
 let previas = [];
 try { previas = JSON.parse(await readFile("data/noticias.json", "utf8")).noticias || []; } catch {}

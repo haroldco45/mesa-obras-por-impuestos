@@ -655,11 +655,12 @@ $("#btnOtroDato").onclick = () => pintarDato(true);
 
 /* ===== Noticias ===== */
 let NOTICIAS = {actualizado:null, noticias:[]};
-const NO_CO = /per[uú]\b|proinversi|\bS\/\s?\d|lima\b|soles\b|ecuador|chile\b|paraguay\b/i;
+const NO_CO = /per[uú]\b|proinversi|\bS\/\s?\d|\blima\b|\bsoles\b|ecuador|\bchile\b|paraguay\b|arequipa|cusco|piura|cajamarca|\bpuno\b|lambayeque|ayacucho|loreto|tacna|moquegua|[aá]ncash|hu[aá]nuco|apur[ií]mac|ucayali|tumbes|gobierno regional|\bGRA\b|oxi expr|servicios por impuestos/i;
+const FUENTE_NO = /^(El Peruano|Gesti[oó]n|El Comercio Per[uú]|Primicias|Revista ProActivo|RPP|Andina|Diario Viral)$/i;
 const ES_OXI = /obras? por impuesto|\boxi\b|renovaci[oó]n del territorio/i;
 async function cargarNoticias(){
   try{ const r = await fetch("data/noticias.json?v="+Date.now(), {cache:"no-store"}); if (r.ok) NOTICIAS = await r.json(); }catch(e){}
-  NOTICIAS.noticias = (NOTICIAS.noticias||[]).filter(n => !NO_CO.test(n.titulo));
+  NOTICIAS.noticias = (NOTICIAS.noticias||[]).filter(n => !NO_CO.test(n.titulo) && !FUENTE_NO.test(n.fuente||""));
 }
 async function noticiasEnVivo(){
   const q = encodeURIComponent('"obras por impuestos"');
