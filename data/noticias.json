@@ -1,4 +1,965 @@
 {
- "actualizado": null,
- "noticias": []
+ "actualizado": "2026-11-23T14:46:22.835Z",
+ "noticias": [
+  {
+   "titulo": "Obras por Impuestos y gestión municipal impulsan proyectos en Alejandría",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjZhS3ZXb2N1dXRUUXB3ekRKQlNuN1U5UnZscGFJR0VpTHVNS1RHSk9ScjhFOWU2U0pGNjNKRlkyQmxkbHY4bERTc1I2SWt0OFdyOE9ST1B6NHFpUzYxRHlkRTM0dHJCVHJfc29FdmhJT1RPTmowTDRDZFFCRExBVnJ0SC16N2JGSXVhU1NkWDRKRi1hSGRDYlc4eGFHUWJKT1pkVy1xT2hadVFkOXcwMk10Z1ZmRjRZY3o4R1l3Yw?oc=5",
+   "fecha": "2026-11-23T13:08:41.000Z",
+   "fuente": "La Prensa Oriente",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Sincelejo, Ciudad de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEE4dmJOTDR2NmJrM1RfSFAwcW9rcTlpVzR0V0YzRmRQejFGSlZVdFg3aWNfMmhldDdYblg5OHp4RjRod1NmZ2ZYZVhvdFpIRVpkYUxzQ3JHV3J3ZnRNcDdhczd3Uno0Wl9HM1VmMDJ4bDFJekdrSmdXYUtEWnI5UG8xX0xwVlNVU2FySUdn?oc=5",
+   "fecha": "2026-11-23T05:03:50.000Z",
+   "fuente": "El Meridiano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "GRA cerrará gestión entregando 3 de 21 obras por impuestos prometidas por Rohel Sánchez",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPanlmcFlWdXR3cTBBZlZGM0RiMjJGZWQ3RTNXc1dpZUhDOFNPazlRODZQUE1qZ192cnVySFU2WEtnbzQxOWM2YmRMVHFjYXdWLTRtLUQteEZoVlV4NHlUU3pqN0pEem5KWmZSRXk3djBuTl9Yb0s4TVdReGRvdmFjV1owQU80bWlUMXJDYzlYQTRBWDRWRnRuX09NaEFEOW1IN0lNTkhldWpNM0VSN2t1R2tON1pYRXcxOU9xMmFB?oc=5",
+   "fecha": "2026-11-21T12:14:36.000Z",
+   "fuente": "DIARIO VIRAL",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "El Niño: concesionarias serán clave para que Servicios por Impuestos y OxI Exprés despeguen",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTBsQnlubnV0V0l2UllKeUM5NW11MWhBR3d2UnFVbWJhU0NNMVROdWs0a3pFa2N4aHQ3MF81dkZtX3RrTjVRS1VvbG04YkNuOWx6WC1rVllhSm9MTzZxSmhLTmhCMnBsRDhNSHZ2VW56eHI1eDE5d3RRc09TZ3MyTGVFM1FPQVFzWkhGY3BvcEpIWGxIYWlqM3ZzbzBGU0NrZkpGc054cGJaU1hMMFExN05RYUxmZFp4X1I1bkhYTVdNU1pSMGc?oc=5",
+   "fecha": "2026-11-19T00:41:00.000Z",
+   "fuente": "Gestión",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "San Carlos consolida avance histórico en vías rurales, obras por impuestos, turismo y seguridad",
+   "url": "https://prensamercosur.org/2026/11/19/san-carlos-consolida-avance-historico-en-vias-rurales-obras-por-impuestos-turismo-y-seguridad/",
+   "fecha": "2026-11-18T16:01:00.000Z",
+   "fuente": "prensamercosur",
+   "resumen": "El Alcalde de San Carlos, Santiago Daza, presentó un balance de los principales avances de su administración en materia de infraestructura rural, obras por impuestos, actualización catastral, turismo, ...",
+   "imagen": "http://www.bing.com/th?id=ONUT.5txDLIcU6lYI72VM-zJ6GA&pid=News"
+  },
+  {
+   "titulo": "Luego del aval definitivo del Gobierno Nacional, Antioquia ejecutará 29 proyectos mediante Obras por Impuestos",
+   "url": "https://prensamercosur.org/2026/11/19/luego-del-aval-definitivo-del-gobierno-nacional-antioquia-ejecutara-29-proyectos-mediante-obras-por-impuestos/",
+   "fecha": "2026-11-18T16:01:00.000Z",
+   "fuente": "prensamercosur",
+   "resumen": "Antioquia ocupa nuevamente el primer lugar en el país en Obras por Impuestos – OXI. Para 2026, el departamento logró la aprobación de 29 proyectos por cerca de $350.000 millones, que se convertirán en ...",
+   "imagen": "http://www.bing.com/th?id=ONUT.nC_y7o3IcFZHs_z1-yD3HQ&pid=News"
+  },
+  {
+   "titulo": "Obras por impuestos impulsan mejoramiento de corredor vial en el Bajo Cauca",
+   "url": "https://www.msn.com/es-co/noticias/otras/obras-por-impuestos-impulsan-mejoramiento-de-corredor-vial-en-el-bajo-cauca/ar-AA2hJ9ta",
+   "fecha": "2026-11-18T14:03:13.000Z",
+   "fuente": "Semana on MSN",
+   "resumen": "El mejoramiento de 5,4 kilómetros de la vía que conecta a Campo Alegre, en la Ruta 25 a la altura de Caucasia, con el municipio de Nechí, Antioquia, comenzó este 19 de octubre con la instalación de la ...",
+   "imagen": "http://www.bing.com/th?id=ONUT.1Y0lpReHwUucWpKXK-sA5w&pid=News"
+  },
+  {
+   "titulo": "Minvivienda invita al sector privado a financiar proyectos de reconstrucción a través de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ293bl8za0dUV01vTlpoS0RVQUJaNm5ZVGUydmxsTnREOEdycFhLSUJKWXdjWUhYMWN4THdnLUFhc1VzVzNZNFRiSVdJRzFzS240YTMzaVR5eDJZSUpxblBhek9IcmxYS0d4LW44azEtekRPRmEyczFfTmNldUdQODdIUG9JaU1WVkw2OF91TkUwWndWakdtTFd2aHlzRVVTSFhua25qcWkyaUFUYWljYld1cXNpWGlxQnFIZGx2eDUtWmlUNlloSlozc2R0ZUV1Q2V3TmF5Z1pDUUo3cURZ?oc=5",
+   "fecha": "2026-11-17T16:29:26.000Z",
+   "fuente": "Minvivienda",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos Express: 5 claves para que las empresas evalúen proyectos ante Fenómeno El Niño, ¿hay riesgos?",
+   "url": "https://www.infobae.com/peru/2026/11/17/obras-por-impuestos-express-5-claves-para-que-las-empresas-evaluen-proyectos-ante-fenomeno-el-nino-hay-riesgos/",
+   "fecha": "2026-11-17T09:16:00.000Z",
+   "fuente": "Infobae",
+   "resumen": "¿Quién responde por errores, retrasos y fallas en una obra? El régimen creado para responder ante El Niño 2026-2027 reduce plazos en OxI, pero obliga a las compañías a revisar riesgos técnicos, financ ...",
+   "imagen": "http://www.bing.com/th?id=ONUT.RX_6JpJ2RzEzDeOMT2Rztg&pid=News"
+  },
+  {
+   "titulo": "Chocó: repensar uso de Obras por Impuestos",
+   "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/choco-repensar-uso-de-obras-por-impuestos/",
+   "fecha": "2026-11-16T02:05:00.000Z",
+   "fuente": "El Espectador",
+   "resumen": "",
+   "imagen": "https://www.elespectador.com/wp-content/uploads/elespectador/AFYTGGSP6BDBDOOLKQBJIYAGQM.jpg?resize=1200,630"
+  },
+  {
+   "titulo": "Antioquia ejecutará 29 proyectos mediante Obras por Impuestos luego del aval definitivo del Gobierno Nacional",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYVVKbGJFRWRrcXFXWS1XcWlQazFCOFpDZHIxbWh6R3ZuTTBxbHAtQlpTNk9xVlI3V2F0WHlkQU1MUnc5a05paDZFWmx5dXJsNmh5b2wzUmYxMktidXotQmNnTDVIVDJjdHZVTzF1bGdfdDlSa0VCNUpmdEw1NDFBOWxmRHFzTDdOd0R1SmNlYjJiQVN6U2ROVmRhRkVEdkRRNW95ejRwNEFQdmNEUUJPS19PdzJnVG9Mcm1NMFVRcEdiUm5NZ0lSeEh0Slo5eWJQOEpxQWF6N1JoY1B2ODZHLXpYblNxbUhJWkVBUTdrNmZyMC1XTTVr?oc=5",
+   "fecha": "2026-11-13T08:00:00.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos ante El Niño: Sector logístico plantea una ley para financiar infraestructura con inversión privada",
+   "url": "https://www.primicias.ec/economia/obras-impuestos-sector-logistico-propuesta-ley-infraestructura-nino-136831/",
+   "fecha": "2026-11-11T08:00:00.000Z",
+   "fuente": "Primicias",
+   "resumen": "",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/09/22/6ab28c423dda7.jpeg"
+  },
+  {
+   "titulo": "Empresas podrían destinar hasta $10 billones de sus impuestos a la reconstrucción",
+   "url": "https://forbes.co/economia-y-finanzas/empresas-podrian-destinar-hasta-10-billones-de-sus-impuestos-a-la-reconstruccion",
+   "fecha": "2026-11-10T07:00:00.000Z",
+   "fuente": "forbes",
+   "resumen": "Proantioquia espera que el Confis autorice un cupo de $10 billones para reconstruir las zonas afectadas por el terremoto. Antioquia lidera el uso de Obras por Impuestos, con proyectos por $1,3 ...",
+   "imagen": "https://cdn.forbes.co/2026/11/Juliana-Velasquez-Proantioquia-1024x586.png"
+  },
+  {
+   "titulo": "Obras por Impuestos alcanza récord de inversiones en Perú durante 2026",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcV9jSnNkZFQ1ZGpHeXc1UFRWZTZJRm5fbGZVYWdjZEE4ZjRHRU90UGJNRmJiZ2RHaC1zMmVZVXptQ1otMlRjWFpvdTVXYng1aHJRR3JmN1RuLWxucE9ZR1VHZUFqMzNUWE42RjFRckE5dzBtQUxxRXptaFUwLVZ3NDBWWnVrYk5qZVBZQV9rUGxhY1N4VzI2LXhjMHc?oc=5",
+   "fecha": "2026-11-09T14:48:12.000Z",
+   "fuente": "Revista ProActivo",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos y parques solares: las alternativas que propone el gobernador al Gobierno Nacional para llevar energía a zonas rurales de Córdoba",
+   "url": "https://rionoticias.co/obras-por-impuestos-y-parques-solares-las-alternativas-que-propone-el-gobernador-al-gobierno-nacional-para-llevar-energia-a-zonas-rurales-de-cordoba/",
+   "fecha": "2026-11-09T13:17:00.000Z",
+   "fuente": "RÍO NOTICIAS",
+   "resumen": "Obras por Impuestos y parques solares: las alternativas que propone el gobernador al Gobierno Nacional para llevar energía a zonas rurales de Córdoba ...",
+   "imagen": "http://www.bing.com/th?id=ONUT.BLvDP8XmkQD9PfRcz4Aomg&pid=News"
+  },
+  {
+   "titulo": "CCL: cambios a Obras por Impuestos permitirían acelerar la ejecución de infraestructura",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQjBoSExkRDc4MFRqSVRWYzNYV3pVcXRwZUVmMnhVREtCWnR1Y3VYQS1XVW4wRmE0dUhkYjl6WGJyVlE2OW9qVjVnOWRrUW9DXzlHTm9LVzk5eldMYlNZNFdEaFFzZ24zWWtTUHM3R1pjS1pDQmhzOVRqYmplUzlMcmVGVTIwaERkOVl3X2ViZnExVU85cWJ2Z1FTYzVVRUV5RlhLTWhvU3RhYnVmM2lvYVBlbTZiXzJJS0llNGM1aV8tRFUtd1ZYRGZ5OUVHM1RrOWVsa05JT1_SAewBQVVfeXFMUHhDbUFoV0lUYUtDLTNtUmVMdC1hR0czdld3WnVWbWFCUzdISUZDa0NXMWRXMV9EX1VBOGdVSC1MZ0FReWhWWkFsRlAwYVJZM2prX2xVQXpMd2s2QjNUR2x4SjZOTFE1ZjRJM2NUV213VG1HZ3YtM2J0THdoUjVXQVJWdzJldjJtN3NrVktOZzNfV0Y1dmc1aDd4TWJRTjdVTG45SzVyRHlRbUlZTFNrR01PcE04UEtHOC14OG1oOEZvSkNoSExGU0c0X3ZDWk1XTFdjbWJPVk8zd0pLdm90eVpCbF9PZHdWMGxjX3A?oc=5",
+   "fecha": "2026-11-05T08:00:00.000Z",
+   "fuente": "El Comercio Perú",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno le apuesta a las obras por impuestos para aportar a la reconstrucción del país tras el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTmZHN3VjQTYtN0pXaU9qWlNmbnV5QWlpN3RnLWtoa1ZTdGR4ZFlvMUk2OXhWR3ljRG1Id3YxVjBudkVIN25KdkpzZDJiVnlUeFdZU2gtaVdwc190RmxQdlRGbTBIeG1PeHNaNXpoX3o0TVh0WkkwLW5DUnAxRGloMTJKcU1GeTVyVUlGQnJSVjdoS3ZmcDlpbTRVQjliaE05NlZocnhIazg0ZUJGNVo0Y3FwN3ptRWMzM3FsNHpncjVidHlUMjMwbVlodlF2eDVBMjZTSEJMSWFlTUVqLWNSWUU5dk_SAeoBQVVfeXFMTTBmLWtUeG81UmdXQ3RFVnBqeEFUN24tVGE5b3o1a3Fua1EzX2JpTjE1SExxRVB0aEN2UF9HZXRNakFiVFVqSnZmLTBYMGVjYjVqNEl0YUlhMUthY092aWxUVUhzNHJTS2pscFJ4bUVTTzVYVWdENVdDd2tWUTFsU1kxVlkxOVdSeHptRXVaVS1rQTNWT293UU44SkFBQ2JLQVVOSHpFOGNFOWh5YVlxX3FtdVFuenNzNzNYZ2p2bURXbEpwWkZBblBtckxkR0JPM0Z2RnlqUjJxUVQ3Tm1LcDNZQWtkY1RjTVZn?oc=5",
+   "fecha": "2026-11-04T08:00:00.000Z",
+   "fuente": "El País",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos para la Reconstrucción: ¿Cómo opera y quiénes pueden participar?",
+   "url": "https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/",
+   "fecha": "2026-11-02T18:12:00.000Z",
+   "fuente": "El Universal",
+   "resumen": "La Emergencia Económica decretada por el Gobierno nacional creó un segundo mecanismo de Obras por Impuestos, el de la Reconstrucción. Un experto de la firma Posse Herrera Ruiz nos ayuda a diferenciarl ...",
+   "imagen": "https://www.eluniversal.com.co/resizer/v2/IANOHZ4TYBHX3LN2ASPKTKP6MU.JPG?auth=5210614c047b835f1527bae554f953b21b85525f9c52582aadada1d47004b6b3&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=70"
+  },
+  {
+   "titulo": "Mineducación socializa con las regiones el mecanismo Obras por Impuestos para la Reconstrucción de sedes educativas",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaUhUdXo5c0lMZ0Z1OVZLSkxWX0JwN2hwWVlMaHl0V2pjLUtpRXU5blZBMXBuY0FSX2JmVE5RU3lmLTZJU20ydzRLMXJOWHZBbTh0WDI0TzRWTll3Z2phVzlZVXI0Tm5ic1dLS2VtZmFZM0Z4bnBXVE5OTkd0bUdSdHJHSGZZNHZocFFWUl9BYUZIaUxFT1l4WUM0UE1vcDEtTVhrTXdJN2VPOWVad0dhakV5ZExRZDluZURlM2JhLTItdmI1M3BCMEw4c1hyeWJ3LXZULXpzNHZrb0dVT3hqUnlYcDdZUXRGSnYyVWZ3YUg1eURadGxmNC1NWGhQN3B4MDJjak1YcTZ5SHZWcUpzSGd3?oc=5",
+   "fecha": "2026-10-28T07:00:00.000Z",
+   "fuente": "Ministerio de Educación Nacional",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos para la Reconstrucción: Una herramienta ampliada frente a la emergencia",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLVJVUk01US10bng3Yk1mX09sVVU0SlFyZ214a0ZfQVZsQkRHdTVwWVZEWDNoSjQzVWg3TVJEa2MySzYwLVdTMF9SdU93dXpNOE00aXBCUldaOFFUek9PanBjVkFSTlcxZnlwdVN0QlpTUXlxRndOOU9QckFVQTFZX0JuQy1FSmlGU3hlMmRwd293cUlxWFlEZ0NPaGZKQjJSbjBZWXQzMzJ5X0dveXcyYU5qSnJKX0FaY2ZYYmcySkpEYVJRTlVyUlJpZU5mSXRkRkpSNVotUkpaaWQ1ekZN?oc=5",
+   "fecha": "2026-10-27T07:00:00.000Z",
+   "fuente": "Alcaldía de Santiago de Cali",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Cámara da paso a proyectos sobre Obras por Impuestos y Zonas Francas",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmdOQXFaS3RES3l0eGJ3OXFKRlZxZjFGRGNjUllqcW5pTUNBQ3ViZV94WnZlcFg3WUxZbkp5M3YtQWJpSkVLeVRJdXc4SUxMQjBmOTFkR0o1MTVGSGhxdm1lTFFUSmdGbF80Zk0zU1ZzRV96M2VDZFVlOFhwS1lHU3hGRWRYWjVhMjJUSzYyMFhUNHFBY2dFY2VfUHNDODN0a0c4UFZnbmNPRWxtRDc0Wkx3?oc=5",
+   "fecha": "2026-10-27T07:00:00.000Z",
+   "fuente": "El Nuevo Siglo",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos para la reconstrucción: requisitos para que las empresas financien proyectos",
+   "url": "https://es-us.noticias.yahoo.com/obras-impuestos-reconstrucci%C3%B3n-requisitos-empresas-120000702.html",
+   "fecha": "2026-10-23T07:00:00.000Z",
+   "fuente": "Valora Analitik",
+   "resumen": "",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/7bb1c0f0c74817013817c2e7c114541d2c9019a4ef72889b5e416b2e4fafa78b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fvalora_628%2F9ca29c5be99c15479d0c6f4fc3faf4f9.jpg"
+  },
+  {
+   "titulo": "Este es el manual de obras por impuestos para la reconstrucción por el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFRnanU3cWxtUUUxVlVyX2M5LVpDVXRRTm5CWnJVUEl4NURwOVVNd1UyTVFsYUwxWkdhZUJzU0syZFJLajJsQWx3ZXpORC1TTVRHZkctdTVnNlhGd1lIRlRwMTRHNWUzUUJaZWJYRjh0ZllTRlMwTWtZSjRhbTk2WXB6V3UtWUQ2UklaeUxZd295eF8xamFLcXZEbzhnekRhbkgwenRweXUwNVNqVGVlYmxlTzBsUGQ5TlZxWEFR?oc=5",
+   "fecha": "2026-10-22T15:54:24.000Z",
+   "fuente": "Ámbito Jurídico",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "ProAntioquia busca ampliar Obras por Impuestos a otras regiones y prepara proyectos para 2027",
+   "url": "https://www.msn.com/es-co/dinero/general/proantioquia-busca-ampliar-obras-por-impuestos-a-otras-regiones-y-prepara-proyectos-para-2027/ar-AA2fJNg4",
+   "fecha": "2026-10-21T07:00:00.000Z",
+   "fuente": "Valora Analitik",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos: CCL respalda proyecto para agilizar obras y fortalecer la transparencia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmtRaktiNzlROXA2bmUyVFJHMy1IZWh5ZGdLTGhmSTM0QUZoeXhCcnZDR05OTzlEckw4QVd5ZG9SeHFpV1VIWFNoMkxJZENsM0tqNWoyUlZtT3E1YkVXVWg3MmRTVl95Njhzd0VnMWVXUXVORGV5cFROS2E3WXluZFNwcENxMkNXaTN1dDdvMzRjd3VRVnljRzM1Z0s5aDF0VjFlSjdFXzVSOWpmcjVnLXJ3aUczdUFTUUwyOVBoelMwZWlwcVE?oc=5",
+   "fecha": "2026-10-21T07:00:00.000Z",
+   "fuente": "El Peruano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Con Obras por Impuestos, comienza el mejoramiento de la vía Colorado – Nechí con la que se beneficiarán 28.000 personas",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQjV1QUxobEhHTXROUHJ5bmdSTnNQaGdLNnEzNmVYQlpXYUxQOTNfeTBBU2lMN29VRldMdUd1NlFXZ2dQTG54d1FYUlQ0b0twX2s2Tm40TG1tQzl4dHJ1REpXLTEzMVdCRUZSWDZsdWd3b1Z4bEItSUl2NDZwaldlVi01OVJYemNFdFFOMVNNMnJqNHo0QTA0RFVOVmpTYTYyRU1rZy1WNUZpRGI3OFd1VENwNmVzbVRoOXZlcFlrNzRIaVQxQy04d29SUG1KTm9Qbm85aS1WVjRjd3R5enhDdWpqaUxEeUFn?oc=5",
+   "fecha": "2026-10-19T07:00:00.000Z",
+   "fuente": "Grupo Argos",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno De la Espriella ha acelerado la reconstrucción tras el terremoto con regalías y obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLTQ3RHBOeF84QlhpdkE0Wl9QdkdfcUVfWUlMUUlrTmNtdElXTnFSVG5aUmE4V2d3bFI4N0tFemV1ZDhwemozOEpYZkdqUnRoNlFjTFEyNGxPYmVJSm9nYmdHQmRQak9xT2VlU2pPRS1wVTRvUlBjWGp0U2lVcDlYMWdqQmNKODJDdDJrbGJFUnZGY0RBMl9qNm9HTUljNjFYdVBDZk1JRHRhbl8wWGdGY01WVE9vOXNUNVl6UW5fZjdET2xYWWVYTnJRS0ZfTEpndjVPczRWUdIB3AFBVV95cUxNazhoNkh1OHZ2eVh2c2lMUTVDUnBQQTAzLTkzSmFFTGszaE5VMjl3UW5aWW5qQlFNLVRPRGVNSW9VRjJzakR0dk5wWTFvNzd3TGNwS3N2c2dKNXd0WkpvbDJlV0F3LUdnR2ZFQTNEM05XblRiRmtlRm9QUE93V19JR2pfUXF2ekdZODVyaFdqREx6RVNlRVN3UmxXRmpmaEZoT3dCdjE4RGdFamlHWW1HdE9uMXlpSnlXNVY5S05zU3ZLbEJ3UENXbHdvNnpzbGJYa2xVX1hjdmU3Wk9h?oc=5",
+   "fecha": "2026-10-15T07:00:00.000Z",
+   "fuente": "Valora Analitik",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Manual para la aplicación de obras por impuestos para la reconstrucción",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPekppcThpNU9wdUc5VFp4dndMQTdqVUJ5WnVScHNHTzRZWDQtTjNFZUpQMnM4TEFtOS1SREVGa2hucnRwRks0ZVZReUtOYjFjMzNxSUFEdDV5dTBGNHUtcVpiNF9SLVlfN0UtaWQyTjIyZi1xdG9Dc1ctaTBvWEZnNUdXenpXeV9Sand6aWtsMkVjWUdjcU9yTGJvUHFMODlTcjVWTDJPMnNBZTV1YUNKZXMtS0wtSUsta2NRXzdrVnFUVy1vTHo1SkJtYUtUbU55akNGN25PcXpfX1dGMWd5cg?oc=5",
+   "fecha": "2026-10-14T07:00:00.000Z",
+   "fuente": "Instituto Nacional de Contadores Públicos",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno pone en marcha mecanismo de obras por impuestos para reconstruir zonas afectadas por terremoto",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRlIyRjhNSjN0M0FUeWpNSFViUWN4aGY1WldsM1ZISWNFRlpjYS1GX2k1a1FMRHhxMnd5TWFqMDgwbzhJaDFBTGpMR2NKR2o0aGpyeGphMTJYZGVmbGR2bzlIdThQVUVNSFQ3eVlrTHM3eG5oNnoteUt0eEhPUkozWWlrWTgyXzgyamphSUhhVFRZNjFqYnp4enczTjFGZ09GdFUxS05ZSzRUUmN6TWNMcjdGNkFtLTdJNC1NVUlsc1pxWHNzYTRSVW8yRlBBazNtaTgtUFRIQ1JfR09PeUhpTW1nTGgxcmNZT0VkN3FuallSSENsMk9lTWRR0gH_AUFVX3lxTE1NNkstYWV5VjEtbUpleVBFTFdSSmt1VGpSVmFhb3M4MUNNaE5BdE1yYUNDY3JmcUdTVEcxQlJrVDNFYW1qbS14UjRzQjFDN3JiZmFDdTdjMzkzTkh6Z2hQY3Y5QlZyeFRBRnNHQ042VlU3N0ZvbjFPQVJfVnFoZHhsdEl6ZVBzV05GYTVLOGdZVDdhcmhHSXZRTURHMGZ1ZmRHVG9peXlGTzZ1VF9Ia1VPcWVjMHdSZTBhaTBFMEphUGc0THp2Zk5ScGhwcV9yUGxpU2RoSzBiOXhsczFpVUZsdGJiaEhwS3hZa1FySjR0ZDdBcWRBejZSSFkxTzlxSQ?oc=5",
+   "fecha": "2026-10-13T07:00:00.000Z",
+   "fuente": "Revista Semana",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos entra en marcha para financiar la reconstrucción tras el terremoto en Colombia",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObWtNZmhxc09rNUNId0pDV3RKUXV4M21YUmg4RTVaTFZwWkRMMXhxZ21UdHRZMGFTQVg0MWg1MjBfeUpmSkVKV3FNVVpTUFg0QmVpdlpOTE5FVXI3UXhOQ3BiZ0tFTkItQmVydVk4UzViRDNocVl5R1FoNl8wd1FQakViUXp2ZmdxUTM5bi1ETU5KZV9uVUpRRkU3OFAzQktkLVU4NXhseDd1NFk5OGNUZWI1dkpldVJNdGRCSlBZcWpFUGZudExDU3B30gHPAUFVX3lxTFBrWkQyVEFFc0ZLd0NCU0w2dVRWcGVDYnJuUVpMLXByc0lxWkNXTEhqOWp0MGcxS3hHLXpqai0zWm93b1RQc3R3NUdmX24xQlNLdGMxWEJrOS1KOWhlS1ZkdUxfZnFEb1hnb2hyazEtSkVDTzh6ZXNmR1ZydlJucnFHUkVia1hPWVVBd1N6MS1TQTVLT0lvWXpMQlh0N0lHT2RxLWs4Nkxndy1UXzlVNWZFQU1WSUx3bERrcXliTFB4bUtoYk95YUlUZm9qOWYyaw?oc=5",
+   "fecha": "2026-10-13T07:00:00.000Z",
+   "fuente": "Valora Analitik",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno Nacional abre el Banco de Proyectos de obras por impuestos para la reconstrucción de zonas afectadas por terremoto del 10 de agosto",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbFdtcTNwODFlUjVTcWRSOGFmMXI3T19GdTFCS18yLUhURDJHZklyWEVHN1Vqa1NCQXhJZnRmdUI2YXgwckctcm8xTnpRbWVFaDRtN0lfbS1WTjRDMHJhNjR1YUhldmpacmFRTHFVVG9Rc2oybFBxN0pVTHdxaGhrUUNzNTBlRm1rVXdQclhDQ1h3WmNvVnlwendHenczZ2h6aGw2VDdpMU1wOWgwTE9aMGk1RmRsZXJXRWJHbThhN1ROb3ZkOUdFZ2Y1bDl2WnQxNGdocVkxd2tNcjZtekVDNnFPSmgzN0xCWVdlUE1iTVRfaFNMbmlWSy0zNmVmQzFvbTkydVRrQjhJbUlFNzl0cXpGUnUxS2g5cWFR?oc=5",
+   "fecha": "2026-10-11T07:00:00.000Z",
+   "fuente": "El Tiempo",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno activa Obras por Impuestos para acelerar la reconstrucción de zonas afectadas por el terremoto",
+   "url": "https://www.msn.com/es-co/noticias/otras/gobierno-activa-obras-por-impuestos-para-acelerar-la-reconstrucci%C3%B3n-de-zonas-afectadas-por-el-terremoto/ar-AA2dVFkO",
+   "fecha": "2026-10-09T07:00:00.000Z",
+   "fuente": "Portafolio.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos para la reconstrucción: Gobierno abre Banco de Proyectos por el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0g1MTNabng2ZDdOVTZCR2x0YnN3ZGFMdmhWOTFsN2NfNDM0ZkxpS2tDY2duazJZUzFwYUVuUXhBeXhEdXdKWXIybjc5WnI3dTlubVBxNzBaX2hOSWR5TFpoT18zOE1vbzN4ZHlnZzJkbzFValQ3Z3ctOGZaczVlWVZGVnFUQURYbmdLMEd0V0lNUVlodW040gGcAUFVX3lxTE1EVUk2QllvOXRtdU5sQWxyR0JVeV9BMjhvZS1pM1FMNndFQUhpSlFablB3WXo2UWI2enptSE9KeG9QR3lQMmVxTWpSRU5vOUE5anhZUVlDeS1kY3daQU1iN3FobGZYS0NDaFkyaWh0MVVwVVVvWkR4NWd6RWc2ME5GM18zMXR5elhoZWxWSWstZlVlN3lxU09WaElzMQ?oc=5",
+   "fecha": "2026-10-09T07:00:00.000Z",
+   "fuente": "Pulzo",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos: la vía que busca el Gobierno para reconstruir viviendas tras el sismo",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeVFxOGhGWGQyaUdQRzVLUmxDWF9pZDF4UGtUMTFPVWdSTHZuT3I5VFk2aTNkRHFjLTlfYXdpVzZDOVR4bmdtNWtwSXg4SUtXSWpYUkhJWUlmQXNNOF9jRERPRHd0VnA4cE9DY19DWEpuOVdOYnhrNFF4V0NXUjhTWGtscldybmQ3SEtMNW8tbnI0aDljQ2p1cFh4ZzF6SVJZUUs0QzVPTnpFS3FPS3lFdnZKQmJwLVpxbzJ5U0g1NVlzV2c2RDBv0gHbAUFVX3lxTFA3UHVCdXhObGw4YmxfWlRzdE5kMjE5Q3FteUdfUFpNNmJvLV94QUd1RmRIaTM2b1VXTU9pTHZuQVVGOXVtZWhvR3ZPV0I4OFQydVMyRmRsemk4eHhERVZUaHdBVlRiX0ZROUZlTzljSGpzcTFSUDd2cENCN3VrSFhFVFVab3p2bWdmeVFQdk9kZS1WWFBYaWFYUTlkMVlHd0N6UG1nbG1vclQxTzBUQ3RoS0hWV3o1SHB0NXRSUDdtOTFDbjlhT1paN1J2bklrSnpBNkU3cy0yd0tHUQ?oc=5",
+   "fecha": "2026-10-06T07:00:00.000Z",
+   "fuente": "El Espectador",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "A través de Obras por Impuestos construirán el Megacolegio Santa Clara, de San Onofre, Sucre",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2xqcUw5dDdsZHRvLTd6eEhkcDBLMExJSHlMWXhyeDlBZHJWSUNvbFRwV0twZW4wcWRnVmliOGR2elJya3VMdHBNR3dXMWJ2LWhwblBsMHV0VEpidm9JbGozX29kMTl1MmtrNEZrUDBLb3h3UHpneUFaTEhLZkM2ZXFPYjNJeGgzZ3ZCU3kyVVBUWXlsUF9rMFA5NmZGLXY5cnZXMmhUdUFkWWM3MlVlNVBFWTVBMThVR0FVNVNMbFpQMEE0NjVNbHJSSHhvbzY3RGc?oc=5",
+   "fecha": "2026-10-06T07:00:00.000Z",
+   "fuente": "ELHERALDO.CO",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Jaramillo Mora ve en obras por impuestos una vía para agilizar la reconstrucción por el sismo",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQWNYX290R2oyakw4aWFFd1NVY05ZWllRR2NDZEVVUDZRWmhHMkhYTEhCWkZ2QnNKMllreW1Vbzg3Y3Q1LVd1MEJWR0Y5dDFhOVNrNVlDaGE0bkZRQUlIeFE5LVhROGFsOE9OM3VPVWFnZXZDYmdmSnByZ29hajBtQnNHYVNRWlFjQ1NialRjdzFmWldiTERYYlhKMTlWQ0lJT19LWWQ1VHpjSnlUaVpQR0FSS2MweldzRklsakZLemgxUdIBwgFBVV95cUxQLXZURjBUUGloQ05QQW9ZdEZGbV9WT0RwSG5jZV9lTnFYRmRJU2JQdmY0YmhMMW44VWF4d0xUTlhlc1RMd3o4YXB5aFJMWURoenhmTW9zTEJpS00tSjFoVU9zdWRuckpIUWt5VTFrbHVENkhheUlQUHdNU3VQTUFCdy1HSXZ5MmpLTUxNODMzM2RpbG1pODZ5anVaR183TG9semZ4aVFrUkZyMU4zM2kwT2NjaWcwczZBdi1OWHBIYmhJQQ?oc=5",
+   "fecha": "2026-10-05T07:00:00.000Z",
+   "fuente": "LaRepublica.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos: conoce los riesgos que las empresas deben prevenir antes de ejecutar proyectos",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUJUWTd3WUJPaDVBN1ltU0NHTGRDTzE2SUZPWm8xVm5qR2QwejIwQy1Xdk95WmtsRklMSnRnLWZUNTRKS09PMUVQS0d1YXhvb1JxUmtZTjBRZGp0M296UkN5WXRNS1NFMEdTdGY2emg0R2p0NlE2Z01lV3BadDM5ODdMcUh0THN4eERtQTFjcmhsNHNOUGpuWTUxbjFWd2d1bU5SOEJSYXpXQlVoWmxBQXNkXzRIR1l6RTFOUHdUbjd1U2NkSWo2OXRuUlVqQ2MzQVdDWQ?oc=5",
+   "fecha": "2026-10-02T07:00:00.000Z",
+   "fuente": "El Peruano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Pago por obras por impuestos: beneficio fiscal y los riesgos",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdThjai12VWVnY2dUbXAwVUg5TzFiaHNuZDlPOGtPSnB6R2lWWUZjellBR3NUMU9kbWdFbDBOU0ktaXd4OV9CbE9YZ3ZkOVA4MUxQR1pEN3RSTDNoTkhSM1hrWHBwZmlLQmtBa1F0aEJJTndwbW9qTno5U3hnMU5sck5GSDM4YUt1RjVualFXdVpwR25ZQklGM3YzNUhfMHVMQUdxam5vZlItVUNoMHB4WEZlZ3R4bENMdWVrWHlvZVM2UQ?oc=5",
+   "fecha": "2026-10-02T07:00:00.000Z",
+   "fuente": "La República",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos: conoce las nuevas reglas para prevenir y atender emergencias por El Niño 2026-2027",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQODZBcnpOYmw4bjdtQVVvV0lISnJYd2hObjdJX212WEsxdHpoVE42Mk5DWVljZk0ya0RfNWU0YWM3VW1mS0ljTzNuVnE0czBGYko2ZW9XdnZ1SEZMT3JoRTR0UHlta2dWd2VDRS1HOXNpUFlDS2pHb1JRYTRrT0RXdmVBNmFMR1pSU2FZYWhFRkNGZ0ZMZ2E0eDRnc3liZDBzbi00OHpmbE5zdWZqTkdGTVNrSDhobWd6QjJBNklXUFJpMFpjZ09SYTNmTHg0dmFRZ1BRNQ?oc=5",
+   "fecha": "2026-09-30T07:00:00.000Z",
+   "fuente": "El Peruano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Caldas les pone la lupa a las obras por impuestos para reconstruir el departamento luego del terremoto",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWXBGeUhVWkxiamlIN1BzQkNNS2E4ZDdraVdVaVZzLW9rSDdzanFzUURjWEdYc1RRQS05VXBOb2xUOEc4d0twUjU0ZFc0Z21OcmhqWUJ4VjNLM3NRVjFRRTJFc0RTaWEtQUVBdi1kRk5QMEFraWNJRDlySjRHVFl2MS1nbFB1UldMT3diNkJWTU9rRUFwLTVkdXNKNURtZ1ZEaFBoeFdMdjZ0cUl0ZXAzX1Z6a1BUcDhqRjQwTEZSb2d1Zw?oc=5",
+   "fecha": "2026-09-28T07:00:00.000Z",
+   "fuente": "La Patria",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "La ANDI se une a la reconstrucción del Valle: aprovechan obras por impuestos",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVhDRERqVkZ0ZGNLTnc4S21TUkpQbXZwaEFDRE9CUkFobXVnVzRoWGZIQ0p1UkNVNmxCcUZPVlBkVHVMbDl4b2xDRV90Z3N1VWlReGM0Snlrclpid0J5X0lCQ2NTVzdzMnhNb2pzeFRXVFB0RkVWSm5kRlpGdkV1ZGxvVDlCZnhlRXBnWmhneHZkZVNMemtNdWtNdEd2T1QzX3hF0gGoAUFVX3lxTE0xcmhtYkotUG5IbXVsdzViWTlJa3FEbkM0OWd0dkw3QmxCeHN0bVEzN1R6WDBCYkVLcHU4RlpENFRhUmx1Nm5odjN6SHViTUdXLTBIaVR1QkdNY2dwUmRmY0MyZU1GRWwwYWtIVEtHN2xXQVo0WDY4azFzV21QaUlvdGJXU3FLYndQMEpCaWIyTlYyRnZuTmU2OGNqWjlhZndKWXZjMl9wXw?oc=5",
+   "fecha": "2026-09-28T07:00:00.000Z",
+   "fuente": "Noticiero 90 Minutos",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "¿Cómo funcionarán las Obras por Impuestos para la reconstrucción del terremoto?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVYtYzZhaXRfZmREWjlqU2cwT2I0MTRwbWc0YUNMVTRVVnlRd0hqaWhPT2VXRWRtSmMwWDc2OGZLUGcteTE3cjRGemZNOUk1UG5yUTl1TlgwUTFqNDZxb0p5T0hHSGE0STNKbmpJQXk3TUxETFo2OXM2MWxzZFlEeWxndFJPd3ZmbF9EQ2tfZTlLMnNhYW5UV3I0VG51XzIxTFpPRTNGdDFiQ0I4N1g1blQydmNHbkk1b09ndjltdXV1cEMycXh2eElDcTJXVENR0gHQAUFVX3lxTE9pc3RkSWJXVXVnTWNiTlFfZFNJTDd4ekwzOWJSMEVfSkw3a0d1S0ZRaEJHSXlrcTA3SzdIMWRLSUtJRkV6akp0NGk4N1h0U1RHWkZKWXRBY2t4TzY3MjJacEQ2YVpnZ080c0tRUGFWWW01THljcWFxTVJwcDlveEdBMnJONG1SYUNXRjhOT0JtNFdEZ3ktc055U2R0eGt4RWRySlhEbGdQeTI4cnJwUkZTR3NYV0FDVGx2d0xEUDFjNjd6Y1pNenFoaVhqbjdpU18?oc=5",
+   "fecha": "2026-09-22T07:00:00.000Z",
+   "fuente": "LaRepublica.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Diputada Verónica Yonz propone priorizar obras por impuestos para prevenir desastres con información actualizada",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc3oydkdhcGJqTjJFX1A5V2tMTEV5ZlRCRU16RVpSUmhaZlpkTDk4Y1NmSjI3eE1qOHpzc2dyLWhqdWR1ZlFPOGhubVhodTBBMWpZTkNNUW5nY3NHWTYyQUtHcWF2ZnNYd2NFV2Y0UnMzT2pad3dWZFp0dDJYZFlGT01feXdNeVJZMkRvcV9QQzg5VTk1NTRPWFB2bmp0UUxIY09STVNVcXpaekdVblV3TE5BamhNeldVQUx3eExzTDVtMGJJd0hkYnZoUEEtemNKTEktUHcwR3VPVGY0eS15NnhCckN2emhtX1B3VWE4QTVxaTcxTWlHVVdLeERnQQ?oc=5",
+   "fecha": "2026-09-22T07:00:00.000Z",
+   "fuente": "Congreso",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos: el modelo que transformó regiones y ahora inspira una apuesta de reconstrucción",
+   "url": "https://www.eltiempo.com/economia/sectores/obras-por-impuestos-el-modelo-que-transformo-regiones-y-ahora-inspira-una-apuesta-de-reconstruccion-3587836",
+   "fecha": "2026-09-21T07:00:00.000Z",
+   "fuente": "Fundación Ideas para la Paz",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Asocaña se sumará a la reconstrucción en Buenaventura a través de obras por impuestos",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFpPT1lMLW5fSkVOT3dYSFE1dEJwOU1yeFB5d1VrOG51MmthT0dMc29ReTlsblh3Y0RBTVF6UGoxeXJPZWhYQ1R6QlR3eWhtRE9IakFxNXRhdllpV3hESkZmUXVUVFJ6NkltSWdUMDk1RE9IeHh2YVZldDlaMFdSaldsV1ZTUWZvRF90RWwwM3VGdDFKM1IyZzJtRXRDMFhUSHYyamdYalcwaFFGUmVxTWQyYjFEU2x6Vl9tYmVPWnR6ekpMWVNnUGptSFVaVTFaWHYtcXBR?oc=5",
+   "fecha": "2026-09-21T07:00:00.000Z",
+   "fuente": "Gobernación del valle",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Empresas del Oriente antioqueño conocerán proyectos estratégicos para invertir a través de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUd4MnRQeVAtVkdvYTJKYnBucHB3dlhYZnl2cEFFQXFnU3BYX2oxVGZ5a1NGWm92SzBnM1NUd2p0Q3VCTTFJRTNaSEFmTmo0Y2lISV9JZlFVeXB6REtLR1hIa3h2SURuRHlWTWdFaFdRcGRkRm9GNXBzREIwNDZPbQ?oc=5",
+   "fecha": "2026-09-19T07:00:00.000Z",
+   "fuente": "MiOriente",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos movilizan privados en la reconstrucción",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYVc3Z19tdTRpZUtBSjZ4R1BOWGR0WV8yT1MybGNjY1NzbEVWM2s0N2FXbnZxamxNYmNvM1cyN0dPcS1leTZDb09NX0ZuNnJsVEc5X2V1SWFzZy10ZVZxRUJSVG5JSllwT0JwVXIwaUx0OWpuT2hYX1B1QW9sUTR3bkxWN2M3LWRDbHFQaTBLZmstNVhZZXVYYTY2LTl6MFZQQjlKX2pqZ2FPUVRFVXBxQ3ZzX3M2LWI4NnB1WVh3UERPWGdTX0xuUWFZNXVTNzYwZWhWbmd1dXVwbTBrUTVXOXVMcWk?oc=5",
+   "fecha": "2026-09-16T07:00:00.000Z",
+   "fuente": "Defensores de la Patria",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "SilvIA: ¿Qué ha pasado con el mecanismo de obras por impuestos?",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ185VkVXMmNGY2QyR2hkWlk3UmZNNDJJaEh2MXkzZElaXy1FcVgzVlBoZW9sUHY0QXlzQWtmTnU1VHdSeVJFY0NNbktTR05CRWdpZEhDWkZiT1k3blltWXpDSjhOM3QtWEM4OEZfb3NLYjFsUFhZODRrTk13akpNWWpHQUdrX1FFT1BZMVdhT2d5T2t2OVdRNlhrUVdzMnZ4TDdZX1lCNXRwVVVzQW9DdA?oc=5",
+   "fecha": "2026-09-15T22:41:58.000Z",
+   "fuente": "Ámbito Jurídico",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobernadora del Chocó detalla avances con el Gobierno Nacional para la reconstrucción, apuesta por el paso bioceánico y Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQenF4RXVUVEo1bElRb1hqcmZiZTNmZmRVSXRiRGZMdElmaXpfN2wzLWtMeVNwVEdsc0w1SGtyaDJ1eHhWTm9FdEg2Z2ZOYzZQN3NqVmtaOU02TmtfV1VsMUNEcDRtYkRXazJqeFpuSEhpa2ZKUmtGNmY5MVhoMU5ZRHJMTGYxUDVmUTFmTGRtLXp2TWF1V1Z5NnZtRHpxZ3RtQndrekxBU2QzSmVHYjZzb0tMMWdXODgzV3BtbDJIaFdlMXFNM0h2eVp0SVBFUVBSQ3lfOXBjNVRtOFFONjNZdy1JRXdzNzFwd3Z4UW9CbGtlRXlZNjV1X1E1MXQ2N1nSAYQCQVVfeXFMTjloVVpzVWR1aWZ4MzVLUHBuQkptdVVoUk81TFFhdWh2RjFRdmlTel90WklPeVlJOEN5NGpiLS1DcnYyUmt2dFZEbzFRTTJ1NGk2NU1Wd0J4enBEdENUWnJDZlNsOXNxbEE4a3NpeDV5ay1KckVEZzFWRlRWS1BuWV83ekozWERjNk40TzhwaVUxendpLTEzc0hlQ3dLU0FIVHJmUDd6Y3o1UFJvSlI1UFZJRUVtT3VRUXZIQ0phbFNfWlluWDZIOTBBcldVb2E1RkVkZWt0MGtuaG5FUUhnVjFocDNPa3pCU25wVFVoalFKaFBvbTJQaVNfb09acnA4THA1X3g?oc=5",
+   "fecha": "2026-09-15T07:00:00.000Z",
+   "fuente": "Valora Analitik",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno reglamenta Obras por Impuestos y acceso a datos del Dane",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzdhdUpENTUwR000dFZfcGNFZllUSTM5Y3UtOU8xVGU2TUVQVEpidjVsbVB0VHIzajlvdnhjY2JObVprRFlNaDZFbjNYd1N2cGM4RlFmZEZycWxxbE5iaEZWSHlkc0ZYQk5IUWtZQ0p3amFxTFRMdnJLdDVOVkNjZ0dja3EyZVRyS3lpT240VnBYc3B2OXVOWkZhS2VjZFloUXZTUw?oc=5",
+   "fecha": "2026-09-14T07:02:45.000Z",
+   "fuente": "El Nuevo Siglo",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Senador Rafael Yamashiro destaca aporte de obras por impuestos para acelerar el cierre de brechas en el País",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU0Eyc3NzWHNSRDRtaXhnYUNXaXVlcjFuVkphdTlmdm14d29SazllbTBNTUxiN1hkRFZtRG9EUlAzNGM2cExWZXRwYnRKZlJpQXU4WExWVm93WkZsbW1mSkFBdDh5MXlmTVVSemIwS3VaSmh6dklKd1drX2drdldCclJtLTluTmIwbXBlQTlhWnBOSklkdTRpQ3NxallwckJJck9qVWlITmVURG9wS0dkRWdyZ19SQVVzTkNETHp5YkszQXNKS1lZajJDSFV2SGYyaC1teGFpdUJ1ckVBZmhoMDRneFUwWGZmUXFpVG94T0FTTzRwV21OaA?oc=5",
+   "fecha": "2026-09-14T07:00:00.000Z",
+   "fuente": "Congreso",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Entrevista | Antioquia prepara billonaria apuesta de Obras por Impuestos para reconstruir zonas afectadas del terremoto",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkJENlhPOXNfLWdSWmVDRW9hYnZOYmxRcEdmNEU2REprMmFpYlNIWVQ4UDlxMWlZMEhFTzZuYjJIS0QwX3ZieHdheG5jREVReEVSV3czd0J4aGtDMWRoMWdUM2JnVzcyU25fMDRyRlFfR3J1cnZqWmJnWDRMMkVOVHdFVEp1QW9lY1NpdVlHYm83WncwckpfZGcyQQ?oc=5",
+   "fecha": "2026-09-13T07:00:00.000Z",
+   "fuente": "Yahoo",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos, la apuesta de Abelardo de la Espriella para reconstruir las zonas afectadas por el terremoto",
+   "url": "https://www.infobae.com/colombia/2026/09/14/obras-por-impuestos-la-apuesta-de-abelardo-de-la-espriella-para-reconstruir-las-zonas-afectadas-por-el-terremoto/",
+   "fecha": "2026-09-13T07:00:00.000Z",
+   "fuente": "Infobae",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "ANÁLISIS: Obras por Impuestos para la reconstrucción: la misma herramienta, con ajustes de urgencia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1RRRzgwT2V3VzVKVld4aGRrVWdUX2hTYXh2YU1GR3JtamNsUzZBU0laYXpmLXJRdmRNVm1TLWUwRVkxUVU4VEplNE9IMlZySklDTWxtYzJWWjBhUWtqNkFKNjZqX3pmOTUwTkpjRDdvRXRacEw0NkRfNUM4NkhaOHpKQ25IWktNSVRFcG9FX05wdGlGNU8zaE1RUGFXSklqbWlWVUhpUTBiTFR5WWNiRGJUa3RZbFlneXB4VzdTenNSN1pQLVE?oc=5",
+   "fecha": "2026-09-11T18:41:36.000Z",
+   "fuente": "Ámbito Jurídico",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos podrá aplicarse a proyectos de reconstrucción en zonas afectadas por terremoto",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDh2MU41UVJGU1ducVh3NlpSV29ZQ0NEbmh2dVhod2pUVDEzMlVVbnh6VUp0OTloeHk5ZVM1bmpDQlhiYXJkUzUydkt2SDBnTjg2ZnlpOGx2YjFOdUJZX3hmLWlIQ243V0dHRGJ5dnNPMlotdDd1b1dsUWJQODBodXVmMVZCM1FROTNrTjNqR0tYSWp4Uy10cTgxNGl2ZkFXenphQzBxdTB3b2FTNDR4S1o4WXk2aDdjYmZWMUF3VUVwQ2ljMUlFbWJIbW1aYXRUMlZMR25Mbnd0NlExQjVUY2t4SWVHTW1GOHZlQXRFQlBDeVlKWWxvLUNCbmoyTGRDMUQ4Mw?oc=5",
+   "fecha": "2026-09-11T07:00:00.000Z",
+   "fuente": "Instituto Nacional de Contadores Públicos",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Reconstrucción tras el terremoto: las claves para entender la nueva modalidad de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnFwQ3RCZTNueDBBT3BKV1dIMVN4N09VSUlaUVViOHVuSEZDRjV2aVg4UDlsOEFkX3ZfWkwtRjJVYURFSExYaGtISjc2U21uNVhlMm4wOVl3djM5V09jNU9aelFmb0YzNWYxa01mMUFZbjYwS1oxSENYckozTVQwRGJSQVIxTW9GQVJhS2Fzdl9xYW10MW10d1BMdUczcGxLRkxkTmN0bnhVTmtac2lITG40Y3RTQ0JDWVlvS2M2X0RmelQzVDZiNGdJNFRRTU1kWkIxVGNoOGd3SE82eUtRc0l5bzFnQQ?oc=5",
+   "fecha": "2026-09-11T07:00:00.000Z",
+   "fuente": "Fundación Ideas para la Paz",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Estos son los 10 frentes de inversión del mecanismo de obras por impuestos",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUtrXy1BNVprNTVNUVVLRnhYRG8tTno2RGVoUlEtUTBXQUViVlNfQUhWVlZHdlhvWkY2RENOTi04WnczNjBnWm9Zc0N0dndWTW9zMUpQanFidmk5UGhSa2ZhZXJJOG9YWm5XQkVxTm8zMUc3M1puelJ2ZHV1Tk5PRGp3RjU0azZEeWVhT2pVdlBiNkg3eDRXdmVjZkFJUEdkRHVPcDM5M2ZvM0k2T25lM1BYcUR6X2k4OFHSAboBQVVfeXFMUG43OXZLZ0xLREtqeV8wV0NKZ0x2TklkWHlHVHV4bWhjSUlwdkFHU2VSUVVQU095ak56eVhrWUVZZDdMYmRJVXdwOE8tbGJBOUlBamFRbldQbUg5dkl2LWhwMS1NdjdWdEpTaEVkRXhuMmREZUxkdmFVYi1Pd1FmZVA0a2xrcGxtaTcyb0ZEOUI5Z2wzNDlfTm9YLTNQVE9PdlY3ZEswa0pnUmdSZ1ppYnlJTVJVWGx3ZGpn?oc=5",
+   "fecha": "2026-09-11T07:00:00.000Z",
+   "fuente": "LaRepublica.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Desde el Concejo se solicita usar Obras por Impuestos para la reconstrucción luego del terremoto",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORlY3RmpkMVJuMlNPTEZZY1h4ckZlUXZsaUtmV2Npd09KTTdDbXRIM2JuQVcwSXhUWXRrSW5qUFBHWnZoMmNiYzQxckdFdWYzV1FkVXdmN3FTRk96MUhzZUdXWmNHLWhSbE91eVNXdW93YjF0RE5vNS01aXl6UUhseTNraHp6bTVfVmdvVlZkRlI4enBsNlR2Y01JZFpWcDFNMjM4aThuSnQ4ZDhUeGdEVWV2a0w4VTA5ZF9XT2Zpb0J2NExTSExyVA?oc=5",
+   "fecha": "2026-09-11T07:00:00.000Z",
+   "fuente": "hjdoblekhuila.com",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Cierran ciclo de gestión: Presentan balance de avances y confirman renuncia ante la Agencia de Renovación del Territorio (ART)",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLWt6MXhrZTlBZzFaUEZDZ1hIbVBvc3MxSzBnOExIMFMxeXA1NzlnRmN1cDVtSEFKTEtFb0t1S25BTVJMT3lwV0lTR1AtTXM3Z1MxM0JKc1hfc1llREV1bEtvd0ZySng5UW1QQ1ppbUs4Q1E3eVNUYkQtNmJYdmQ5ajVPZHJpVDZ5cHdvcHlvcVQwZzlOR0NYdFlZdEVIeVBOX2NOeTI1dk1HY3pBY2FpeklCSW4ydVFmWDdmaGRkbU0wN3lVQXc5VlBmWHFEU2dIZ2FHT1E2MWZfYkdHNklpTllkdVhMRzVpMHR5S1ZTSUZLdFE?oc=5",
+   "fecha": "2026-09-11T07:00:00.000Z",
+   "fuente": "MiPutumayo Noticias",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos: Minam incluye ocho servicios para prevenir y atender impactos de El Niño 2026-2027",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS2R3emxmS29Bcy0zdVRrX004cFQwWkNHVndiWWtaSGdYSFF1Y050cTNrX3dYSlZFT0ppd1RFZkhyUG5Tdmw3Ukg5b0NKcVJ1cnZSc0pVVEZWVnpwOWw2bjUyczY3MXJBVHhSaU5UNl85UV9Ocllzazl0Z2JTU0swZXRPM2ktNzAxSkxncWJEUXZRUmVVNmJwV1FsS0Q2YmFyOWFTRDBVX1JlY0J5MEtrRFAzTGtWNDRBTzlUbHFVRTQtLTVyZFlsYzg4OEFkTnBPcV9qVUI0X0lCdw?oc=5",
+   "fecha": "2026-09-11T07:00:00.000Z",
+   "fuente": "El Peruano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Crean mecanismo de obras por impuestos para iniciar reconstrucción tras el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1h6Z3lDMDhya0FvbnNSbXJoY2NLU2lPb0JNMHhoM0pUWTVMWTdZT2hXZUc0U1RzQm9tWnJyYXI4MV9xeHZZN1RwTUR4ZURLMkZ0aVBBOXFxeGpBOFN4MzNKV3dQbURUQTJkZlhiak1KZGJDM1F6MF9xRnhMN3hablpKOW1VbHRjcTZteXY1YW1TTTBSR1hDcTk3al9LOVQ5SFNGbFRCSjNnd0YyLTR3UVIyay1LUjdieVdDR1JtWkhGbGM?oc=5",
+   "fecha": "2026-09-10T19:41:02.000Z",
+   "fuente": "Ámbito Jurídico",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos se abre a zonas del terremoto: Gobierno crea modalidad especial para la reconstrucción",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNSMUQxNnd6TVg0c0Zqclk3ME55eUJHUVl2NHdkWFM1czU1d184d2ZQTkhEb2t3TEhycXBsd09SRGVaXzdOTHlDVmdoTHdZSVRXMDN5VU1QMkdzbkkxdkZBU2lodkhuckRweTIzNjg1UEpoaWJ0ei0tZl9yajFHMTZxUkpsUWxzWEgzU0YzSXE2MUNhSEFIMnJ3eW5rZ1NZeHFJVjRpOGlacXdib1VGV3BrRzBmZ9IBuwFBVV95cUxPOE0wZkhtUHI0bDZEelFUTUdFMmVWUHBieW52cXJ1MjVWQmlOdnpUMWE5Q3ZuR0Zqb1JUZDUzQUNHVkN4NVVxSWdMMndST0pKZTJfREU4U1JWX1dzV1RnTTFqX2ZsX1EwQUFsMjJPWXUyMUNadnBqN3V3Zk1ZWmFFdFhXMk9PV2lkeHZKM01tSVA4RHZqSWEyd1duSGhwSThDVWFONlg4ZmlYMDRob3ViZ0dZX0tpUll0Rll3?oc=5",
+   "fecha": "2026-09-10T07:00:00.000Z",
+   "fuente": "Valora Analitik",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos para la reconstrucción",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sU3FlNmlkWU5XbnVhNENQV18yaVp5WXpkM0tYTWtpMTlfSTJ2RnkzeTItWFAtWGhveDN3Nlk4dFo4Q0pUMVpXRjRERVRpQjg5dzdOdV9aQVJIcnllSzJtb0tUbDQ1UWw1WVd4LXZpYXlfX2tTMnR4UlBwNkQ?oc=5",
+   "fecha": "2026-09-10T07:00:00.000Z",
+   "fuente": "Crowe",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos para la reconstrucción por el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDZfdkVjdkpaRVRjNGpaYXhfcEFDOGhVOVUzZHFCXzJ0SWMzM3hoSldOWkJ5TkYxYnBFVVhaM2d4clN2MV91aVZQcDRKYVBNR1FpVmtJR3IwSEp6Q3FSa0tBSktsbnRCTzY0cV9zT05sZDRuTkpwSTZfR2dnYUM4X3U1Mm9UdS1acXVRTlFaclpjZDZSMTRV?oc=5",
+   "fecha": "2026-09-10T07:00:00.000Z",
+   "fuente": "Cuatrecasas",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos: así aportarán las empresas a la reconstrucción de Colombia a través de ese mecanismo",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU3I4VmRsOEctTzNXY1RGV0s2TlVoT0hMcnNrTFJCendyU1hQZlhwMjFPNzdHcmxJSGs2S0JoWm85RUZZaWtoRU9CaTF1ZzRXNDYwSENaZzlSTVdielg0YTVGeVplSmhCX2R1RVlTMnk5U1oxR05fdFlzNmt3R291cUMyMnFGX2Jja014NldQMk4tcEtRT1B3T0pwWHkzMVFxSGJja2ZJZXZVaDNxTkNydWR5X1MtZWQzS0k1Q29WY2lHYWd1Y09wOG5QU0VaRHpOQmdBOXo4bkV0U1JwdDRYZUlVRdIB6AFBVV95cUxNbjhLMVhXMl8xdVZxUXZtUGVsTERkV0ZGcndoRWwzNU5Qd3RKSVJxTEFWcmQzN3FJWjZQRkNPazNINjFaQkUyYmNhZFk0MWZWak5ocUhMakJNNXF0QU1XRHlUOG8yUW5uY2pHWE9xVTVkSVJGVk1kOWFaMFpNMWg1X1V4b08tS1lKcHp4RVZaX05EODJWbkhmRGdraEdNZjhZQTRaYnN1T29pQmlUdy1PaE5uVTZFYVhhU2oyZkFlTjE5NVlWOWliYUwtYnJvTmNNVzk4WEZ2YW5fTmNOY0Q4ZWJ2ZHVsQnNN?oc=5",
+   "fecha": "2026-09-10T07:00:00.000Z",
+   "fuente": "Portafolio.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno habilita obras por impuestos para reconstruir todos los municipios afectados por el sismo",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQW92cnJMR0RVd0xkMHA3c3FFQS02UGlpMGVXR0g4cDZsWWFQM01jWFNlWGNnU0NDbkVPYmdBb19LdFRWLUJVcFZVMmtxZ1ZZSVFPaUFicmFadmtIbDJUbkdzVW9Zd3pNVU5rZnU3c05pY2NGbXJqUWNMZVJtallFN2lUQnV3aTUwcGVOTEV6Ri1tWThMcWdZV19wZl9SM0RndlBFNXQycXhsdllmekdza3BQdmxudzhJTDY0STJ3R1E?oc=5",
+   "fecha": "2026-09-10T07:00:00.000Z",
+   "fuente": "La Patria",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Qué dicen los 11 decretos de la emergencia económica que firmó De La Espriella: obras por impuestos y otras medidas",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTnV5VWVzSllCSWhRREc4Z1plTVpuVGJKeUJqZXMxOE9jUFFOb1R1Vnp1bnpZTzhsYkg2WkhHSGhlNjd4OTVLN0VsSmhSM21lempLTW8yaUVEZlVwaHJqSWtzOXJiQ2plaDd2R2Z4WWN0aWZxT2dsR3FUTzRNSWhDckYzRE1FbUk5RXgxSkRIZXFxNDR6RnpLb1JLUkctZU9FTm5NUzVvcWlwbF8yNFJrN29USWQ0NE1pTmdReURQeWNjU2RvQmdZVzZNMW51ODUtX05NMGhnZWN2aWIzU3ROMjJ5bGxDbERGZGU3MnpyNVpOU09saWFRadIB_gFBVV95cUxOM05maVp6WVBJSHJyTnBuYUt5V3Vvc1BiSU9UQ016dzNIV0ZCa3drRVVqU3JNSlNleHNCOWRXQm05YWN1em5LNFR1OGdaZDd0VFhEWWhpZlBIY0dHa2dvTWJqWUNFNWplUG95S1ZGSGo4RTY5bEdfd2xZR0RRb01CbWNLWEZkeU5weEhHeWtIeEF1ZGlvZjhmTWRUaTNFX0tESlpGQ3lDRGJiVHRpRFBOVGI1djVWdTVaT0dySEZ5M2UtWnA5QnE2YzB0b1dKNHpJUGNRRWtmb2k0MFU5Y1lmcmxCNUNpeVJDOWlubkE2R3pwM0szZDV4azZsV21kdw?oc=5",
+   "fecha": "2026-09-10T07:00:00.000Z",
+   "fuente": "Portafolio.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Creación del Fondo Patria Milagro y obras por impuestos, entre las medidas de los nuevos 11 decretos de emergencia económica",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR3h4MGFRcXowVGEzRE5ZWnYtbGxJTDlvOXRUcXU2YVpLTEkzRUNwNkhRZkNla0FnSVplWmlUcS1RQ2pjNUV0a0hWajR6cVY0dnZLNDJQZjVkX1pEZk5aRVh3TnR0SEYxSEdTM2FpOXpjb1JHcFVmdkhZOFJia2xEOExQVmhxRmxNZ0RqR0RTRWdVd0NrcmhDU2tod0ZsNUg4RUtfd3lRYmhCSFpNNl96TUFGM0NoMzB4YXhDeURIUEQzTm1nWmFoUmR2cVRnaFg2Z25MTlZGM2FLeGtqeV9HbGlIRDAzeU5ZcHVWcm1WamlFX0FiNnBPWnJxUXBOdw?oc=5",
+   "fecha": "2026-09-10T07:00:00.000Z",
+   "fuente": "ELHERALDO.CO",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Por tercer año consecutivo Antioquia es líder de Obras por Impuestos en el país",
+   "url": "https://caracol.com.co/2026/09/07/por-tercer-ano-consecutivo-antioquia-es-lider-de-obras-por-impuestos-en-el-pais/",
+   "fecha": "2026-09-07T07:00:00.000Z",
+   "fuente": "Caracol Radio",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Por tercer año consecutivo, Antioquia es líder en Obras por Impuestos a nivel nacional",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQU1ia1lRbjNzdUNvYUtkc2diX1dpdUUzQzFXOG1xQ25MVTNyNEU1OTRQTmctMWQyc2pwNFllcENQV1ZnRjdrOW9JQi1pUENIWlFRd1hLellFUW5oZDJHUVA2VEstN21HTklQTndab0lGN05LUFExVFZsc0tTVVFBWlI0U1NiNnBEUDlYcUI2S0NNbUNwQWRfdHlvWktsY0s0VHkyd2Q3XzNNRm56cGRLRzllalZESWFYX2lJal9XeUExX2JoZEpxeE54MzVkRjBrQUhtSzdXSQ?oc=5",
+   "fecha": "2026-09-06T07:00:00.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "El Niño 2026-2027: aprueban 23 formatos para obras por impuestos y agilizar emergencias",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTFkUDRMWlhFNXItRHhGLVFyaFgtTTliV29DSEFqWWkwanBtNURac1p6bFliWXVHNm5rd2I1NkZRTXdyVXUxTUhiZE5ya1NqeU9PcUVKc2JCaUh2OFRSbGhNYS1FS1BycW5vQW1GWXZxVVppQTlqUnkxdlN5aC0welRTQXBYQjE1dE1WZV9ScDVCN1ZyUzNucTNCOXZaYWptbzczVFpmSGJBekZmTmZaNWZBazJleWlCSVd1VDl2RQ?oc=5",
+   "fecha": "2026-09-06T07:00:00.000Z",
+   "fuente": "El Peruano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Más de 7 mil 800 niñas y niños de Antioquia contarán con espacios de educación inicial seguros y de calidad gracias al mecanismo de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTklHWk1UbVc3ajlIU1B2cTd4ZG1zQ2ZZVmZwSjdYTUJmdk1jcnVCNmc5c1MxemljZDhjY0FkNU5zSXZqMEVPZFlFNlVxc3pfLVFKTzlaeFNjblJCQ1B0WmV2RndqLUpIQ2RCanpQYXZQYnBwQVR0bnRhN3dYTUFFM2VBTERFMjYzdm9XMEhjN0NxX3J4Q2FfTjJwNHBhZTNvYTB4NFFWSk9wWVhIRTBEd0lEZmxMaG45dEkyWHNBdGFvM0FHUFJLZTc1T3FuZDVvcFJBU3A0Zmg2aUJNQ08wdWwzZ2w4TkdpUmgwU2R5OF96bzlYWFhMSWpkeTdNaDVZUHlHbUJFeWtqY3ExcXkzRXgxUDBOaHJ6UDVHRXd6WFpkbG41YzJBM1lueUo0cTg?oc=5",
+   "fecha": "2026-09-03T07:00:00.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Asointermedias plantea Obras por Impuestos y activos de SAE para reconstrucción",
+   "url": "https://www.msn.com/es-co/noticias/otras/asointermedias-plantea-obras-por-impuestos-y-activos-de-sae-para-reconstrucci%C3%B3n/ar-AA2biBrW",
+   "fecha": "2026-08-31T07:00:00.000Z",
+   "fuente": "LaRepublica.co",
+   "resumen": "",
+   "imagen": "http://www.bing.com/th?id=ONUT.kZVuy5UOU_P_ZyMw7EVnxQ&pid=News"
+  },
+  {
+   "titulo": "Gobierno propone ampliar Obras por Impuestos para financiar infraestructura de defensa civil y reconstrucción de viviendas",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMi1FdklITVJlUnZCZ29CZ2ZDdk4zSldsR2RQRGs5Yzd5Nno1S2gzUmh6OTA3WXhYWFNybERmbkhicTgxd2RoYWJoXzc5X1k5My1zMkhYVjVYeGdLUzJVelcxbmowVDktR0FJdk1YaUtaUk9VWUtobXE2ZEFNQU1rbm04Q3ozeU1Tc1d4RXF6WkxLd1loUDRZZE0tRDdfM01RZk9LQmNqV1BjV2RkaGdzUjc2cFE3YkxnNDVoMTBQbkQ5dzM5dC1SLXB6OVkxQmxGcmJCMkJXcHpMQ2lUcWotYnVSVTVKbFhuMENVNElJOUtCZw?oc=5",
+   "fecha": "2026-08-28T07:00:00.000Z",
+   "fuente": "Peru Construye",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos: Una alternativa o una necesidad",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzN1aU5fSmNWUWhhdHd6bnB4RVZDYkRCX1p5MmlGOGcweTM5T3M1ckE0Z2RFeEhORFpfYkpyY3VkaS1CUEZEU2N2NXRWVmpuR3I2SVNtdmw2SDI1VkNCdUpvSnZBSVVHb1FJMlFZZFZuTVlzLTZCcE1MZ0NkQWVrdGdHUnl1MjZ3V0Y3VTdNdTgtWFlJVF81SnlRLWdlX0g4SE5JMFlPYTFXTzTSAbABQVVfeXFMTnNGeWVtaTRPR0NFdTNEUTQyMHJjR1VURUF4OEhaa0p2ekI5Q0E3ZXBqSDhOeVFsOWU0SkxGdDVBOWJYblM2SVlNZUtPRVNEd1c5T0IxNW5mS1lsVllkZF9WOGZlNnR3OFpOX0xDUkMxRmp3c09qWmJScktRc01NenU2b3J2R2tEZkg5eTMzVFROdmhqUWd4cEtBR2M1Y2ctNjVaakI3M1F2cElyMXc3VVI?oc=5",
+   "fecha": "2026-08-25T07:00:00.000Z",
+   "fuente": "Revista Semana",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "“Seguiremos acompañando este proceso”: Federico Gutiérrez sobre propuesta de ampliar Obras por Impuestos para acelerar la reconstrucción tras el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNV3lzWEFYVzMzWlJBZDJubHY4VWF2VHNWNWJRZmU4VWdPRmlWRHRLY0x2MFZUd01BV0hzSFpnR1RBdDBLdHJwYmxiRVpGR1Zlc2R4cjZaazhraE5scS1odHNSQU5aQ2tqTFdPdTROMVV5VHg3NVZEWDYyMHhLclEzWUx4d0pyTU9sdEdTbllyNlNhQ3pzOW5BNXBodnczRUdmLXM2SWR5VmlKbDJJQ0M0LXNySUpkaXFyOV93Szg5X2Eya0dxZnJhSExvWXdqUEJFaHI5RDRxSlpTYmRaTXVGYjdFcWx4RjBzMFo0WDRYeUZUVERQVTBSRkhQbTJjVDc1a3dxOWhYdzBHT0dUb3BFS3M0amJtcXlRUXMwS19SYnR3OVRuUnpvZDlubkhaNktH?oc=5",
+   "fecha": "2026-08-20T07:00:00.000Z",
+   "fuente": "Alcaldía de Medellín",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "¿Cómo funcionaría mecanismo de obras por impuestos para reconstrucción tras terremoto? Habla senador",
+   "url": "https://caracol.com.co/2026/08/20/como-funcionaria-mecanismo-de-obras-por-impuestos-para-reconstruccion-tras-terremoto-habla-senador/",
+   "fecha": "2026-08-20T07:00:00.000Z",
+   "fuente": "Caracol Radio",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Medellín y Antioquia proponen ampliar \"Obras por Impuestos\" para acelerar la reconstrucción tras el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sdXhfSUExZ3JZVVo0a19XdlFBWkZ6eUg0Y3NmOVdmaEJKRzd2Q3Y4SlJzWWNMZllvT3FOMGFMUl95WGJ0NVd5VDJwNWd1N3VSTXN1dmlsaE1TTmRoTWEtRUtVdDZqWU1weXB4ckRvemtKaFNELVQyQ184OUx1UQ?oc=5",
+   "fecha": "2026-08-20T07:00:00.000Z",
+   "fuente": "Telemedellín",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobernador de Antioquia explica la propuesta de obras por impuestos: así funcionaría el mecanismo para reconstruir Colombia tras el terremoto",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmJ1S3p3VFJzLWxDTGVqbnBLLXpQclh0bjJMLURDOUo2WmF0alRRVmJ6M2pQQjNzUzdWT1lOM2pJblhWa1dPaW5IdndtdWVualkxTnJFVDhGNGhvaFc5bWJqY1hMVHl5TXBGZVFUUUdFTU1GbWwxVDlSeEx5WVAyV1E5Nk5jaHUwZHBzeUU5Mm9YZTg3OWJrekZGZS1OaVFNVDJQT3lBUHFKSWxsM3JiUVcxY2lnSXgycXBMaE9WRdIBvwFBVV95cUxQWlF3ZldpVEZETzFNbldsczc1Zl8zb3NrWkQ1SkVRTm56ZmhsZ05Hcko5NnF5cGtaUmJZdy1zNEgwOVNBSF85WnpRVUZtbnRJaTNsM1N6SkExbFZDRVY3U3F2VGFsSV9ibzFfSXNXTUE2TnQ3NUZyUEFSc0gzOGxlc0E4MmZwRDIxakxQMXczdUxhQlFuNGZ0ODdEZGU3RHhZSVQzOEFxbTg3NklrbWNiWGE3WUZ2MnlHN0lFNFZhTQ?oc=5",
+   "fecha": "2026-08-20T07:00:00.000Z",
+   "fuente": "La FM",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno del Valle pide ampliar cupo de Obras por Impuestos para acelerar reconstrucción y convertir solidaridad empresarial en obras",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWk1Da3FRbkxaTFI3dWZwU21LTnJyVDhHbTlNbDZFWDRnY09ZWjlBb3BjMUctZGNpSWtGVlFELUtTaWNZUGtUajBtVG9YalNNS3VxckNNSEtwbklIdjRpRXZCelJwWHp3akhhaWthOEFIZWJUZ0RYekxVSXRuZm5nZ1hLbVlqdGcyeGVyV2p0Z0FTX2xkQWNFaElsS0I2MzVlTkp0eGZQM3JSa1RpeFNPRG9MVjhGNzZScWo5QURpWkhQclpKRDlnQ2VLQXQ1LWhTV25GRjNVS3NZNzFyME94eGtsUDhVcEk4MEE2TkFURU4tVlh4SVBXd2FRdFlidGJiTXctV1AyUU5La09qbDJLd3BkNldYZw?oc=5",
+   "fecha": "2026-08-19T07:00:00.000Z",
+   "fuente": "Gobernación del valle",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Ante el presidente, Antioquia reforzó la propuesta de obras por impuesto para reconstruir el país",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNjJ2MzltRTZWWHR2alBvcGNyRzZXanpVSVdIV3Y0WWQzZkt0QThLRVFqSXEtTGR4bnBTVWFsTTZVVzZ6VC0xQ0R2YmpFUmVUZ2stdExMUGgtN3pma3dCb2NxYnJ2X3d6ZFZNOWlRLWY1MVkyVzJuRDFFdFZudW9QLW9XemhzYjQ2OFI5cUJvcHprVUZ4UHFpQTMxa0J0M042THZLTFBBM1I1R2swMnB1aXBEUmxxN0JJT1RFV1lsbkt0Ul8zVDZJMFdXY9IB3wFBVV95cUxPUDcxcldsaS1xbV9OTFVfd3NMcS1LdGh2OHhacE5nZGNvZ3dyazVZZUxlc2x1UUs1WGVhMk1Yam5VVUZKelJXZG5pNFZSOUFiS0JNSFpTcVFKVTlKWXhUQy1TZENEcFk2T2tpOWJ0bk1SSXM2Sk9PSHNDVUdFcE9sZG52YTR0NDZwaXljVFJJTXJxaS1qdlpqTmRRZjdPb2tTZ2NuNXNlSFJrSEtqN1dEUVBkVXJjbmswWWVMZVNnTnotekxrUnh2anJsNTh0Y1hscHVCbGJqZmtKdUVQaHZV?oc=5",
+   "fecha": "2026-08-19T07:00:00.000Z",
+   "fuente": "Caracol Radio",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Santiago Barreto propone obras por impuestos para la reconstrucción",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVF84bmxmRjNkTDFWdTJIZXhudkZHVnRVdmoxN2FKQ3l1RGtnM2hnY3Ewck4tc1NhTS1tanhJSzZLYURXZGRoUnVMN3J2c2tEemROOGhsU2NVLVNRaWtHRnVxcTNBQ0UxaG9VenJ1RHZnbTBVOU9oTzNydXR4M1NrTUZtUm9FS0JmbFpldUdxWGdVU0J5VWJZb1RQS252U0F5aGJZQzJWQzBGTjBIQ1dsSW93WQ?oc=5",
+   "fecha": "2026-08-19T07:00:00.000Z",
+   "fuente": "El Nuevo Dia (Colombia)",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos se perfila como vía para financiar la reconstrucción tras el terremoto en Colombia: así funcionaría",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOODF5SENxQ19zSVl4YWNHSU9peWNORE1TM3BmVDM3cGFXRWNCT0FxQUNTMHhRVFNHdWFEUHhRVm5mQm5VNGwwdDRDWGYzMkRMM3Vhd1lLejhzc084TUNva3hOdmNMUXJzOFE2WWNaZnZGSmdybXhYWV9nWVMyYUdhNkVOTkVCVGp5eFdyMUZIQk1oYW5uVEFZa2NLZ2tLcG5sYmMyR2Z3N0NjMlp3MTZxVkpvS2RkaGpURGRidkhPQWNhV25nS2wxWG5wUnA3aDNFc3dwRlZhUkd2S1Z5T3NMOGpDSXZTZ1lPMUZNSnRQVVhPRVZVV3fSAZACQVVfeXFMTzE5ellYSG5od04tdWQ5NHRoY0xONUdOWVF6UDZReEZEaUFIbHBsSzNoX0pseTliNnV3a1p6bkhoSVVrWmhiZEcyNDlVTUFwaHM1VHhHcmNVbmZMaUVialY1UkN4T1BuVjFDcllZNnQ0emdNdGdRLVZMV1NkUkI5ZVpaRXpkYlFFQ2prRDUwZGVlaUgtYklwTXVNc3IyS2Fhci1kZkhnM1FwZmxOU2sySVE1dDJVQ21zYkVIZTA2YWxqamdTSTBxZFRrT1d4bWdwbkFyX1JPZXJpNU5tYXFkVHpVVFNWUng0OFp3Z1FtRXlSdHk3a2FzS1E5R0dSald5WURKRkVmWFlQZE1yamFQVlM?oc=5",
+   "fecha": "2026-08-15T07:00:00.000Z",
+   "fuente": "Infobae",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos presente en el Congreso Empresarial Colombiano de la ANDI",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWZ4WTNsN016OGFBaGpSb242R3pjWUNLMlpmM0YySUk2bkpSZmk4SFdGZFNEUEFhU3RDeURtbkwxYnFmU2hUOFBjM0dlN3o0c0JBSi1PUkhRT2lZbm40YXliQ0dXMDVKS3g3SjFwcTdPRThpMVhRT1R3ZnE2Q3JLeWVWZkZCNFJCeTBaX0FwZVdxbEs1VFdSM2d2TEU1YWhubS1pUHp6WVh4d3NWUVhOQkxrVGd5ZjQ2NGd3dG1GMW1FQQ?oc=5",
+   "fecha": "2026-08-14T07:00:00.000Z",
+   "fuente": "Gobernación de Norte de Santander",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos: la propuesta para que el empresariado ayude en la reconstrucción tras el terremoto",
+   "url": "https://www.portafolio.co/economia/gobierno/obras-por-impuesto-la-propuesta-para-que-el-empresariado-ayude-en-la-reconstruccion-tras-el-terremoto-500383",
+   "fecha": "2026-08-14T06:19:00.000Z",
+   "fuente": "Portafolio",
+   "resumen": "Ante la magnitud de los daños en la infraestructura y el tejido productivo, diversos sectores políticos, gremiales y territoriales han solicitado al Gobierno Nacional la activación y flexibilización ...",
+   "imagen": null
+  },
+  {
+   "titulo": "HIDROITUANGO S.A. genera utilidades por primera vez y lidera Obras por Impuestos en Colombia",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUnl0ekp3VmI1Zm1VOXRYeHhSaDNGTlNsRkx2UVRib1A0MGNwbUVXUFYzLW5vUHdxX3lROGQ0UzVGQi0yWmZqU2I2dXZ2V3M2ams1bzNGUDlueWhHRmE1WVJQdEpoV0YwSjZzYzR0MjFFYVQxcWFwbWVLaUFtdVp3SHE5TjhzSWVwbHhnVFhjd3JHbkRrdXJWN2dUQWFPR1ozWlJSdWZaaE9sVC1UM0JqOWJENXF4SlAyaUtBZ0JHZzNhVGdWNlFIWkhuelNLRE9BdF9mTkdn0gHqAUFVX3lxTE1yOXFxa0xjNEFFRldwVGt2TTZ5VjBfbHpjbTlCOXFPLTE4bDVWSGJvaFN5M3FlVzBpa1J1bWphVHhMbGlyN1l6NW1ncHpjMHlaaTdsVDl6SHRab09GaGVyc0VISERzZXppSENUbGJIRzc2VGRYVTR6US1Nek04dXhOOFpicm51bGx2RUN6Mkw3QVJVaHdtVEVDZlRpVXVidE9qc3AtNkdxOXItQ3NXSTZIeU9JVzhaUVV5bzdyMF8tME96SFNieXczV0lSbVd5Z19aOFZkU291M2JacFJwQUhSSkltN1ZEZ1V0Zw?oc=5",
+   "fecha": "2026-08-12T07:00:00.000Z",
+   "fuente": "El Espectador",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "¿Qué pasará con los PDET si se elimina la ART? Director Raúl Delgado analizó el futuro de la agencia",
+   "url": "https://caracol.com.co/2026/08/05/que-pasara-con-los-pdet-si-se-elimina-la-art-director-raul-delgado-analizo-el-futuro-de-la-agencia/",
+   "fecha": "2026-08-05T05:24:00.000Z",
+   "fuente": "Caracol Radio",
+   "resumen": "En entrevista con 6AM W de Caracol Radio, Raúl Delgado Guerrero, director de la Agencia de Renovación del Territorio (ART), se pronunció sobre la viabilidad y el legado de la entidad luego de que se ...",
+   "imagen": null
+  },
+  {
+   "titulo": "El cupo anual de Obras por Impuestos pasó de $250.000 millones a $1,1 billones entre 2018 y 2026 con 619 proyectos",
+   "url": "https://www.portafolio.co/economia/el-cupo-anual-de-obras-por-impuestos-paso-de-250-000-millones-a-1-1-billones-entre-2018-y-2026-con-619-proyectos-499435",
+   "fecha": "2026-08-02T07:00:00.000Z",
+   "fuente": "Portafolio.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Antioquia toma la delantera y lidera las obras por impuestos en el país",
+   "url": "https://www.semana.com/mejor-colombia/articulo/antioquia-toma-la-delantera-y-lidera-las-obras-por-impuestos-en-el-pais/202600/",
+   "fecha": "2026-07-31T09:04:00.000Z",
+   "fuente": "Semana",
+   "resumen": "Antioquia toma la delantera y lidera las obras por impuestos en el país El departamento concentra el 40 % de los proyectos a nivel nacional con iniciativas en salud, educación, infraestructura vial y ...",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos invertirá $17.372 millones en seis proyectos, en Norte de Santander",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0ZzdFdhWjhtc1JJTGNDU051UjNVZVVUR3lXekhGS2hxTlN2RXRyelA5OHFKRGRoLU04TmNHd2MtY2E1MmNvdzY5MXh2QU5uRzY4NWR6U3gtUUhHY0VDWi1COWpSaUJJd0lzMTM1bW5hbWFOVEVXUjBNd1ZWdHNES3hVYURVamxXS0dzZng3Q1pCVlEwbVQ4cGdXNDlvMVBtRXNwakt6V2VGMUlmeUhFV0ZXS1Q?oc=5",
+   "fecha": "2026-07-31T07:00:00.000Z",
+   "fuente": "laopinion.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos: el alcantarillado de Nueva Colonia, en Turbo, lo bueno y lo malo de este mecanismo que piden no dejar en el olvido",
+   "url": "https://www.semana.com/nacion/medellin/articulo/obras-por-impuestos-el-alcantarillado-de-nueva-colonia-en-turbo-lo-bueno-y-lo-malo-de-este-mecanismo-que-piden-no-dejar-en-el-olvido/202641/",
+   "fecha": "2026-07-24T18:42:00.000Z",
+   "fuente": "Semana",
+   "resumen": "SEMANA habló con Raúl Delgado Guerrero, el director de la Agencia de Renovación del Territorio, entidad encargada de ese mecanismo. Siga las noticias de SEMANA en Google Discover y manténgase ...",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos: la inversión privada materializada en desarrollo para los territorios más vulnerables",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVdUN3doTjBSWFZJUmx5UmpSV2V0NVl1Nzk2dTJjMmtHMGNrOGJVVmxhRUg2UnBENFlrNUxoWHFGd20zcWVURWo1V0ZoWG9qeHlxYWk1MXB5QzJMM21rd0dZMmhjRkVXT01kVUNTREVjTE9FaUlmQ3Z4aXZvN0d1M3l1aVl1TjRackpTM1pOYlFkUTNWeU5LMkZPQ0xvcDlERnFNQ1laaW9BLUQ2UzVzMjdqbTNCcFg0amdMY0ltcWF4aEVWendFX1pQdXXSAdIBQVVfeXFMT3JFWFoyQVJoNExwU3hXRkZCcDVZUUNZRHFSbElNZl9XSC00UkRXaDJBRW5jb2tTa2pBcGNaVDhGeVpYdWFlWVpUaWVseXc0ZWdjMGNwNldWeWwtbjAza0pHdlZpcFgzOHJiTVJvNmVFYW5iX20wbjNPNGRiTmluSWdPNE5rLVpvU2lvQ3VVaDAxWFVVN182d1p3bms4MjV3U2lkdG9TOVNZd1MyVmVEbVdPUmlGU29fWXM2azJYb2RxdFhrTDlmOUdNM2ZYbTZoS3RB?oc=5",
+   "fecha": "2026-07-22T07:00:00.000Z",
+   "fuente": "Valora Analitik",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Seguros Sura financió $2.500 millones en obras por impuestos en Antioquia",
+   "url": "https://www.larepublica.co/finanzas/seguros-sura-financio-2-500-millones-en-obras-por-impuestos-en-antioquia-4436522",
+   "fecha": "2026-07-15T11:33:00.000Z",
+   "fuente": "larepublica",
+   "resumen": "Más de 3.700 estudiantes de Antioquia recibirán más de 15.000 elementos de dotación para cuatro instituciones educativas del departamento. La labor será financiada por Seguros Sura, en cabeza de su ...",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobernador Andrés Julián reconoce a las empresas que impulsan el desarrollo de los territorios a través de Obras por Impuestos - OXI",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNY3YtakpmQTJwOWIwWFM0d0ZpLU5JT0RRbnhUaVJjTTVtVURSQ1Q1Rzlnbnh3Z3pLWmRSMkZCSW92Wm9INmFBVlkwbkRORkpBb1dRTEh4dW9MTlBlRVk1MG5aektlNzhfbU9KMXdCV0x0QWNuWUZjb1lSWGlrU3hpMk9uXzhjcjM1dEJNSjN2MDVBVUVKZFczNDlXZC1JNGNRcFduREIyTW1BcXdGRFRIY1Z5c0xnLXRsblphbzU2U0NmcXB4ZEhBQ0xKbU5sMjRiRDBnZ29HTEkwLUpzZ3gzcWJTSS1XMlJNR2Ftd3RjVm9aY0pjT2Z2b0d1cnl0d3lNMGlGNU13R0d0T3dVdC1pQWpxbw?oc=5",
+   "fecha": "2026-07-15T07:00:00.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Antioquia es el rey de las Obras por Impuestos: lleva 109 proyectos por más de $1,4 billones | El Colombiano",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNODhZX3lwV29fV0UyamNiRE8yNWtJME1HZ3VqM1VoZGtKUkJjelVlY2UtS1JFSmYzV19hVVQwQkVMd1ZZOW1DWFVUWmVQaFAwNGJkUTNmUDI4ZUZWWU9SOG9kb0NxcU9UanJoTGgzeGw3S1hnVmdzZXE4eVd6R21rTFVtMlUwM3hwbmJtYU1TcHFrXzFWQWN3UVVMRWlEOWFna2RPRjIxSG9PSEVyRUgzdWNxOVbSAboBQVVfeXFMUFhwY3VhOFZ4VXFOcDRUSXdOb3VzU0hSQ3hhTE5PWTIxckU1Ukg5OEh1c21heGliUmFkd29TZFJZTUtUZUF3c0c0ZTJ3X1pzdmhZbVlPYWRGRUcxWmZXU2M0OXVfTFE4bzd2WWdDN1h4RlI4UTJyOEVubDZscjE3WEtpeGFQTV9fYWNvaG9mRUpIYlVLenpkY1VUUlloWkNnSWRwVTZqdFpIQU1TdDFOUGp4RlJFRVRKbVFB?oc=5",
+   "fecha": "2026-06-27T07:00:00.000Z",
+   "fuente": "El Colombiano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobernador Andrés Julián anunció inversiones en acueductos rurales a través del mecanismo de Obras por Impuestos en Nechí",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRXRKWTBVaFgwblM3YjlweE9ra1FFV1Z2R2tXM3FaQTBETkZBY3VuMTFTSDl3ZUR3NW5YVl8zZTdYaldpd3JEUkp2NnhreXZYUm9HcUFiNV9zM3pZUXNjcUJMOU1fRlduSk1nVC1KMHhzSEoxQ2dzV0loY1MtcGo1eHBIUEJYZHl1VjI4UXQ3X3ppQzZZN1FCaHNKdm4tSWp2YTczU0puNFNWZE10UGFON2lJSG9YTkNBLWllNy1tUUN5OTQxYXNleGhETXhJY0IyTHFleEJWa3dyR3NZeURVMWp5bjFKX18zM3k2OGVBTkRsQXJfcDlUQUItMklaMnFQV1VMdmFhVQ?oc=5",
+   "fecha": "2026-06-26T07:00:00.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Antioquia lidera Obras por Impuestos en el país y Sociedad Hidroituango se convierte en el mayor aportante, ¿cuántos municipios se benefician?",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSXdYckVOMzlpNHJlS0NsV1JRYTBUZ3hGcUJiMXVuYzdDSXYxQl91dUQ2enhKX2ZPekVmTW12b2NtYVU2dUhfVjV0RTFUTmVGY0xEa1RENWxMRDE2QTYwRVViY3k0N3Jkd3R1Y2hTWGJQUXVaQ3ZCbXBHTlRWY3phQ3Y0eVU4dmU4UXBoTmpKMExXc1ZDZXlfZ3JFQTBQSE1QRVJxb3UxODZ2Qk1qSnhFMXZpeW5aX2tTUFBWZTRPdWhxbk1wS3FzVng2Qlh2STdBRi04OUNYMFRES3VtMEJDUldmVjNBTlZJUXI4aHU5YmR0SzlxaDhfVWlQZHB0MjAtSGg3WTA4SlpHTmJDeml2MXV30gGeAkFVX3lxTFBYYXdjWmJ5NmpvNEhpOTkwQlI2S1p3OXVnQWxoRW1NS1BrdmgxMFNUTnczVnh2ZDREMnJuNjVZcTlZaGEtc01sdnRCdFBxOHVTS3RxLTExUTZzRnV5S0ZXTlp1RjY0bUlBejJ5dzJuVUFHRFRrUmtuVzVOUEt2R3JOSGc3WktsZmd0amlQbkx0ck9zMW5jWU5iMkh2eGR2Qmg2QzNhTkRlVWhfNGRNTUR3bHVCQWF5ZEtxVFhSNWhwQXNNaDY2dDAyakE2Tnk3ck85S3ltNWFDX2VtY2NFMElfb1UxeU1nUmhiZWRYVzN6WnQ1RnVmZ0ppVkVfSEVoclk1QU9CTGh4eFJvWGt6WEZDaDg1TjJvNGFYVnlnZVE?oc=5",
+   "fecha": "2026-06-11T07:00:00.000Z",
+   "fuente": "Teleantioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Con 66 proyectos y un billón de pesos, Antioquia es líder en obras por impuestos en Colombia",
+   "url": "https://caracol.com.co/2026/06/11/con-66-proyectos-y-un-billon-de-pesos-antioquia-es-lider-en-obras-por-impuestos-en-colombia/",
+   "fecha": "2026-06-11T07:00:00.000Z",
+   "fuente": "Caracol Radio",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Antioquia lidera la financiación de proyectos mediante Obras por Impuestos; la Sociedad Hidroituango es la empresa que más aporta en el país",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTmRBVU5GRVozc3h0cjJnU24yUURJTnowcW95WWt5ZXhXaWlWM3BOMmNWWEhtaUFyckR3ZjhoUWNUcFBPSkpHa0I1a0JlakRYY2VkVGNsYVVxLWtGWVE5SHEtWUVtS3ZzYjFMTkhzLVpjS1VRZkNrel8wVXB2TERPVU92N3ZtQXM2VFF5X3dMSXJBekNpWWJpcGEwUW1lSVYwbmRpT1ZGMzVCQVhXLWNrdjJWeHRFcEpNZ0VyX2RwMHdTczktTk9ta01mUzhVdk40d0NUWGJ2cnFEY1ZKWW5CUlhOaFRiam5OSlpMbVVtZXEzbUJUcVJoZXR6Y1lmdVlHdldQNmZFcTF6ZE5PbGpkcm9YZ25hTTVUZEIzbHBFOA?oc=5",
+   "fecha": "2026-06-10T07:00:00.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Empresas del Grupo Empresarial Argos y 30 compañías aliadas ejecutarán 10 nuevos proyectos por más de COP 175.000 millones a través de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbkZZdmJIeFpRaGNfXzlJZER5UW9WcmUzblVBbFVIYTExNUJuWHBfcm9ER2k1V1NRVF81MEU1bURnZmVKMG9RZm16SFgyQkZWS3U4b1hIZ3VSbWdmeWIyVU9JVjhISGRyUEM3TkltVHVqNUxmNWZabk9lNGZNVWVEaEV4ZG4wODlGOWthaWdOMkx3a0tKSHQ2SzEyOW9QMFVBMEYteTNlTjNWSE9WNDlHLUxwZ2lNWDBnTmJISUZ3Q1pXdlNYYXpWSjRNaVdNUG9SY2pqLVZfNjZMS01lSzBZcjE1ZlFmeE1oTkVkY2dkZi10UWY4bWlCOGxwWEpCYUN6cjh3aWY1QXpNcDF1R1Q1czJvdnp0dTB3LVdj?oc=5",
+   "fecha": "2026-06-06T00:26:56.000Z",
+   "fuente": "Grupo Argos",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Grupo EPM destina más de 67.000 millones de pesos a 19 proyectos en Colombia mediante Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU3RJamVLR1RlS21nbkpEMnEtUXJZaG8wUzFDVWpNeWFtMXVSZURDMGVweHBrM2RtMzFRRG1tRDRkeThYVjFqOHBwNmVwWVhWNE4yanZob01fUGNyNUpBOUFWUzJsV2VDNkJqOUlfSFgtSnlFV0cxWXU5WGU4bTBFTV9SSzB4bHJVeGsyX1JVYTNJR0pkSnlPUUN6MzhfVnRuZ3d2amVCYlpzVHZsc01lczhWRVFmZDhZZlFXSlB4N1Z4Vkt3Y1cyVDRPVFpLVnBsVFUwYWdHVXA3OGNtOUxoWUNpdFRIdzR3eUMyMm9n?oc=5",
+   "fecha": "2026-05-29T07:00:00.000Z",
+   "fuente": "La Nota Económica",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Tres proyectos de Obras por Impuestos en Antioquia liderados por siete empresas alcanzan el 90 % de avance",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmZxZWxJYVg2aEo5MUpaSGxDRlZWUDEtZ25LREdZU1BibEhVYS03dXRHVGkzU1o5MFJrRy1HY1k0NDBPbklsdDQyc3JMblhSd0pVMno5Y0JwVmdLUDJleHJ4VWx6aENBcWZVcHVGRUNodVVqMDBwSHR5dksxMHc1QXRtS2RpcE9LelZ1UXd3dU1tV0ZBb1gyTnNLTGc2S1FoTWVYM210Y2wtOHQ0VFlhcjF4bVNuLUlpWFhzTnhRU1R3QmQtNFlJODZkQm50MHI3dXY1cUdiVWQ?oc=5",
+   "fecha": "2026-05-22T17:00:00.000Z",
+   "fuente": "Grupo Argos",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Con ‘Obras por Impuestos’ alrededor de 100 mil estudiantes de Antioquia se beneficiarán con mobiliario escolar",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYzZWbVJQUHJvajZXRkdCZ3RDZm5wZDU4WG51ZWtUb3dLNWd6MnpyWkxCZVlTS3hNOGc3T0RHMTNURVRrUWRieV8wUnE2S0JuU2ZuQTViREVHMHhxVUQ3anVnX3RlM1JNZEtLaVYwYlQ0UGY2TmxtRGxscFhYNE9SZlkxQXJieWlBY0JYNnpFOFRBcHNZV0NYR01adks3QmRxTzFIZ2g4R1J1dkxsQWJra2VTSEt6dldDb2R1Vm1XLVJsZjFrcXY0Qmp2TDNxckNMYUJiLW5FQTJPcFJ2RnVmamVZWl9JYXBZSHJydTBJVlpsU0t1cEFhTDlheE42d1FndUVWdkZR?oc=5",
+   "fecha": "2026-05-22T16:25:19.000Z",
+   "fuente": "Ministerio de Educación Nacional",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos en Antioquia: tres proyectos liderados por siete empresas ya tienen 90 % de avance | El Colombiano",
+   "url": "https://www.elcolombiano.com/negocios/obras-por-impuestos-antioquia-proyectos-dabeiba-ituango-90-avance-OI36851197",
+   "fecha": "2026-05-22T07:00:00.000Z",
+   "fuente": "El Colombiano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Antioquia es líder en Obras por Impuestos en la opción fiducia",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOelR6dTB3cGd1cjFIRmxBM3FFemNkLUlabnZtRFdCcEhINU1wZFNFQWtacXo5RGFROVZDbFVuelp0QUI1dVRjZG1NVmhxb1daV3NwUFRlMFQ2NFNHSl9XR3BuUEpBQU5yUFhhMmNIZjUwUW1oZWZWUEx0WThmbUFfRmFYZF8tdU5HRkJEZDQ4elRZbDAzUElqb3d6aFVhNVN4RFRCMWhaTmtROFlfODVfVzdtM21IbWxia0xnMHBUMlladG94ZWpwa0prX0ZVbGtrM3dTMGMxNA?oc=5",
+   "fecha": "2026-05-21T00:06:42.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Norte de Santander avanza en proyectos estratégicos mediante obras por impuestos",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGZRVDZTSS0zWk5IMFdGUzdKaVdxajBRaEFJOFJFVHg2N0lyXzlUMklNa0ZxM2NJNFh5dlFtbnVvejVrdXRUY245TDM3djFXVFgwT3JMX3N2b0EzVVZHejBBZ3o4aGl6TXF0VDhiRWZjSEZMYU9OdmtqSVIzZHVmZG13VXVVNTF3aFNId3NLTlhod0FGTUxMakpYRWF6c2trN3h5MUVubVplOVVDbzdlbFJ4UVV3OVZIdWxJWjJSem9oQUJsUVE?oc=5",
+   "fecha": "2026-05-05T07:00:00.000Z",
+   "fuente": "Gobernación de Norte de Santander",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Risaralda viabiliza proyecto por $34.706 millones para la reconstrucción de la vía Mistrató–Belén de Umbría a través de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONWxvdGFBU09IalRodXloYUpEa0Z5clJINUJYMjZvQW52V3lTQ2dCT2hwY2lSekdqRURuRmNuUnJHOEE0VExNNFhUeXU2TFBrcExnR0hTMlpXT3J1Y0NGQWp0ZllUd2RWcFh3azFqRTI4Nk1meWl4dUxvbFo4cEV2dEVpcUZqQjhNOXRKcm81N0IzVzc4THk1Y3FsWFFacnFhMUg0SXZfbjRleXU5NThXdWNyQ2lYUkJRLWhzdjJpbldxVjFLd0YzQkx5Q0tBcHhmNHJQbWdadXJ4VmxaSll4Q3RWdVd6Z1Z3V1dZWW42WkdjZlg0dldWU2tjVnpBeGhCdWV2UUhLOGVLZGdyR2diOHpkUFF5UQ?oc=5",
+   "fecha": "2026-05-01T07:00:00.000Z",
+   "fuente": "Gobernación de Risaralda",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Ya son 37 las empresas que financiarán proyectos en Antioquia con obras por impuestos en 2026 | El Colombiano",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDZ6T29sUUx0OXlkY3o0b0FrWm01Nkx0N2pXaVZzVkN3eTh2LTFHMHUtamlpSURDek13aFp2WEdlMlpKTGFvUmVrTFVhU2RQVldMTWNObWxBVkRtNHhqUm9tVjZxcTlqVmV2REFkN29XX1NoYjZGLTh2TGduTmNubTY4cUFNQ20tUW1fWEFUWWdJX203N0lUYW1HLW_SAaIBQVVfeXFMTkUxWVg5UUdSSlBUMGhWVUJCRzNHSHVmakF4MEdYU2kwVTJCTnd1WnhqYjVGX3hGMFNfXzlIUEN2QWNkMnQzRXkyRXU5S0doRXdfdTdhNjB3ai16QWc4UGNnYm5jVVNKSUdmckFtTEhld3YzZHEybkFjdFhPVGdUMHBTOUNMNEdEMVlvMlM2SThRZlV1dk9PZGFLM1doUmlJelp3?oc=5",
+   "fecha": "2026-04-09T07:00:00.000Z",
+   "fuente": "El Colombiano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Hidroituango invierte más de $71 mil millones en obras por impuestos en 2026",
+   "url": "https://caracol.com.co/2026/04/09/hidroituango-invierte-mas-de-71-mil-millones-en-obras-por-impuestos-en-2026/",
+   "fecha": "2026-04-09T07:00:00.000Z",
+   "fuente": "Caracol Radio",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "37 empresas se vincularon para financiar proyectos mediante el mecanismo de obras por impuestos en Antioquia.",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3k5VC14NUlRVTNkYXdmeGVXT010MmRFR3pMaE02U2o5dXM0V0x1aU0tc2tteks5d29PbzdlWE9sdk56OENLaFVQTWVHSEZQcWZlOEFYQkZaUDdXOG1ZRkU4eDBzX2xpM09sTVc0M1BSR19iaFFIZ0k5OHZCUGE5Mk5LUVFPR1ZkU3hGVGY2TEQxYnVhbUd2YlF3NVBETnY5NHVwN2xKV29YeFFzcVZIOVVZaVkydENuR1VEYUVmQmVwS2s2V2JJNUREaXdxUDFiVG45cnlTUnFOSDU4dWZiVy1Eb3AyakY3M1BUeERsOEF3WnZiZ0E?oc=5",
+   "fecha": "2026-04-08T07:00:00.000Z",
+   "fuente": "Gobernación de Antioquia",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por Impuestos: nuevo reglamento impulsa más inversiones",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjBFT3JXTkhsUlNkblVrU2U4eUkzd1A3SzlUYVZIQjFsOHB3SEFERl9Ba2l4SzFMYm9FT09MdHZqcGpCRE5pZFZ1UTY3Z2tIU0JaMW5nZ0tydDhWT01weGRUMFBZMnYweFlxb2UtNFBZbnBXcFowVDA3OGVtUnFXczZUNVVrcV9hVFZJQ01WVWlkMU92NFFmbTBPVHA3S1VIektUbFIxVQ?oc=5",
+   "fecha": "2026-03-16T07:00:00.000Z",
+   "fuente": "Rumbo Minero",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Nuevo reglamento para fortalecer OxI busca reactivar 12,000 proyectos con trabas",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGhaa1ZfYlpzdl8xbXAyeXRXMzVxUE55ZERpdExOaVB3Sm9BdXJ3dHNiNzU2aFRUMGptOXptejBmNmNLSUpMb0tIaVp6dTdRVzd1ZUtuUFl5MXJMeWhnVVBNYllNdXhzdW5BNlQ3SGRzcXBLMmIwN1gwMHU2OVZOUElfN2pEYjF2Nk5ZZ2JOdGwyRlM3Y3hLSmRaeGI4QTlSSkcyS1ZjcVRVNGN4cDlWZw?oc=5",
+   "fecha": "2026-03-15T07:00:00.000Z",
+   "fuente": "Gestión",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Grupo Réditos apuesta por la niñez antioqueña mediante Obras por Impuestos | El Colombiano",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUIyRmVZZjhGaF9kTUh1bW9CMC1RQlJvQkVINlhjQVhDdldIeUtLb2l4Yi00eEx1U1pLNktGWk9BSG9LM0VVLXZMYVQxanVtenpPTmloRjdzdVJMNWd5a0F6M2FsVmVWTVFpUV9WWHZCLXV6dWxRbzhyZWc1RFloaFdVY2w3SGFTRzJ4QlZjOXRxdjk4dGxNbEJmWkxZUWZJSm1lUHhiTzU2bGpxcElRQ05JVHhKWW9UOE9MOXMzUjIwOWhHVnZUbtIBzgFBVV95cUxPSFNOQVlTX3VwN2tiREJGeVBRTFg1ZWpXdldNU1NhNUUxdGphYWU5WDhTQmhmaU51MDVpUmlvUERTMU1NTEVVV1hfelhMOVdrOWZWdGZRYzA5WkJ4a212TlBVNkU4MW9GUjRhbldjazY0VXhGMFNkbGZXaUNZZzJYN2duT0ZjU3luclB2MlZJajVERTdzaUdGd3A1TVBybXYzU0QtRXhzVm1XWWJ4UTlzUGUwQ2xrZWo2U1V5anlJS0VBaWR3a0I2OFN3NVh2Zw?oc=5",
+   "fecha": "2026-03-05T08:00:00.000Z",
+   "fuente": "El Colombiano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "¡Obras son amores! Y en Educación “Obras por impuestos”, una demostración de amor por los niños del territorio, más de 13 mil millones en dotaciones para municipios de Antioquia",
+   "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPVmZfeUVhOXp6M1dnTm16SGd6QUJ4czR2TlBVZU9xc2FqLXRlRk03TDUxV2tIajlWQm1LX0xtYWk1clNyUzNNV1FCMTlDLXptRHExaHk3RkJ4SGluWUcxc2drV3VDeFdKb2Z6YjgtVEhHYjlHX0ZrTXFtX3NzRWVZcFd3YWNVN3BpNnl0NUlDSjFzdnpvNTd0alRlbGRvRHJQYkpXM3JlT1pDMUlZc2dmWVQ2S3pfbUVsTi0wQnJrRWMwUXZLZG5JTDVPbV9hWnRIUmZKQXZ4NElUYmxPMmJHWkIzTUJMZmtLdHJTTTJfTjR5TVU1Y00tdUpOd1FXdWplZlpzU2tCeEl4ODJRaDRkQjkxdmVrcmktZlVHX0ZCUUw5elhJZmxFOUtQQW5NUW9IVHdNbHVscklGRGxySFo0SXBpQUVXZHRKeFowemFlTEpsVGRMaF9BZFI2Ynk?oc=5",
+   "fecha": "2026-02-20T08:00:00.000Z",
+   "fuente": "Ministerio de Educación Nacional",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Los contribuyentes de Bogotá podrán aplicar al mecanismo de Obras por Impuestos por medio de fiducias",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaGxXby1zMS1UUzI5MGxrZEd3dmtrRHdQSkNVaHhjbVJOVVRJMTVmRE5jTUItdHZXSUVEQlBEeVZiX0I2aU9oU1oxQUhyWmNMd2VnVHNTQkduQ25PN3RBSkJKT3lpUjBBeHJYdHdCbVdwR1VHdkZqaHJkMGFMX1UtTXUzTkVuNEdYNThNelc2bFJzQUdyWGFDel9LOWdPQzlLZkdRemhCRjk4aFEzTHBsSlJabjQ0STVzNldvT3pWUk1mUFo4aVFxZEJnemFWMG9BYXQ4ZzBkZTk5UWdKdlNta2xRazlDVnZ4WEhVbGdCN1daUUhoVFU4S211eEN6NnlTenpwV2E5UUg?oc=5",
+   "fecha": "2026-02-19T08:00:00.000Z",
+   "fuente": "Instituto Nacional de Contadores Públicos",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Antioquia volvió a ser la “campeona” en proyectos de obras por impuestos, ¿cuáles sectores se verán beneficiados? | El Colombiano",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVlfcEZybldERThzVVYyQkRGaDh5TS1obmtfc1lUbHdndE1YRHdoOENjMDMya2ZtTW1PVjN3UVZSd0VaSXRxYVQ1NU5oa2JLdDdhRXduZmhqd2dkTFVETGJNdHkzQ0RmTVJLQ3JoN0ZCYVZMZDZ0eXZXVW1DNjkzZ0ZIUFRySnFaQngtSXg2dEFrZ2NSNVdNR05R0gGfAUFVX3lxTE9hXzktRHNVMjBZMGgtRm8xY3JIcnUyNTNuTGRiU2VCMi02cGNQak15NXhCU2FpYWxnSEVJb19pNFNVYUdKWDI1WW9PTk5lek1DV2RfWHZKMzBJWk9zc052eGhZdWFHaDBESEFKdldjU0JhQ2xMTzIzc2p2Nk5PMWFEa3VTd1VoMEpQX1JYR0M0TFl1anBfY2w5UVlDelppRQ?oc=5",
+   "fecha": "2026-02-18T08:00:00.000Z",
+   "fuente": "El Colombiano",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Nueva modalidad fiduciaria permitirá ejecutar Obras por Impuestos en Bogotá",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWVhIX0V0ZDlha3dZNmttMUFxMUtSNjdJMXRwQWhXdnlCcnZNRnplVWZVYjJ5Q1NIeFE1czhWZGpDOWk5X2UtV09wdkR1bHRpci1TYjl5TVlIVk81Z19xd1o2cTI2TTJrZnNoYWZqRU1hR3RLU0JNVnlWbWt1Ung5OXkzZ283VG1teUhmeGx6TEZiWEo4dGQ2eGRac1dpdUJYWWczbW5n?oc=5",
+   "fecha": "2026-02-17T08:00:00.000Z",
+   "fuente": "Bogota.gov.co",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Bogotá reglamenta Obras por Impuestos en modalidad de fiducia",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWJaenNFeVNjTUNLUldZdm9LakpQeWlQaHc1cVBSNDVKSnJ0QWNFN3laaThLc2ZpSV9sSFJGQWdaTjBHQThIS2FyX2hqd3VvbVhTdGxrWUt4cmlCcTJRR1lZeDZFZkdxQmU4OWlvalAxUzJUaEJlS1JBNFlLQ2JFRTdva1k3LWlKaUlOTnptNGMzRXA3b1hoMmJwQnBpcHR2R09UOVZPX2NodEE?oc=5",
+   "fecha": "2026-02-13T08:00:00.000Z",
+   "fuente": "Secretaria Distrital de Hacienda",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Gobierno Petro aprueba cupo de Obras por Impuestos para la vigencia 2026",
+   "url": "https://www.semana.com/nacion/articulo/gobierno-petro-aprueba-cupo-de-obras-por-impuestos-para-la-vigencia-2026/202637/",
+   "fecha": "2026-02-03T08:00:00.000Z",
+   "fuente": "Revista Semana",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Obras por impuestos: Gobierno Petro fijó el cupo al que podrán aspirar las empresas para 2026",
+   "url": "https://www.portafolio.co/economia/regiones/obras-por-impuestos-gobierno-petro-fijo-el-cupo-al-que-podran-aspirar-las-empresas-para-487480",
+   "fecha": "2026-02-02T08:00:00.000Z",
+   "fuente": "Portafolio.co",
+   "resumen": "",
+   "imagen": null
+  }
+ ]
 }
