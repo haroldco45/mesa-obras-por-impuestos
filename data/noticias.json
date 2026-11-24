@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-24T12:51:00.634Z",
+ "actualizado": "2026-11-24T22:57:53.919Z",
  "noticias": [
+  {
+   "titulo": "Grupo Flesan culmina con éxito programa de especialización en Obras por Impuestos (OxI) para seguir impulsando infraestructura de alto impacto",
+   "url": "https://www.revistaeconomia.com/grupo-flesan-culmina-con-exito-programa-de-especializacion-en-obras-por-impuestos-oxi-para-seguir-impulsando-infraestructura-de-alto-impacto/",
+   "fecha": "2026-11-24T20:19:32.000Z",
+   "fuente": "Revista Economía",
+   "resumen": "",
+   "imagen": "http://www.bing.com/th?id=ONUT.B1HdZtaEzUHVVHtyqwkx1Q&pid=News"
+  },
   {
    "titulo": "Isagen se sumó a 11 nuevos proyectos de Obras por Impuestos",
    "url": "https://mioriente.com/antioquia/isagen-11-obras-impuestos-antioquia/",
@@ -438,6 +446,14 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUd4MnRQeVAtVkdvYTJKYnBucHB3dlhYZnl2cEFFQXFnU3BYX2oxVGZ5a1NGWm92SzBnM1NUd2p0Q3VCTTFJRTNaSEFmTmo0Y2lISV9JZlFVeXB6REtLR1hIa3h2SURuRHlWTWdFaFdRcGRkRm9GNXBzREIwNDZPbQ?oc=5",
    "fecha": "2026-09-19T07:00:00.000Z",
    "fuente": "MiOriente",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "El sector empresarial del Oriente se prepara para una nueva Mesa de Obras por Impuestos",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTNWak0xR1hpLXFWNlQwU3hKaG5RcDNGeHc2S3ZYclRUSVhLN1ZwWm9iMWdtUDJLWWIyeWJLRjl6VWJhY2YtUWRiNTE0cTYxUUJIQk8xaTRMZm5TUUszQlRSZmd1RHpuYXNUeWdHNERSZHY1ZVlOOC1RRkw5S1dMNXV4VjJpd2FQZi15QktCTFlWWVYydms0eUE0LURrQ0p3TXVOLUVTTUJkNU80NklYUUVZMmYzcFdwRHZQUTVKREVWcHktZTZrS2tXOUc?oc=5",
+   "fecha": "2026-09-18T07:00:00.000Z",
+   "fuente": "La Prensa Oriente",
    "resumen": "",
    "imagen": null
   },
@@ -942,22 +958,6 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmwxU19PeXFYRTB1Wi1CX0RET0xxVm1JTU9NQzM0TlhleTRDUExOcGR0Vzd2aTU1VXVtaHJNZDNzVUM2Tk44aVRVTm04YUxmUkJLMXpLSzBGZ2RvSk5aUFYzcGxTVF9naUF0dEZoRjJRWXh4NlR0aGdvSTYzYXQ5S3RMT3pkQlBsOXlIc05Eb2d5bFZJdjk1dURUYmozZGNkc3h3WXBiWmc4a2hDV1Nsc05uUQ?oc=5",
    "fecha": "2026-08-14T07:00:00.000Z",
    "fuente": "elnorte.com.co",
-   "resumen": "",
-   "imagen": null
-  },
-  {
-   "titulo": "Obras por impuestos: la fórmula que aceleraría la reconstrucción tras el sismo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0R2dk5RMThja1p1Y3ZBcFMySXhYZE5jX2hLVWFkbnJpWFVCWVMzMXdKZEdmYmwxdEc0MWxpN2JyVmpITVQtUExEU1N3d2lmclV2MGp2NnM1OEFTV0xGVFJVdURUcC11LXZuUkRBbVNlVnExT3loaU93SURndTEzcnVnWS1QVGRPWElfOFVVX0U1cklVb1RoTk5tYlFqLWxRT2xJVHNiTjY5dkhOQkI0YjRlZ2NVSGpnV01VMEt6MDJ4Ums?oc=5",
-   "fecha": "2026-08-14T07:00:00.000Z",
-   "fuente": "Vanguardia",
-   "resumen": "",
-   "imagen": null
-  },
-  {
-   "titulo": "Obras por impuestos: este sería el plan del Gobierno para la reconstrucción tras terremoto",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDJhSWJtUXdKbDRwbVpxNnAtc2JMcXdOM3VGaU9lTVFQSGV6U0pydEN3cW1WM1JnN3VDWmk3Nkg0U3FaS3VlS2wtWWJqd1E5QzVuT3Y2TndMNmUzREhHcjJUcXNXT2xxV2x5blFXajB5N0h2NXdrSDZJazJQZm1CY2lBSDhza0hjZDRtalpVS2ZaeDE3LVFHWEMzQndwOVp1M0ZIdlVjSWlZSDZzUHVsR1hQRHdic3ZMeFdtTFFhZ0Rkengy0gHSAUFVX3lxTE1jLVhydFYtSEQ2UkFBUV9CUkY4UzlXZzJrMnlOZGR5NU1pZHNJTFF3T0NQRHUwQ0liVlplR0g2eVBQVXlBaVptRHlPWFkwZTNXeThOLWJoa3U2SndHMkpHMEFhVmRmVENsMTVnZDBDS0ZNdkJqWDBPN1U1bHBnUkRqLVFIUVJNVWNxSE5kSENTcmk4OWloU1FSamZ6T2RqaWhySF9NSlFtSUVvUUZwWlJNODhZMVpTWFMtcTdqQWVyRXNkMW9jLUdrdDZMWXB6d1JOQQ?oc=5",
-   "fecha": "2026-08-14T07:00:00.000Z",
-   "fuente": "Blu Radio",
    "resumen": "",
    "imagen": null
   }
