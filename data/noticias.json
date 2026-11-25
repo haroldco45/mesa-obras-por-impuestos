@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T22:57:53.919Z",
+ "actualizado": "2026-11-25T05:23:05.726Z",
  "noticias": [
   {
    "titulo": "Grupo Flesan culmina con éxito programa de especialización en Obras por Impuestos (OxI) para seguir impulsando infraestructura de alto impacto",
@@ -8,6 +8,14 @@
    "fuente": "Revista Economía",
    "resumen": "",
    "imagen": "http://www.bing.com/th?id=ONUT.B1HdZtaEzUHVVHtyqwkx1Q&pid=News"
+  },
+  {
+   "titulo": "Grupo Argos movilizó $787.766 millones para Obras por Impuestos: Antioquia se llevó la mayor tajada",
+   "url": "https://www.elcolombiano.com/negocios/grupo-argos-60-empresas-787766-millones-obras-impuestos-antioquia-JB44018076",
+   "fecha": "2026-11-24T15:47:00.000Z",
+   "fuente": "El Colombiano",
+   "resumen": "Grupo Argos movilizó $787.766 millones desde 2017 a través del mecanismo de Obras por Impuestos, con el que se financiaron 50 proyectos de ...",
+   "imagen": "http://www.bing.com/th?id=ONUT.-IGunzz29mEWs4oqnnlbaA&pid=News"
   },
   {
    "titulo": "Isagen se sumó a 11 nuevos proyectos de Obras por Impuestos",
@@ -158,6 +166,14 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjhBWk5uMEFjMm1FZjBMbGRST3ZsX00yb05jV1FPRU9fVFZNaDlVMGwzbldCOFpvUG41NlBHWDd1b0IzcGwzVnFhMVN3OUZESEVhWUNoeU9xYmxHQ0NLVlZkcEwwRG9nOTctYmVzUEdyd3lMck9wUHRKRDlMcS1uVFhxa3ZzZlJIdnFxLVFqbUpQMWlQSDFCVjhmaFlWeDBJbHVHY0MtcGlkUQ?oc=5",
    "fecha": "2026-11-11T19:18:33.000Z",
    "fuente": "La Prensa Oriente",
+   "resumen": "",
+   "imagen": null
+  },
+  {
+   "titulo": "Sector logístico propone obras por impuestos para red vial ante El Niño",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHlhZTJZUlAzcXdyRjg4Qi1QUWNVZ3hybl9TX1NGRk1FUGQwcFFQY1dwd1llVzZvOTBNTkRvNDdscXZDUC1DQjZwR1FfRlpGT1V3WmU5NXd2ZS1mcXdScVhXX3B0amx0ZXY1RHFrZmJoTGlwbXY2V1FsX1AwT1dtdnltZVJ3NFEwazFoemEyWUxJYl82ZDVDTlc2aWVhT3ptWkwyV2ZVQXNNYzdLY1E?oc=5",
+   "fecha": "2026-11-11T18:04:06.000Z",
+   "fuente": "Panorama Ecuador",
    "resumen": "",
    "imagen": null
   },
@@ -942,22 +958,6 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzNiMXhSRmdtcGdyQWVEVHlxUkZqMXEtbXJ0bWs4MkR3bURjbERoWGRKOFo0TjdzSVdHNFNKSm52UXF3VlowZUdDSkdiMDNSUml4TnNQNTBxMktjNDhZc2xLWFh3em95TE4wS3lpeDUtak1BV1YtcWI1XzBZZmZyako4bEx6alh2U0ptZE95bFpMUWxXenlZdkJ3dlFvZ2ZzeFlfTTZRTExzaWxQdVBvWUNYal9yel9nb1HSAb8BQVVfeXFMT2l4MXY4amRHTmJxUHhrT0k5WHhNMU9PSlEyODh3Z2FqZnNwOVVTMGpIYmZsMmdsZUdyWHFEU2ZzWnZMUjllWFNrbEJILVFfaDZDQzJpOUFoSjNqMlNiYmVmczcwTFFJOC1aSXRxOFhVNkNaVnVybXZCLWxGNkhWeDNZMjh5Mm5yWDhWN1pHNnN1R1RRUXFNM3ZYOHNyb3l4dXBDNzVpLTBBTTlXelpKNV9jTEFMU1ZvNHJhYnVYWDA?oc=5",
    "fecha": "2026-08-14T07:00:00.000Z",
    "fuente": "El Colombiano",
-   "resumen": "",
-   "imagen": null
-  },
-  {
-   "titulo": "Gobierno busca que empresas participen en la reconstrucción de las zonas afectadas mediante Obras por Impuestos",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQzRZa1ZTQkZlLVNuRlVaTU1HTU0yTktfWXVFTk1lUEVLQmQ3TTBGaDZUV2V2cFdYOWkzOWswVU9yTnZjeDdzeGtLVVN1QlBkM1NSNlRpMGphaktmWjFnRDQ5bEYwWHl5MGV0UEk3WE1ZVHpMaEZOM2wybXJKS1VyLUdreXl4SlQ3aUduY0QzS0N2eUM3cTVHOEwtMGlMWHNBQXhVYXVIN3ZPUHhXY3pMX2MxWDViSGQtRWZUT0RrYlEwTzdZOExDMFQwOUVIMlFpNjFraXR3WjRWb3p4UXFxUmc4YUhZeTd5aUhBTdIB8gFBVV95cUxOQUxoblIzaFpjNjJQcXgtNVczd0p4bWR5Wm1jNVQwT0tYeFdkNmlLQTMybU1TOUdmR1dJLTc3dTljQzNBRUxBX0lEUjhMMUM0UG5aNDNicGROckpTaFdJQmZ0VVZ4Q1dkYXlPMEFrenNmMmt6cUIyVV84WTVOUlRxYWJPT3dFb3Y0ckdNQTQ2M08ya0NkSGNKSmdGT2R3ckZ1Q2NvbW1yMzRXMGlBelVVamluMVZ3d1VIMjRnMlU3THlUeUNYVlB6a1dYekRWbEZhWVpiaEtqOFdqd2JoN1c5YkdsQlFWdWVnNVBfblVOS3U4UQ?oc=5",
-   "fecha": "2026-08-14T07:00:00.000Z",
-   "fuente": "El País",
-   "resumen": "",
-   "imagen": null
-  },
-  {
-   "titulo": "La propuesta para reformar “Obras por Impuestos” y agilizar la reconstrucción tras el sismo",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmwxU19PeXFYRTB1Wi1CX0RET0xxVm1JTU9NQzM0TlhleTRDUExOcGR0Vzd2aTU1VXVtaHJNZDNzVUM2Tk44aVRVTm04YUxmUkJLMXpLSzBGZ2RvSk5aUFYzcGxTVF9naUF0dEZoRjJRWXh4NlR0aGdvSTYzYXQ5S3RMT3pkQlBsOXlIc05Eb2d5bFZJdjk1dURUYmozZGNkc3h3WXBiWmc4a2hDV1Nsc05uUQ?oc=5",
-   "fecha": "2026-08-14T07:00:00.000Z",
-   "fuente": "elnorte.com.co",
    "resumen": "",
    "imagen": null
   }
